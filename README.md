@@ -2,7 +2,7 @@
  * @Author: fzy
  * @Date: 2020-03-09 21:53:10
  * @LastEditors: Zhenying
- * @LastEditTime: 2020-03-20 15:47:00
+ * @LastEditTime: 2020-03-20 16:02:20
  * @Description: 
  -->
 # Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation
@@ -10,7 +10,19 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 
 -----
 **Contents**
-[TOC]
+<!-- TOC -->
+- [Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation](#awesome-temporal-action-detection-temporal-action-proposal-generation)
+- [**Papers: Temporal Action Proposal Generation**](#papers-temporal-action-proposal-generation)
+  - [2020](#2020)
+  - [2019](#2019)
+  - [2018](#2018)
+  - [2017](#2017)
+  - [before](#before)
+- [**Papers: Temporal Action Detection**](#papers-temporal-action-detection)
+  - [2020](#2020-1)
+  - [2019](#2019-1)
+  - [2018](#2018-1)
+
 
 -----
 # **Papers: Temporal Action Proposal Generation**
