@@ -2,7 +2,7 @@
  * @Author: fzy
  * @Date: 2020-03-09 21:53:10
  * @LastEditors: Zhenying
- * @LastEditTime: 2020-03-20 16:02:20
+ * @LastEditTime: 2020-04-09 11:42:01
  * @Description: 
  -->
 # Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation
@@ -22,6 +22,10 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
   - [2020](#2020-1)
   - [2019](#2019-1)
   - [2018](#2018-1)
+  - [2017](#2017-1)
+  - [before](#before-1)
+- [**Papers: Weakly Supervised Temporal Action Detection**](#papers-weakly-supervised-temporal-action-detection)
+  - [2020](#2020-2)
 
 
 -----
@@ -89,4 +93,35 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 
 ## 2018
 
-- 
+- (ETP) **Precise Temporal Action Localization by Evolving Temporal Proposals** (ICMR 2018) [paper](https://arxiv.org/abs/1804.04803)
+- (Action Search) **Action Search: Spotting Actions in Videos and Its Application to Temporal Action Localization** (ECCV 2018) [paper](https://arxiv.org/abs/1706.04269) [code.TensorFlow](https://github.com/HumamAlwassel/action-search)
+- (TAL-Net) **Rethinking the Faster R-CNN Architecture for Temporal Action Localization** (CVPR 2018) [paper](https://arxiv.org/abs/1804.07667)
+- **One-shot Action Localization by Learning Sequence Matching Network** (CVPR 2018) [paper](http://www.porikli.com/mysite/pdfs/porikli%202018%20-%20One-shot%20action%20localization%20by%20learning%20sequence%20matching%20network.pdf)
+- **Temporal Action Detection by Joint Identification-Verification** (arxiv 2018) [paper](https://arxiv.org/abs/1810.08375)
+- (TPC) **Exploring Temporal Preservation Networks for Precise Temporal Action Localization** (AAAI 2018) [paper](https://arxiv.org/abs/1708.03280)
+- (SAP) **A Self-Adaptive Proposal Model for Temporal Action Detection based on Reinforcement Learning** (AAAI 2018) [paper](https://arxiv.org/abs/1706.07251) [code.Torch](https://github.com/hjjpku/Action_Detection_DQN)
+
+## 2017
+
+- (TCN) **Temporal Context Network for Activity Localization in Videos** (ICCV 2017) [paper](https://arxiv.org/abs/1708.02349) [code.caffe](https://github.com/vdavid70619/TCN)
+- (SSN) **Temporal Action Detection with Structured Segment Networks** (ICCV 2017) [paper](https://arxiv.org/abs/1704.06228) [code.PyTorch](https://github.com/yjxiong/action-detection)
+- (R-C3D) **R-C3D: Region Convolutional 3D Network for Temporal Activity Detection** (ICCV 2017) [paper](https://arxiv.org/abs/1703.07814) [code.caffe](https://github.com/VisionLearningGroup/R-C3D) [code.PyTorch](https://github.com/sunnyxiaohu/R-C3D.pytorch)
+- (TCNs) **Temporal Convolutional Networks for Action Segmentation and Detection** (CVPR 2017) [paper](https://arxiv.org/abs/1611.05267) [code.TensorFlow](https://github.com/colincsl/TemporalConvolutionalNetworks)
+- (SMS) **Temporal Action Localization by Structured Maximal Sums** (CVPR 2017) [paper](https://arxiv.org/abs/1704.04671) [code](https://github.com/shallowyuan/struct-max-sum)
+- (SCC) **SCC: Semantic Context Cascade for Efficient Action Detection** (CVPR 2017) [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Heilbron_SCC_Semantic_Context_CVPR_2017_paper.pdf)
+- (CDC) **CDC: Convolutional-De-Convolutional Networks for Precise Temporal Action Localization in Untrimmed Videos** (CVPR 2017) [paper](https://arxiv.org/abs/1703.01515) [code](https://bitbucket.org/columbiadvmm/cdc/src/master/) [project](http://www.ee.columbia.edu/ln/dvmm/researchProjects/cdc/cdc.html)
+- (SS-TAD) **End-to-End, Single-Stream Temporal ActionDetection in Untrimmed Videos** (BMVC 2017) [paper](http://vision.stanford.edu/pdf/buch2017bmvc.pdf) [code.PyTorch](https://github.com/shyamal-b/ss-tad/)
+- (CBR) **Cascaded Boundary Regression for Temporal Action Detection** (BMVC 2017) [paper](https://arxiv.org/abs/1705.01180) [code.TensorFlow](https://github.com/jiyanggao/CBR)
+- (SSAD) **Single Shot Temporal Action Detection** (ACM MM 2017) [paper](https://arxiv.org/abs/1710.06236)
+
+## before
+
+- (PSDF) **Temporal Action Localization with Pyramid of Score Distribution Features** (CVPR 2016) [paper](https://www.zpascal.net/cvpr2016/Yuan_Temporal_Action_Localization_CVPR_2016_paper.pdf)
+- **Temporal Action Detection using a Statistical Language Model** (CVPR 2016) [paper](https://www.zpascal.net/cvpr2016/Richard_Temporal_Action_Detection_CVPR_2016_paper.pdf) [code](https://github.com/alexanderrichard/squirrel)
+- (S-CNN) **Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs** (CVPR 2016) [paper](https://arxiv.org/abs/1601.02129) [code](https://github.com/zhengshou/scnn/) [project](http://www.ee.columbia.edu/ln/dvmm/researchProjects/cdc/scnn.html)
+- **End-to-end Learning of Action Detection from Frame Glimpses in Videos** (CVPR 2016) [paper](https://arxiv.org/abs/1511.06984) [code](https://github.com/syyeung/frameglimpses)
+
+----
+# **Papers: Weakly Supervised Temporal Action Detection**
+
+## 2020
