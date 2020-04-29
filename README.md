@@ -2,7 +2,7 @@
  * @Author: fzy
  * @Date: 2020-03-09 21:53:10
  * @LastEditors: Zhenying
- * @LastEditTime: 2020-04-09 11:42:01
+ * @LastEditTime: 2020-04-30 00:12:30
  * @Description: 
  -->
 # Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation
@@ -70,11 +70,13 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 
 ## 2020
 
+- (PBRNet) **Progressive Boundary Refinement Network for Temporal Action Detection** (AAAI 2020) [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuQ.4870.pdf)
 - (TsaNet) **Scale Matters: Temporal Scale Aggregation Network for Precise Action Localization in Untrimmed Videos** (ICME 2020) [paper](https://arxiv.org/abs/1908.00707)
 - **Constraining Temporal Relationship for Action Localization** (arxiv 2020) [paper](https://arxiv.org/abs/2002.07358)
 
 ## 2019
 
+- (CMS-RC3D) **Contextual Multi-Scale Region Convolutional 3D Network for Activity Detection** (ICCVBIC 2019) [paper](https://arxiv.org/abs/1801.09184)
 - (TGM) **Temporal Gaussian Mixture Layer for Videos** (ICML 2019) [paper](https://arxiv.org/abs/1803.06316) [code.PyTorch](https://github.com/piergiaj/tgm-icml19)
 - (Decouple-SSAD) **Decoupling Localization and Classification in Single Shot Temporal Action Detection** (ICME 2019) [paper](https://arxiv.org/abs/1904.07442) [code.TensorFlow](https://github.com/HYPJUDY/Decouple-SSAD)
 - **Exploring Feature Representation and Training strategies in Temporal Action Localization** (ICIP 2019) [paper](https://arxiv.org/abs/1905.10608)
