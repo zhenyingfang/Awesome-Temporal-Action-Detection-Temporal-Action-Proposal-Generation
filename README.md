@@ -2,7 +2,7 @@
  * @Author: fzy
  * @Date: 2020-03-09 21:53:10
  * @LastEditors: Zhenying
- * @LastEditTime: 2020-04-30 12:59:50
+ * @LastEditTime: 2020-04-30 13:07:25
  * @Description: 
  -->
 # Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation
@@ -70,6 +70,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 
 ## 2020
 
+- (G-TAD) **G-TAD: Sub-Graph Localization for Temporal Action Detection** (CVPR 2020) [paper](https://arxiv.org/abs/1911.11462) [code.PyTorch](https://github.com/frostinassiky/gtad)
 - (AGCN-P-3DCNNs) **Graph Attention based Proposal 3D ConvNets for Action Detection** (AAAI 2020) [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiJ.1424.pdf)
 - (PBRNet) **Progressive Boundary Refinement Network for Temporal Action Detection** (AAAI 2020) [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuQ.4870.pdf)
 - (TsaNet) **Scale Matters: Temporal Scale Aggregation Network for Precise Action Localization in Untrimmed Videos** (ICME 2020) [paper](https://arxiv.org/abs/1908.00707)
@@ -89,7 +90,6 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 - (GTAN) **Gaussian Temporal Awareness Networks for Action Localization** (CVPR 2019) [paper](https://arxiv.org/abs/1909.03877)
 - **Temporal Action Localization using Long Short-Term Dependency** (arxiv 2019) [paper](https://arxiv.org/abs/1911.01060)
 - **Relation Attention for Temporal Action Localization** (IEEE Trans TMM 2019) [paper](https://ieeexplore.ieee.org/document/8933113/versions)
-- (G-TAD) **G-TAD: Sub-Graph Localization for Temporal Action Detection** (arxiv 2019) [paper](https://arxiv.org/abs/1911.11462)
 - (C-TCN) **Deep Concept-wise Temporal Convolutional Networks for Action Localization** (arxiv 2019) [paper](https://arxiv.org/abs/1908.09442) [code.PaddlePaddle](https://github.com/PaddlePaddle/models/tree/develop/PaddleCV/video)
 - (AFO-TAD) **AFO-TAD: Anchor-free One-Stage Detector for Temporal Action Detection** (arxiv 2019) [paper](https://arxiv.org/abs/1910.08250)
 - (DBS) **Video Imprint Segmentation for Temporal Action Detection in Untrimmed Videos** (AAAI 2019) [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4846)
