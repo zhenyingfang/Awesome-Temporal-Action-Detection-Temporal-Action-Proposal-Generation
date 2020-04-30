@@ -2,7 +2,7 @@
  * @Author: fzy
  * @Date: 2020-03-09 21:53:10
  * @LastEditors: Zhenying
- * @LastEditTime: 2020-04-30 13:10:13
+ * @LastEditTime: 2020-04-30 23:36:22
  * @Description: 
  -->
 # Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation
@@ -96,6 +96,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 
 ## 2018
 
+- **Diagnosing Error in Temporal Action Detectors** (ECCV 2018) [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Humam_Alwassel_Diagnosing_Error_in_ECCV_2018_paper.pdf)
 - (ETP) **Precise Temporal Action Localization by Evolving Temporal Proposals** (ICMR 2018) [paper](https://arxiv.org/abs/1804.04803)
 - (Action Search) **Action Search: Spotting Actions in Videos and Its Application to Temporal Action Localization** (ECCV 2018) [paper](https://arxiv.org/abs/1706.04269) [code.TensorFlow](https://github.com/HumamAlwassel/action-search)
 - (TAL-Net) **Rethinking the Faster R-CNN Architecture for Temporal Action Localization** (CVPR 2018) [paper](https://arxiv.org/abs/1804.07667)
