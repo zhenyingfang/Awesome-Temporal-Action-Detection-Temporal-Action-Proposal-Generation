@@ -2,7 +2,7 @@
  * @Author: fzy
  * @Date: 2020-03-09 21:53:10
  * @LastEditors: Zhenying
- * @LastEditTime: 2020-04-30 13:07:25
+ * @LastEditTime: 2020-04-30 13:10:13
  * @Description: 
  -->
 # Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation
@@ -70,7 +70,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 
 ## 2020
 
-- (G-TAD) **G-TAD: Sub-Graph Localization for Temporal Action Detection** (CVPR 2020) [paper](https://arxiv.org/abs/1911.11462) [code.PyTorch](https://github.com/frostinassiky/gtad)
+- (G-TAD) **G-TAD: Sub-Graph Localization for Temporal Action Detection** (CVPR 2020) [paper](https://arxiv.org/abs/1911.11462) [code.PyTorch](https://github.com/frostinassiky/gtad) [video](https://www.youtube.com/watch?v=BlPxnDcykUo)
 - (AGCN-P-3DCNNs) **Graph Attention based Proposal 3D ConvNets for Action Detection** (AAAI 2020) [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiJ.1424.pdf)
 - (PBRNet) **Progressive Boundary Refinement Network for Temporal Action Detection** (AAAI 2020) [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuQ.4870.pdf)
 - (TsaNet) **Scale Matters: Temporal Scale Aggregation Network for Precise Action Localization in Untrimmed Videos** (ICME 2020) [paper](https://arxiv.org/abs/1908.00707)
