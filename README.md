@@ -2,7 +2,7 @@
  * @Author: fzy
  * @Date: 2020-03-09 21:53:10
  * @LastEditors: Zhenying
- * @LastEditTime: 2020-06-25 23:34:52
+ * @LastEditTime: 2020-06-25 23:35:58
  * @Description: 
  -->
 # Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation
@@ -26,7 +26,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
   - [before](#before-1)
 - [**Papers: Weakly Supervised Temporal Action Detection**](#papers-weakly-supervised-temporal-action-detection)
   - [2020](#2020-2)
-- [2019](#2019-2)
+  - [2019](#2019-2)
 
 
 -----
@@ -140,7 +140,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 - (BaS-Net) **Background Suppression Networkfor Weakly-supervised Temporal Action Localization** (AAAI 2020) [paper](https://arxiv.org/abs/1911.09963) [code.PyTorch](https://github.com/Pilhyeon/BaSNet-pytorch)
 - **Background Modeling via Uncertainty Estimation for Weakly-supervised Action Localization** (arxiv 2020) [paper](https://arxiv.org/abs/2006.07006) [code.PyTorch](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation)
 
-# 2019
+## 2019
 
 - (AdapNet) **AdapNet: Adaptability Decomposing Encoder-Decoder Network for Weakly Supervised Action Recognition and Localization** (IEEE Transactions on Neural Networks and Learning Systems) [paper](https://arxiv.org/abs/1911.11961)
 - **Breaking Winner-Takes-All: Iterative-Winners-Out Networks for Weakly Supervised Temporal Action Localization** (IEEE Transactions on Image Processing) [paper](https://tanmingkui.github.io/files/publications/Breaking.pdf)
