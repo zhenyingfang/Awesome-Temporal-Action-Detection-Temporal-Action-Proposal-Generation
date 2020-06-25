@@ -2,7 +2,7 @@
  * @Author: fzy
  * @Date: 2020-03-09 21:53:10
  * @LastEditors: Zhenying
- * @LastEditTime: 2020-04-30 23:36:22
+ * @LastEditTime: 2020-06-25 23:34:52
  * @Description: 
  -->
 # Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation
@@ -26,6 +26,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
   - [before](#before-1)
 - [**Papers: Weakly Supervised Temporal Action Detection**](#papers-weakly-supervised-temporal-action-detection)
   - [2020](#2020-2)
+- [2019](#2019-2)
 
 
 -----
@@ -129,3 +130,24 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 # **Papers: Weakly Supervised Temporal Action Detection**
 
 ## 2020
+
+- (WSGN) **Weakly Supervised Gaussian Networks for Action Detection** (WACV 2020) [paper](https://arxiv.org/abs/1904.07774)
+- **Weakly Supervised Temporal Action Localization Using Deep Metric Learning** (WACV 2020) [paper](https://arxiv.org/abs/2001.07793)
+- **Action Graphs: Weakly-supervised Action Localization with Graph Convolution Networks** (WACV 2020) [paper](https://arxiv.org/abs/2002.01449)
+- (DGAM) **Weakly-Supervised Action Localization by Generative Attention Modeling** (CVPR 2020) [paper](https://arxiv.org/abs/2003.12424) [code.PyTorch](https://github.com/bfshi/DGAM-Weakly-Supervised-Action-Localization)
+- (EM-MIL) **Weakly-Supervised Action Localization with Expectation-Maximization Multi-Instance Learning** (arxiv 2020) [paper](https://arxiv.org/abs/2004.00163)
+- **Relational Prototypical Network for Weakly Supervised Temporal ActionLocalization** (AAAI 2020) [paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-HuangL.1235.pdf)
+- (BaS-Net) **Background Suppression Networkfor Weakly-supervised Temporal Action Localization** (AAAI 2020) [paper](https://arxiv.org/abs/1911.09963) [code.PyTorch](https://github.com/Pilhyeon/BaSNet-pytorch)
+- **Background Modeling via Uncertainty Estimation for Weakly-supervised Action Localization** (arxiv 2020) [paper](https://arxiv.org/abs/2006.07006) [code.PyTorch](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation)
+
+# 2019
+
+- (AdapNet) **AdapNet: Adaptability Decomposing Encoder-Decoder Network for Weakly Supervised Action Recognition and Localization** (IEEE Transactions on Neural Networks and Learning Systems) [paper](https://arxiv.org/abs/1911.11961)
+- **Breaking Winner-Takes-All: Iterative-Winners-Out Networks for Weakly Supervised Temporal Action Localization** (IEEE Transactions on Image Processing) [paper](https://tanmingkui.github.io/files/publications/Breaking.pdf)
+- **Weakly-Supervised Temporal Localization via Occurrence Count Learning** (ICML 2019) [paper](https://arxiv.org/abs/1905.07293) [code.TensorFlow](https://github.com/SchroeterJulien/ICML-2019-Weakly-Supervised-Temporal-Localization-via-Occurrence-Count-Learning)
+- (MAAN) **Marginalized Average Attentional Network for Weakly-Supervised Learning** (ICLR 2019) [paper](https://arxiv.org/abs/1905.08586) [code.PyTorch](https://github.com/yyuanad/MAAN)
+- **Weakly-supervised Action Localization with Background Modeling** (ICCV 2019) [paper](https://arxiv.org/abs/1908.06552)
+- (TSM) **Temporal Structure Mining for Weakly Supervised Action Detection** (ICCV 2019) [paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Temporal_Structure_Mining_for_Weakly_Supervised_Action_Detection_ICCV_2019_paper.pdf)
+- (CleanNet) **Weakly Supervised Temporal Action Localization through Contrast basedEvaluation Networks** (ICCV 2019) [paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_Weakly_Supervised_Temporal_Action_Localization_Through_Contrast_Based_Evaluation_Networks_ICCV_2019_paper.html)
+- (3C-Net) **3C-Net: Category Count and Center Loss for Weakly-Supervised Action Localization** (ICCV 2019) [paper](https://arxiv.org/abs/1908.08216) [code.PyTorch](https://github.com/naraysa/3c-net)
+- (CMCS)
