@@ -5,7 +5,7 @@
  * @LastEditTime: 2020-12-03 18:58:12
  * @Description: 
  -->
-# Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation
+# Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/zhenyingfang/Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation)
 Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp; Temporal Action Proposal Generation
 
 -----
