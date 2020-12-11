@@ -160,6 +160,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 10. **Weakly Supervised Temporal Action Localization with Segment-Level Labels** (arxiv 2020)
 11. (ECM) **Equivalent Classification Mapping for Weakly Supervised Temporal Action Localization** (arxiv 2020) [paper](https://arxiv.org/abs/2008.07728v1)
 12. [Two-Stream Consensus Network for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2010.11594v1) (ECCV 2020 spotlight)
+13. [Learning Temporal Co-Attention Models for Unsupervised Video Action Localization](https://openaccess.thecvf.com/content_CVPR_2020/html/Gong_Learning_Temporal_Co-Attention_Models_for_Unsupervised_Video_Action_Localization_CVPR_2020_paper.html) (CVPR 2020)
 
 ## 2019
 
