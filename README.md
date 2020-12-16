@@ -163,6 +163,8 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 13. [Learning Temporal Co-Attention Models for Unsupervised Video Action Localization](https://openaccess.thecvf.com/content_CVPR_2020/html/Gong_Learning_Temporal_Co-Attention_Models_for_Unsupervised_Video_Action_Localization_CVPR_2020_paper.html) (CVPR 2020)
 14. [Action Completeness Modeling with Background Aware Networks for Weakly-Supervised Temporal Action Localization](https://dl.acm.org/doi/abs/10.1145/3394171.3413687) (ACM MM 2020)
 15. (D2-Net) [D2-Net: Weakly-Supervised Action Localization via Discriminative Embeddingsand Denoised Activations](https://arxiv.org/abs/2012.06440) (arxiv 2020) (THUMOS'14 mAP@0.5: 35.9)
+16. (SF-Net) [SF-Net: Single-Frame Supervision for Temporal Action Localization](https://arxiv.org/abs/2003.06845) (ECCV 2020) [code.PyTorch](https://github.com/Flowerfan/SF-Net)
+17. [Point-Level Temporal Action Localization: Bridging Fully-supervised Proposals to Weakly-supervised Losses](https://arxiv.org/abs/2012.08236) (arxiv 2020)
 
 ## 2019
 
