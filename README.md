@@ -147,6 +147,9 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 ----
 # **Papers: Weakly Supervised Temporal Action Detection**
 
+## 2021
+1. A Hybrid Attention Mechanism for Weakly-Supervised Temporal Action Localization. (paper not soon) (AAAI 2021)
+
 ## 2020
 
 1. (WSGN) **Weakly Supervised Gaussian Networks for Action Detection** (WACV 2020) [paper](https://arxiv.org/abs/1904.07774)
