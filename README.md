@@ -94,6 +94,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 10. (C-TCN) [Deep Concept-wise Temporal Convolutional Networks for Action Localization](https://arxiv.org/abs/1908.09442) (ACM MM 2020) [code.PaddlePaddle](https://github.com/PaddlePaddle/models/tree/develop/PaddleCV/video)
 11. (MLTPN) [Multi-Level Temporal Pyramid Network for Action Detection](https://arxiv.org/abs/2008.03270) (PRCV 2020)
 12. (SALAD) [SALAD: Self-Assessment Learning for Action Detection](https://arxiv.org/abs/2011.06958) (arxiv 2020)
+13. [Multi-shot Temporal Event Localization: a Benchmark](https://arxiv.org/abs/2012.09434) (arxiv 2020) [project](https://songbai.site/muses/) [code](https://github.com/xlliu7/MUSES) [dataset](https://songbai.site/muses/)
 
 ## 2019
 
