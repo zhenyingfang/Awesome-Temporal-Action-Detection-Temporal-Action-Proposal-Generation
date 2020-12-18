@@ -16,16 +16,9 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 - [**Papers: Temporal Action Proposal Generation**](#papers-temporal-action-proposal-generation)
   - [2020](#2020) - [2019](#2019) - [2018](#2018) - [2017](#2017) - [before](#before)
 - [**Papers: Temporal Action Detection**](#papers-temporal-action-detection)
-  - [2020](#2020-1)
-  - [2019](#2019-1)
-  - [2018](#2018-1)
-  - [2017](#2017-1)
-  - [before](#before-1)
+  - [2020](#2020-1) - [2019](#2019-1) - [2018](#2018-1) - [2017](#2017-1) - [before](#before-1)
 - [**Papers: Weakly Supervised Temporal Action Detection**](#papers-weakly-supervised-temporal-action-detection)
-  - [2020](#2020-2)
-  - [2019](#2019-2)
-  - [2018](#2018-2)
-  - [2017](#2017-2)
+  - [2021](#2021) - [2020](#2020-2) - [2019](#2019-2) - [2018](#2018-2) - [2017](#2017-2)
 
 
 -----
