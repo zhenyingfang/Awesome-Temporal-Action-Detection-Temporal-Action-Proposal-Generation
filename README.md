@@ -137,7 +137,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 # **Papers: Weakly Supervised Temporal Action Detection**
 
 ## 2021
-1. A Hybrid Attention Mechanism for Weakly-Supervised Temporal Action Localization. (paper not soon) (AAAI 2021)
+1. [A Hybrid Attention Mechanism for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2101.00545). (AAAI 2021)
 
 ## 2020
 
