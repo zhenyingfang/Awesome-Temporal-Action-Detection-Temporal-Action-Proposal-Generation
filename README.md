@@ -14,11 +14,11 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 - [Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation](#awesome-temporal-action-detection-temporal-action-proposal-generation)
 - [**about pretrained model**](#about-pretrained-model)
 - [**Papers: Temporal Action Proposal Generation**](#papers-temporal-action-proposal-generation)
-  - [2020](#2020) - [2019](#2019) - [2018](#2018) - [2017](#2017) - [before](#before)
+  - [2020](#2021) - [2020](#2020) - [2019](#2019) - [2018](#2018) - [2017](#2017) - [before](#before)
 - [**Papers: Temporal Action Detection**](#papers-temporal-action-detection)
   - [2020](#2020-1) - [2019](#2019-1) - [2018](#2018-1) - [2017](#2017-1) - [before](#before-1)
 - [**Papers: Weakly Supervised Temporal Action Detection**](#papers-weakly-supervised-temporal-action-detection)
-  - [2021](#2021) - [2020](#2020-2) - [2019](#2019-2) - [2018](#2018-2) - [2017](#2017-2)
+  - [2021](#2021-1) - [2020](#2020-2) - [2019](#2019-2) - [2018](#2018-2) - [2017](#2017-2)
 
 
 -----
@@ -28,14 +28,16 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 
 # **Papers: Temporal Action Proposal Generation**
 
+## 2021
+1. (BSN++) [BSN++: Complementary Boundary Regressor with Scale-Balanced RelationModeling for Temporal Action Proposal Generation](https://arxiv.org/abs/2009.07641) (AAAI 2021)
+
 ## 2020
 
 1. **VALSE talk by Tianwei Lin** (2020.03.18) [link](https://pan.baidu.com/s/18uPJX3l69qJHaYOdeJ0IQw?errmsg=Auth+Login+Sucess&errno=0&ssnerror=0&) (7y8g)
 2. (RapNet) **Accurate Temporal Action Proposal Generation with Relation-Aware Pyramid Network** (AAAI 2020) [pre-paper 2019 ActivityNet task-1 2nd](https://arxiv.org/abs/1908.03448)
 3. (DBG) **Fast Learning of Temporal Action Proposal via Dense Boundary Generator** (AAAI 2020) [paper](https://arxiv.org/abs/1911.04127) [code.TensorFlow](https://github.com/TencentYoutuResearch/ActionDetection-DBG)
 4. (BC-GNN)**Boundary Content Graph Neural Network for Temporal Action Proposal Generation** (arxiv 2020) [paper](https://arxiv.org/abs/2008.01432v1)
-5. (BSN++) [BSN++: Complementary Boundary Regressor with Scale-Balanced RelationModeling for Temporal Action Proposal Generation](https://arxiv.org/abs/2009.07641) (arxiv 2020, Submitted to AAAI21)
-6. [Bottom-Up Temporal Action Localization with Mutual Regularization](https://arxiv.org/abs/2002.07358) (ECCV 2020) [code.TensorFlow](https://github.com/PeisenZhao/Bottom-Up-TAL-with-MR)
+5. [Bottom-Up Temporal Action Localization with Mutual Regularization](https://arxiv.org/abs/2002.07358) (ECCV 2020) [code.TensorFlow](https://github.com/PeisenZhao/Bottom-Up-TAL-with-MR)
 
 ## 2019
 
