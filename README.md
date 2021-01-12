@@ -36,7 +36,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 1. **VALSE talk by Tianwei Lin** (2020.03.18) [link](https://pan.baidu.com/s/18uPJX3l69qJHaYOdeJ0IQw?errmsg=Auth+Login+Sucess&errno=0&ssnerror=0&) (7y8g)
 2. (RapNet) **Accurate Temporal Action Proposal Generation with Relation-Aware Pyramid Network** (AAAI 2020) [pre-paper 2019 ActivityNet task-1 2nd](https://arxiv.org/abs/1908.03448)
 3. (DBG) **Fast Learning of Temporal Action Proposal via Dense Boundary Generator** (AAAI 2020) [paper](https://arxiv.org/abs/1911.04127) [code.TensorFlow](https://github.com/TencentYoutuResearch/ActionDetection-DBG)
-4. (BC-GNN)**Boundary Content Graph Neural Network for Temporal Action Proposal Generation** (arxiv 2020) [paper](https://arxiv.org/abs/2008.01432v1)
+4. (BC-GNN) **Boundary Content Graph Neural Network for Temporal Action Proposal Generation** (ECCV 2020) [paper](https://arxiv.org/abs/2008.01432v1)
 5. [Bottom-Up Temporal Action Localization with Mutual Regularization](https://arxiv.org/abs/2002.07358) (ECCV 2020) [code.TensorFlow](https://github.com/PeisenZhao/Bottom-Up-TAL-with-MR)
 6. (TSI) [TSI: Temporal Scale Invariant Network for Action Proposal Generation](https://openaccess.thecvf.com/content/ACCV2020/html/Liu_TSI_Temporal_Scale_Invariant_Network_for_Action_Proposal_Generation_ACCV_2020_paper.html) (ACCV 2020)
 
