@@ -51,6 +51,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 7. (CMSN) **CMSN: Continuous Multi-stage Network and Variable Margin Cosine Loss for Temporal Action Proposal Generation** (arxiv 2019) [paper](https://arxiv.org/abs/1911.06080)
 8. **A high performance computing method for accelerating temporal action proposal generation** (arxiv 2019) [paper](https://arxiv.org/abs/1906.06496)
 9. **Multi-Granularity Fusion Network for Proposal and Activity Localization: Submission to ActivityNet Challenge 2019 Task 1 and Task 2** (ActvityNet challenge 2019) [paper](https://arxiv.org/abs/1907.12223)
+10. [Joint Learning of Local and Global Context for Temporal Action Proposal Generation](https://ieeexplore.ieee.org/abstract/document/8941024) (TCSVT 2019)
 
 ## 2018
 
@@ -161,6 +162,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 15. (D2-Net) [D2-Net: Weakly-Supervised Action Localization via Discriminative Embeddingsand Denoised Activations](https://arxiv.org/abs/2012.06440) (arxiv 2020) (THUMOS'14 mAP@0.5: 35.9)
 16. (SF-Net) [SF-Net: Single-Frame Supervision for Temporal Action Localization](https://arxiv.org/abs/2003.06845) (ECCV 2020) [code.PyTorch](https://github.com/Flowerfan/SF-Net)
 17. [Point-Level Temporal Action Localization: Bridging Fully-supervised Proposals to Weakly-supervised Losses](https://arxiv.org/abs/2012.08236) (arxiv 2020)
+18. [Transferable Knowledge-Based Multi-Granularity Fusion Network for Weakly Supervised Temporal Action Detection](https://ieeexplore.ieee.org/abstract/document/9105103/keywords#keywords) (TMM 2020)
 
 ## 2019
 
