@@ -16,9 +16,9 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 - [**Papers: Temporal Action Proposal Generation**](#papers-temporal-action-proposal-generation)
   - [2021](#2021) - [2020](#2020) - [2019](#2019) - [2018](#2018) - [2017](#2017) - [before](#before)
 - [**Papers: Temporal Action Detection**](#papers-temporal-action-detection)
-  - [2020](#2020-1) - [2019](#2019-1) - [2018](#2018-1) - [2017](#2017-1) - [before](#before-1)
+  - [2021](#2021-1) - [2020](#2020-1) - [2019](#2019-1) - [2018](#2018-1) - [2017](#2017-1) - [before](#before-1)
 - [**Papers: Weakly Supervised Temporal Action Detection**](#papers-weakly-supervised-temporal-action-detection)
-  - [2021](#2021-1) - [2020](#2020-2) - [2019](#2019-2) - [2018](#2018-2) - [2017](#2017-2)
+  - [2021](#2021-2) - [2020](#2020-2) - [2019](#2019-2) - [2018](#2018-2) - [2017](#2017-2)
 
 
 -----
@@ -72,6 +72,10 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 
 ----
 # **Papers: Temporal Action Detection**
+
+## 2021
+
+1. (activity graph transformer) [Activity Graph Transformer for Temporal Action Localization](https://arxiv.org/abs/2101.08540) (arxiv 2021) [project](https://www.sfu.ca/~mnawhal/projects/agt.html) [code](https://github.com/Nmegha2601/activitygraph_transformer)
 
 ## 2020
 
