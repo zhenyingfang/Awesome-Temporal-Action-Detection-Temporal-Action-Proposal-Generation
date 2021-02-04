@@ -30,6 +30,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 
 ## 2021
 1. (BSN++) [BSN++: Complementary Boundary Regressor with Scale-Balanced RelationModeling for Temporal Action Proposal Generation](https://arxiv.org/abs/2009.07641) (AAAI 2021) [Author's Zhihu](https://zhuanlan.zhihu.com/p/344065976)
+2. (RTD-Action) [Relaxed Transformer Decoders for Direct Action Proposal Generation](https://arxiv.org/abs/2102.01894) (arxiv 2021) [code](https://github.com/MCG-NJU/RTD-Action)
 
 ## 2020
 
