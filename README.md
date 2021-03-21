@@ -80,6 +80,8 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 2. [Coarse-Fine Networks for Temporal Activity Detection in Videos](https://arxiv.org/abs/2103.01302) (CVPR 2021)
 3. (MLAD) [Modeling Multi-Label Action Dependencies for Temporal Action Localization](https://arxiv.org/abs/2103.03027) (CVPR 2021)
 4. (PcmNet) [PcmNet: Position-Sensitive Context Modeling Network for Temporal Action Localization](https://arxiv.org/abs/2103.05270) (Tip 2021)
+5. Learning Salient Boundary Feature for Anchor-free Temporal Action Localization (CVPR 2021)
+6. (TCANet) Temporal Context Aggregation Network for Temporal Action Proposal Refinement (CVPR 2021) [Zhihu](https://zhuanlan.zhihu.com/p/358754602)
 
 ## 2020
 
