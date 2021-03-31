@@ -32,6 +32,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 1. (BSN++) [BSN++: Complementary Boundary Regressor with Scale-Balanced RelationModeling for Temporal Action Proposal Generation](https://arxiv.org/abs/2009.07641) (AAAI 2021) [Author's Zhihu](https://zhuanlan.zhihu.com/p/344065976)
 2. (RTD-Action) [Relaxed Transformer Decoders for Direct Action Proposal Generation](https://arxiv.org/abs/2102.01894) (arxiv 2021) [code](https://github.com/MCG-NJU/RTD-Action)
 3. (TCANet) [Temporal Context Aggregation Network for Temporal Action Proposal Refinement](https://arxiv.org/abs/2103.13141) (CVPR 2021) [Zhihu](https://zhuanlan.zhihu.com/p/358754602)
+4. [Augmented Transformer with Adaptive Graph for Temporal Action Proposal Generation](https://arxiv.org/abs/2103.16024) (arxiv 2021)
 
 ## 2020
 
@@ -83,6 +84,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 4. (PcmNet) [PcmNet: Position-Sensitive Context Modeling Network for Temporal Action Localization](https://arxiv.org/abs/2103.05270) (Tip 2021)
 5. [Learning Salient Boundary Feature for Anchor-free Temporal Action Localization](https://arxiv.org/abs/2103.13137) (CVPR 2021)
 6. [Low-Fidelity End-to-End Video Encoder Pre-training for Temporal Action Localization](https://arxiv.org/abs/2103.15233) (arxiv 2021)
+7. [Read and Attend: Temporal Localisation in Sign Language Videos](https://arxiv.org/abs/2103.16481) (CVPR 2021) (Sign Language Videos)
 
 ## 2020
 
@@ -157,6 +159,8 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 3. [Weakly-supervised Temporal Action Localization by Uncertainty Modeling](https://arxiv.org/abs/2006.07006) (AAAI 2021) [code](https://github.com/Pilhyeon/WTAL-Uncertainty-Modeling)
 4. [The Blessings of Unlabeled Background in Untrimmed Videos](https://arxiv.org/abs/2103.13183) (CVPR 2021)
 5. (ACSNet) [ACSNet: Action-Context Separation Network for Weakly Supervised Temporal Action Localization](https://arxiv.org/abs/2103.15088) (AAAI 2021)
+6. (CoLA) [CoLA: Weakly-Supervised Temporal Action Localization with Snippet Contrastive Learning](https://arxiv.org/abs/2103.16392) (CVPR 2021)
+7. [Weakly Supervised Temporal Action Localization Through Learning Explicit Subspaces for Action and Context](https://arxiv.org/abs/2103.16155) (AAAI 2021)
 
 ## 2020
 
