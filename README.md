@@ -161,6 +161,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 5. (ACSNet) [ACSNet: Action-Context Separation Network for Weakly Supervised Temporal Action Localization](https://arxiv.org/abs/2103.15088) (AAAI 2021)
 6. (CoLA) [CoLA: Weakly-Supervised Temporal Action Localization with Snippet Contrastive Learning](https://arxiv.org/abs/2103.16392) (CVPR 2021)
 7. [Weakly Supervised Temporal Action Localization Through Learning Explicit Subspaces for Action and Context](https://arxiv.org/abs/2103.16155) (AAAI 2021)
+8. [Adaptive Mutual Supervision for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2104.02357) (arxiv 2021)
 
 ## 2020
 
