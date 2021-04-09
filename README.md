@@ -30,7 +30,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 
 ## 2021
 1. (BSN++) [BSN++: Complementary Boundary Regressor with Scale-Balanced RelationModeling for Temporal Action Proposal Generation](https://arxiv.org/abs/2009.07641) (AAAI 2021) [Author's Zhihu](https://zhuanlan.zhihu.com/p/344065976)
-2. (RTD-Action) [Relaxed Transformer Decoders for Direct Action Proposal Generation](https://arxiv.org/abs/2102.01894) (arxiv 2021) [code](https://github.com/MCG-NJU/RTD-Action)
+2. (RTD-Action) [Relaxed Transformer Decoders for Direct Action Proposal Generation](https://arxiv.org/abs/2102.01894) (arxiv 2021) [code](https://github.com/MCG-NJU/RTD-Action) [Zhihu](https://zhuanlan.zhihu.com/p/363133304)
 3. (TCANet) [Temporal Context Aggregation Network for Temporal Action Proposal Refinement](https://arxiv.org/abs/2103.13141) (CVPR 2021) [Zhihu](https://zhuanlan.zhihu.com/p/358754602)
 4. [Augmented Transformer with Adaptive Graph for Temporal Action Proposal Generation](https://arxiv.org/abs/2103.16024) (arxiv 2021)
 5. [Self-Supervised Learning for Semi-Supervised Temporal Action Proposal](https://arxiv.org/abs/2104.03214) (CVPR 2021) [code](https://github.com/wangxiang1230/SSTAP)
