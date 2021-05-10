@@ -83,7 +83,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 2. [Coarse-Fine Networks for Temporal Activity Detection in Videos](https://arxiv.org/abs/2103.01302) (CVPR 2021)
 3. (MLAD) [Modeling Multi-Label Action Dependencies for Temporal Action Localization](https://arxiv.org/abs/2103.03027) (CVPR 2021)
 4. (PcmNet) [PcmNet: Position-Sensitive Context Modeling Network for Temporal Action Localization](https://arxiv.org/abs/2103.05270) (Tip 2021)
-5. (AFSD) [Learning Salient Boundary Feature for Anchor-free Temporal Action Localization](https://arxiv.org/abs/2103.13137) (CVPR 2021) [https://github.com/TencentYoutuResearch/ActionDetection-AFSD?utm_source=catalyzex.com](code)
+5. (AFSD) [Learning Salient Boundary Feature for Anchor-free Temporal Action Localization](https://arxiv.org/abs/2103.13137) (CVPR 2021) [code](https://github.com/TencentYoutuResearch/ActionDetection-AFSD?utm_source=catalyzex.com)
 6. [Low-Fidelity End-to-End Video Encoder Pre-training for Temporal Action Localization](https://arxiv.org/abs/2103.15233) (arxiv 2021)
 7. [Read and Attend: Temporal Localisation in Sign Language Videos](https://arxiv.org/abs/2103.16481) (CVPR 2021) (Sign Language Videos)
 8. [Low Pass Filter for Anti-aliasing in Temporal Action Localization](https://arxiv.org/abs/2104.11403) (arxiv 2021)
