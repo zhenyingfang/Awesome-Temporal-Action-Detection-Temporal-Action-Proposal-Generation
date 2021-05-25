@@ -87,6 +87,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 6. [Low-Fidelity End-to-End Video Encoder Pre-training for Temporal Action Localization](https://arxiv.org/abs/2103.15233) (arxiv 2021)
 7. [Read and Attend: Temporal Localisation in Sign Language Videos](https://arxiv.org/abs/2103.16481) (CVPR 2021) (Sign Language Videos)
 8. [Low Pass Filter for Anti-aliasing in Temporal Action Localization](https://arxiv.org/abs/2104.11403) (arxiv 2021)
+9. [FineAction: A Fined Video Dataset for Temporal Action Localization](https://arxiv.org/abs/2105.11107) (One track of DeeperAction Workshop@ICCV2021) [Homepage](https://deeperaction.github.io/fineaction/)
 
 ## 2020
 
