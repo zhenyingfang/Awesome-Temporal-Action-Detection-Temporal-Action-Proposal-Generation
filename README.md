@@ -34,6 +34,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 3. (TCANet) [Temporal Context Aggregation Network for Temporal Action Proposal Refinement](https://arxiv.org/abs/2103.13141) (CVPR 2021) [Zhihu](https://zhuanlan.zhihu.com/p/358754602)
 4. [Augmented Transformer with Adaptive Graph for Temporal Action Proposal Generation](https://arxiv.org/abs/2103.16024) (arxiv 2021)
 5. [Self-Supervised Learning for Semi-Supervised Temporal Action Proposal](https://arxiv.org/abs/2104.03214) (CVPR 2021) [code](https://github.com/wangxiang1230/SSTAP)
+6. (TAPG) [Temporal Action Proposal Generation with Transformers](https://arxiv.org/abs/2105.12043) (arxiv 2021)
 
 ## 2020
 
