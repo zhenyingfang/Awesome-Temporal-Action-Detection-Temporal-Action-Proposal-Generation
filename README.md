@@ -170,6 +170,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 10. (AUMN) [Action Unit Memory Network for Weakly Supervised Temporal Action Localization](https://arxiv.org/abs/2104.14135) (CVPR 2021)
 11. (ASL) [Weakly Supervised Action Selection Learning in Video](https://arxiv.org/abs/2105.02439) (CVPR 2021)
 12. (ActShufNet) [Action Shuffling for Weakly Supervised Temporal Localization](https://arxiv.org/abs/2105.04208) (arxiv 2021)
+13. [Few-Shot Action Localization without Knowing Boundaries](https://arxiv.org/abs/2106.04150) (arxiv 2021)
 
 ## 2020
 
