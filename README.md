@@ -13,6 +13,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 <!-- TOC -->
 - [Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation](#awesome-temporal-action-detection-temporal-action-proposal-generation)
 - [**about pretrained model**](#about-pretrained-model)
+- [**ActivityNet Challenge**](#activitynet-challenge)
 - [**Papers: Temporal Action Proposal Generation**](#papers-temporal-action-proposal-generation)
   - [2021](#2021) - [2020](#2020) - [2019](#2019) - [2018](#2018) - [2017](#2017) - [before](#before)
 - [**Papers: Temporal Action Detection**](#papers-temporal-action-detection)
@@ -27,6 +28,9 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 # **about pretrained model**
 1. (BSP) [Boundary-sensitive Pre-training for Temporal Localization in Videos](https://arxiv.org/abs/2011.10830) (arxiv 2020)
 2. (TSP) [TSP: Temporally-Sensitive Pretraining of Video Encoders for Localization Tasks](https://arxiv.org/abs/2011.11479) (arxiv 2020)
+
+# **ActivityNet Challenge**
+1. (2021) [AcitvityNet 2021](http://activity-net.org/challenges/2021/challenge.html)
 
 # **Papers: Temporal Action Proposal Generation**
 
@@ -176,6 +180,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 12. (ActShufNet) [Action Shuffling for Weakly Supervised Temporal Localization](https://arxiv.org/abs/2105.04208) (arxiv 2021)
 13. [Few-Shot Action Localization without Knowing Boundaries](https://arxiv.org/abs/2106.04150) (arxiv 2021)
 14. [Uncertainty Guided Collaborative Training for Weakly Supervised Temporal Action Detection](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_Uncertainty_Guided_Collaborative_Training_for_Weakly_Supervised_Temporal_Action_Detection_CVPR_2021_paper.html) (CVPR 2021)
+15. [Two-Stream Consensus Network: Submission to HACS Challenge 2021Weakly-Supervised Learning Track](https://arxiv.org/abs/2106.10829) (CVPRW 2021)
 
 ## 2020
 
