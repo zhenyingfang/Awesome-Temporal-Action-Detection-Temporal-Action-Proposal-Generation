@@ -19,6 +19,8 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
   - [2021](#2021-1) - [2020](#2020-1) - [2019](#2019-1) - [2018](#2018-1) - [2017](#2017-1) - [before](#before-1)
 - [**Papers: Weakly Supervised Temporal Action Detection**](#papers-weakly-supervised-temporal-action-detection)
   - [2021](#2021-2) - [2020](#2020-2) - [2019](#2019-2) - [2018](#2018-2) - [2017](#2017-2)
+- [**Papers: Online Action Detection**](#papers-online-action-detection)
+  - [2021](#2021-3)
 
 
 -----
@@ -173,6 +175,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 11. (ASL) [Weakly Supervised Action Selection Learning in Video](https://arxiv.org/abs/2105.02439) (CVPR 2021)
 12. (ActShufNet) [Action Shuffling for Weakly Supervised Temporal Localization](https://arxiv.org/abs/2105.04208) (arxiv 2021)
 13. [Few-Shot Action Localization without Knowing Boundaries](https://arxiv.org/abs/2106.04150) (arxiv 2021)
+14. [Uncertainty Guided Collaborative Training for Weakly Supervised Temporal Action Detection](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_Uncertainty_Guided_Collaborative_Training_for_Weakly_Supervised_Temporal_Action_Detection_CVPR_2021_paper.html) (CVPR 2021)
 
 ## 2020
 
@@ -226,3 +229,10 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 1. (Hide-and-Seek) [Hide-and-Seek: Forcing a Network to be Meticulous for
 Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.04232) (ICCV 2017)
 2. (UntrimmedNets) [UntrimmedNets for Weakly Supervised Action Recognition and Detection](https://arxiv.org/abs/1703.03329) (CVPR 2017) [code](https://github.com/wanglimin/UntrimmedNet)
+
+----
+# **Papers: Online Action Detection**
+
+## 2021
+
+1. (WOAD) [WOAD: Weakly Supervised Online Action Detection in Untrimmed Videos](https://openaccess.thecvf.com/content/CVPR2021/html/Gao_WOAD_Weakly_Supervised_Online_Action_Detection_in_Untrimmed_Videos_CVPR_2021_paper.html) (CVPR 2021)
