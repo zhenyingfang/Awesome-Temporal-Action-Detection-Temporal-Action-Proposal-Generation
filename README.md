@@ -90,6 +90,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 8. [Low Pass Filter for Anti-aliasing in Temporal Action Localization](https://arxiv.org/abs/2104.11403) (arxiv 2021)
 9. [FineAction: A Fined Video Dataset for Temporal Action Localization](https://arxiv.org/abs/2105.11107) (One track of DeeperAction Workshop@ICCV2021) [Homepage](https://deeperaction.github.io/fineaction/)
 10. (TadTR) [End-to-end Temporal Action Detection with Transformer](https://arxiv.org/abs/2106.10271) (arxiv 2021) [code](https://github.com/xlliu7/TadTR)
+11. [Three Birds with One Stone: Multi-Task Temporal Action Detection via Recycling Temporal Annotations](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Three_Birds_with_One_Stone_Multi-Task_Temporal_Action_Detection_via_CVPR_2021_paper.html) (CVPR 2021)
 
 ## 2020
 
