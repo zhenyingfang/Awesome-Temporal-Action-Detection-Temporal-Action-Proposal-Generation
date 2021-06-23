@@ -97,6 +97,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 9. [FineAction: A Fined Video Dataset for Temporal Action Localization](https://arxiv.org/abs/2105.11107) (One track of DeeperAction Workshop@ICCV2021) [Homepage](https://deeperaction.github.io/fineaction/)
 10. (TadTR) [End-to-end Temporal Action Detection with Transformer](https://arxiv.org/abs/2106.10271) (arxiv 2021) [code](https://github.com/xlliu7/TadTR)
 11. [Three Birds with One Stone: Multi-Task Temporal Action Detection via Recycling Temporal Annotations](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Three_Birds_with_One_Stone_Multi-Task_Temporal_Action_Detection_via_CVPR_2021_paper.html) (CVPR 2021)
+12. [Proposal Relation Network for Temporal Action Detection](https://arxiv.org/abs/2106.11812) (CVPRW 2021)
 
 ## 2020
 
@@ -181,6 +182,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 13. [Few-Shot Action Localization without Knowing Boundaries](https://arxiv.org/abs/2106.04150) (arxiv 2021)
 14. [Uncertainty Guided Collaborative Training for Weakly Supervised Temporal Action Detection](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_Uncertainty_Guided_Collaborative_Training_for_Weakly_Supervised_Temporal_Action_Detection_CVPR_2021_paper.html) (CVPR 2021)
 15. [Two-Stream Consensus Network: Submission to HACS Challenge 2021Weakly-Supervised Learning Track](https://arxiv.org/abs/2106.10829) (CVPRW 2021)
+16. [Weakly-Supervised Temporal Action Localization Through Local-Global Background Modeling](https://arxiv.org/abs/2106.11811) (CVPRW 2021)
 
 ## 2020
 
