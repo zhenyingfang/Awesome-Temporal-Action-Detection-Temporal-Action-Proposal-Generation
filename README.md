@@ -29,8 +29,9 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 1. (BSP) [Boundary-sensitive Pre-training for Temporal Localization in Videos](https://arxiv.org/abs/2011.10830) (arxiv 2020)
 2. (TSP) [TSP: Temporally-Sensitive Pretraining of Video Encoders for Localization Tasks](https://arxiv.org/abs/2011.11479) (arxiv 2020)
 
-# **ActivityNet Challenge**
+# **ActivityNet Challenge and talks**
 1. (2021) [AcitvityNet 2021](http://activity-net.org/challenges/2021/challenge.html)
+2. (2021) [Transformer在时序行为检测中的应用 & 基于自监督学习的半监督时序行为检测](https://www.techbeat.net/talk-info?id=545) (DAMO Academy, Alibaba Group)
 
 # **Papers: Temporal Action Proposal Generation**
 
