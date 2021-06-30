@@ -100,6 +100,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 11. [Three Birds with One Stone: Multi-Task Temporal Action Detection via Recycling Temporal Annotations](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Three_Birds_with_One_Stone_Multi-Task_Temporal_Action_Detection_via_CVPR_2021_paper.html) (CVPR 2021)
 12. [Proposal Relation Network for Temporal Action Detection](https://arxiv.org/abs/2106.11812) (CVPRW 2021)
 13. [Exploring Stronger Feature for Temporal Action Localization](https://arxiv.org/abs/2106.13014) (CVPRW 2021)
+14. (SRF-Net) [SRF-Net: Selective Receptive Field Network for Anchor-Free Temporal Action Detection](https://arxiv.org/abs/2106.15258) (ICASSP 2021)
 
 ## 2020
 
