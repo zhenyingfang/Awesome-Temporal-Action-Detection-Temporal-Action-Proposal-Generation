@@ -247,3 +247,4 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 
 1. (WOAD) [WOAD: Weakly Supervised Online Action Detection in Untrimmed Videos](https://openaccess.thecvf.com/content/CVPR2021/html/Gao_WOAD_Weakly_Supervised_Online_Action_Detection_in_Untrimmed_Videos_CVPR_2021_paper.html) (CVPR 2021)
 2. (OadTR) [OadTR: Online Action Detection with Transformers](https://arxiv.org/abs/2106.11149) [code](https://github.com/wangxiang1230/OadTR) (arxiv 2021)
+3. (LSTR) [Long Short-Term Transformer for Online Action Detection](https://arxiv.org/abs/2107.03377) (arxiv 2021)
