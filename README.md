@@ -101,7 +101,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 12. [Proposal Relation Network for Temporal Action Detection](https://arxiv.org/abs/2106.11812) (CVPRW 2021)
 13. [Exploring Stronger Feature for Temporal Action Localization](https://arxiv.org/abs/2106.13014) (CVPRW 2021)
 14. (SRF-Net) [SRF-Net: Selective Receptive Field Network for Anchor-Free Temporal Action Detection](https://arxiv.org/abs/2106.15258) (ICASSP 2021)
-15. RGB Stream Is Enough for Temporal Action Detection(https://arxiv.org/abs/2107.04362) (arxiv 2021)
+15. [RGB Stream Is Enough for Temporal Action Detection](https://arxiv.org/abs/2107.04362) (arxiv 2021)
 
 ## 2020
 
