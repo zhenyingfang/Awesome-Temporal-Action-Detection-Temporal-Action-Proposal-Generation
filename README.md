@@ -86,7 +86,6 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 # **Papers: Temporal Action Detection**
 
 ## 2021
-1. (AVFusion)["Hear Me Out: Fusional Approaches for AudioAugmented Temporal Action Localization"](https://arxiv.org/pdf/2106.14118v1.pdf).[Code](https://github.com/skelemoa/tal-hmo)
 1. (activity graph transformer) [Activity Graph Transformer for Temporal Action Localization](https://arxiv.org/abs/2101.08540) (arxiv 2021) [project](https://www.sfu.ca/~mnawhal/projects/agt.html) [code](https://github.com/Nmegha2601/activitygraph_transformer)
 2. [Coarse-Fine Networks for Temporal Activity Detection in Videos](https://arxiv.org/abs/2103.01302) (CVPR 2021) [code](https://github.com/kkahatapitiya/Coarse-Fine-Networks)
 3. (MLAD) [Modeling Multi-Label Action Dependencies for Temporal Action Localization](https://arxiv.org/abs/2103.03027) (CVPR 2021)
@@ -102,6 +101,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 13. [Exploring Stronger Feature for Temporal Action Localization](https://arxiv.org/abs/2106.13014) (CVPRW 2021)
 14. (SRF-Net) [SRF-Net: Selective Receptive Field Network for Anchor-Free Temporal Action Detection](https://arxiv.org/abs/2106.15258) (ICASSP 2021)
 15. [RGB Stream Is Enough for Temporal Action Detection](https://arxiv.org/abs/2107.04362) (arxiv 2021)
+16. (AVFusion) [Hear Me Out: Fusional Approaches for Audio Augmented Temporal Action Localization](https://arxiv.org/pdf/2106.14118v1.pdf) (arxiv 2021) [Code](https://github.com/skelemoa/tal-hmo)
 
 ## 2020
 
