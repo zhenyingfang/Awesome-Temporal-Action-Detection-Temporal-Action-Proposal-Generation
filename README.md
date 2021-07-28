@@ -26,7 +26,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 
 -----
 # **about pretrained model**
-1. (BSP) [Boundary-sensitive Pre-training for Temporal Localization in Videos](https://arxiv.org/abs/2011.10830) (arxiv 2020)
+1. (BSP) [Boundary-sensitive Pre-training for Temporal Localization in Videos](https://arxiv.org/abs/2011.10830) (ICCV 2021)
 2. (TSP) [TSP: Temporally-Sensitive Pretraining of Video Encoders for Localization Tasks](https://arxiv.org/abs/2011.11479) (arxiv 2020)
 
 # **ActivityNet Challenge and talks**
