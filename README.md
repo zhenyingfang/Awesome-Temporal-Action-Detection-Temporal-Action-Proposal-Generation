@@ -191,6 +191,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 15. [Two-Stream Consensus Network: Submission to HACS Challenge 2021Weakly-Supervised Learning Track](https://arxiv.org/abs/2106.10829) (CVPRW 2021)
 16. [Weakly-Supervised Temporal Action Localization Through Local-Global Background Modeling](https://arxiv.org/abs/2106.11811) (CVPRW 2021)
 17. [Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization](https://arxiv.org/abs/2107.12589) (ACM MM 2021)
+18. [Learning Action Completeness from Points for Weakly-supervised Temporal Action Localization](https://arxiv.org/abs/2108.05029) (ICCV 2021) [code](https://github.com/Pilhyeon/Learning-Action-Completeness-from-Points)
 
 ## 2020
 
