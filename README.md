@@ -214,6 +214,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 16. (SF-Net) [SF-Net: Single-Frame Supervision for Temporal Action Localization](https://arxiv.org/abs/2003.06845) (ECCV 2020) [code.PyTorch](https://github.com/Flowerfan/SF-Net)
 17. [Point-Level Temporal Action Localization: Bridging Fully-supervised Proposals to Weakly-supervised Losses](https://arxiv.org/abs/2012.08236) (arxiv 2020)
 18. [Transferable Knowledge-Based Multi-Granularity Fusion Network for Weakly Supervised Temporal Action Detection](https://ieeexplore.ieee.org/abstract/document/9105103/keywords#keywords) (TMM 2020)
+19. [ActionBytes: Learning From Trimmed Videos to Localize Actions](https://openaccess.thecvf.com/content_CVPR_2020/html/Jain_ActionBytes_Learning_From_Trimmed_Videos_to_Localize_Actions_CVPR_2020_paper.html) (CVPR 2020)
 
 ## 2019
 
