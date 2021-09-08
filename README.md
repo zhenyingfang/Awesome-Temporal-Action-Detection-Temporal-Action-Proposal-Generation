@@ -105,7 +105,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 16. (AVFusion) [Hear Me Out: Fusional Approaches for Audio Augmented Temporal Action Localization](https://arxiv.org/pdf/2106.14118v1.pdf) (arxiv 2021) [Code](https://github.com/skelemoa/tal-hmo)
 17. [Transferable Knowledge-Based Multi-Granularity Aggregation Network for Temporal Action Localization: Submission to ActivityNet Challenge 2021](https://arxiv.org/abs/2107.12618) (HACS challenge 2021)
 18. [Enriching Local and Global Contexts for Temporal Action Localization](https://arxiv.org/abs/2107.12960) (ICCV 2021)
-19. [Class Semantics-based Attention for Action Detection](https://arxiv.org/abs/2109.02613) (ICCV 2021)
+19. (CSA) [Class Semantics-based Attention for Action Detection](https://arxiv.org/abs/2109.02613) (ICCV 2021)
 
 ## 2020
 
