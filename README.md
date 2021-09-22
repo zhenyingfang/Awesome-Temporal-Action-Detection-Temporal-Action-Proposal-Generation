@@ -106,6 +106,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 17. [Transferable Knowledge-Based Multi-Granularity Aggregation Network for Temporal Action Localization: Submission to ActivityNet Challenge 2021](https://arxiv.org/abs/2107.12618) (HACS challenge 2021)
 18. [Enriching Local and Global Contexts for Temporal Action Localization](https://arxiv.org/abs/2107.12960) (ICCV 2021)
 19. (CSA) [Class Semantics-based Attention for Action Detection](https://arxiv.org/abs/2109.02613) (ICCV 2021)
+20. (SP-TAD) [Towards High-Quality Temporal Action Detection with Sparse Proposals](https://arxiv.org/abs/2109.08847) (arxiv 2021) [Code](https://github.com/wjn922/SP-TAD)
 
 ## 2020
 
