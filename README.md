@@ -43,6 +43,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 5. [Self-Supervised Learning for Semi-Supervised Temporal Action Proposal](https://arxiv.org/abs/2104.03214) (CVPR 2021) [code](https://github.com/wangxiang1230/SSTAP)
 6. (TAPG) [Temporal Action Proposal Generation with Transformers](https://arxiv.org/abs/2105.12043) (arxiv 2021)
 7. (AEN) [Agent-Environment Network for Temporal Action Proposal Generation](https://arxiv.org/abs/2107.08323) (ICASSP 2021)
+8. (AEI) [AEI: Actors-Environment Interaction with Adaptive Attention for Temporal Action Proposals Generation](https://arxiv.org/abs/2110.11474) (BMVC 2021) [code](https://github.com/vhvkhoa/TAPG-AgentEnvInteration)
 
 ## 2020
 
