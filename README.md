@@ -44,7 +44,6 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 6. (TAPG) [Temporal Action Proposal Generation with Transformers](https://arxiv.org/abs/2105.12043) (arxiv 2021)
 7. (AEN) [Agent-Environment Network for Temporal Action Proposal Generation](https://arxiv.org/abs/2107.08323) (ICASSP 2021)
 8. (AEI) [AEI: Actors-Environment Interaction with Adaptive Attention for Temporal Action Proposals Generation](https://arxiv.org/abs/2110.11474) (BMVC 2021) [code](https://github.com/vhvkhoa/TAPG-AgentEnvInteration)
-9. (BackTAL) [Background-Click Supervision for Temporal Action Localization](https://arxiv.org/abs/2111.12449) (TPAMI 2021) [code](https://github.com/VividLe/BackTAL)
 
 ## 2020
 
@@ -199,6 +198,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 18. [Learning Action Completeness from Points for Weakly-supervised Temporal Action Localization](https://arxiv.org/abs/2108.05029) (ICCV 2021) [code](https://github.com/Pilhyeon/Learning-Action-Completeness-from-Points)
 19. [Deep Motion Prior for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2108.05607) (submit to Tip 2021) [project](https://sites.google.com/view/mengcao/publication/dmp-net?authuser=0)
 20. [Foreground-Action Consistency Network for Weakly Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Foreground-Action_Consistency_Network_for_Weakly_Supervised_Temporal_Action_Localization_ICCV_2021_paper.pdf) (ICCV 2021)
+21. (BackTAL) [Background-Click Supervision for Temporal Action Localization](https://arxiv.org/abs/2111.12449) (TPAMI 2021) [code](https://github.com/VividLe/BackTAL)
 
 ## 2020
 
