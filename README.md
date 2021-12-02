@@ -109,6 +109,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 19. (CSA) [Class Semantics-based Attention for Action Detection](https://arxiv.org/abs/2109.02613) (ICCV 2021)
 20. (SP-TAD) [Towards High-Quality Temporal Action Detection with Sparse Proposals](https://arxiv.org/abs/2109.08847) (arxiv 2021) [Code](https://github.com/wjn922/SP-TAD)
 21. [Few-Shot Temporal Action Localization with Query Adaptive Transformer](https://arxiv.org/abs/2110.10552) (BMVC 2021) [code](https://github.com/sauradip/fewshotQAT) (Few-Shot)
+22. [Graph Convolutional Module for Temporal Action Localization in Videos](https://arxiv.org/abs/2112.00302) (TPAMI 2021)
 
 ## 2020
 
