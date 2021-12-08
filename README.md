@@ -87,6 +87,9 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 ----
 # **Papers: Temporal Action Detection**
 
+## 2022
+1. (DCAN) [DCAN: Improving Temporal Action Detection via Dual Context Aggregation](https://arxiv.org/abs/2112.03612) (AAAI 2022)
+
 ## 2021
 1. (activity graph transformer) [Activity Graph Transformer for Temporal Action Localization](https://arxiv.org/abs/2101.08540) (arxiv 2021) [project](https://www.sfu.ca/~mnawhal/projects/agt.html) [code](https://github.com/Nmegha2601/activitygraph_transformer)
 2. [Coarse-Fine Networks for Temporal Activity Detection in Videos](https://arxiv.org/abs/2103.01302) (CVPR 2021) [code](https://github.com/kkahatapitiya/Coarse-Fine-Networks)
@@ -110,6 +113,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 20. (SP-TAD) [Towards High-Quality Temporal Action Detection with Sparse Proposals](https://arxiv.org/abs/2109.08847) (arxiv 2021) [Code](https://github.com/wjn922/SP-TAD)
 21. [Few-Shot Temporal Action Localization with Query Adaptive Transformer](https://arxiv.org/abs/2110.10552) (BMVC 2021) [code](https://github.com/sauradip/fewshotQAT) (Few-Shot)
 22. [Graph Convolutional Module for Temporal Action Localization in Videos](https://arxiv.org/abs/2112.00302) (TPAMI 2021)
+23. [MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection](https://arxiv.org/abs/2112.03902) (arxiv 2021)
 
 ## 2020
 
