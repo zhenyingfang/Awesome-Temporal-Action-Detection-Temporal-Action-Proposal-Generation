@@ -15,9 +15,9 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 - [**about pretrained model**](#about-pretrained-model)
 - [**ActivityNet Challenge**](#activitynet-challenge)
 - [**Papers: Temporal Action Proposal Generation**](#papers-temporal-action-proposal-generation)
-  - [2021](#2021) - [2020](#2020) - [2019](#2019) - [2018](#2018) - [2017](#2017) - [before](#before)
+  -[2022](#2022) - [2021](#2021) - [2020](#2020) - [2019](#2019) - [2018](#2018) - [2017](#2017) - [before](#before)
 - [**Papers: Temporal Action Detection**](#papers-temporal-action-detection)
-  - [2022](#2022) - [2021](#2021-1) - [2020](#2020-1) - [2019](#2019-1) - [2018](#2018-1) - [2017](#2017-1) - [before](#before-1)
+  - [2022](#2022-1) - [2021](#2021-1) - [2020](#2020-1) - [2019](#2019-1) - [2018](#2018-1) - [2017](#2017-1) - [before](#before-1)
 - [**Papers: Weakly Supervised Temporal Action Detection**](#papers-weakly-supervised-temporal-action-detection)
   - [2021](#2021-2) - [2020](#2020-2) - [2019](#2019-2) - [2018](#2018-2) - [2017](#2017-2)
 - [**Papers: Online Action Detection**](#papers-online-action-detection)
@@ -34,6 +34,9 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 2. (2021) [Transformer在时序行为检测中的应用 & 基于自监督学习的半监督时序行为检测](https://www.techbeat.net/talk-info?id=545) (DAMO Academy, Alibaba Group)
 
 # **Papers: Temporal Action Proposal Generation**
+
+## 2022
+1. (BCNet) [Temporal Action Proposal Generation with Background Constraint](https://arxiv.org/abs/2112.07984) (AAAI 2022)
 
 ## 2021
 1. (BSN++) [BSN++: Complementary Boundary Regressor with Scale-Balanced RelationModeling for Temporal Action Proposal Generation](https://arxiv.org/abs/2009.07641) (AAAI 2021) [Author's Zhihu](https://zhuanlan.zhihu.com/p/344065976)
