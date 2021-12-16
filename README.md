@@ -15,7 +15,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 - [**about pretrained model**](#about-pretrained-model)
 - [**ActivityNet Challenge**](#activitynet-challenge)
 - [**Papers: Temporal Action Proposal Generation**](#papers-temporal-action-proposal-generation)
-  -[2022](#2022) - [2021](#2021) - [2020](#2020) - [2019](#2019) - [2018](#2018) - [2017](#2017) - [before](#before)
+  - [2022](#2022) - [2021](#2021) - [2020](#2020) - [2019](#2019) - [2018](#2018) - [2017](#2017) - [before](#before)
 - [**Papers: Temporal Action Detection**](#papers-temporal-action-detection)
   - [2022](#2022-1) - [2021](#2021-1) - [2020](#2020-1) - [2019](#2019-1) - [2018](#2018-1) - [2017](#2017-1) - [before](#before-1)
 - [**Papers: Weakly Supervised Temporal Action Detection**](#papers-weakly-supervised-temporal-action-detection)
