@@ -93,6 +93,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 ## 2022
 1. (DCAN) [DCAN: Improving Temporal Action Detection via Dual Context Aggregation](https://arxiv.org/abs/2112.03612) (AAAI 2022)
 2. (TVNet) [TVNet: Temporal Voting Network for Action Localization](https://arxiv.org/pdf/2201.00434.pdf) (arxiv 2022) [code](https://github.com/hanielwang/TVNet)
+3. (ActionFormer) [ActionFormer: Localizing Moments of Actions with Transformers](https://arxiv.org/abs/2202.07925) (arxiv 2022)
 
 ## 2021
 1. (activity graph transformer) [Activity Graph Transformer for Temporal Action Localization](https://arxiv.org/abs/2101.08540) (arxiv 2021) [project](https://www.sfu.ca/~mnawhal/projects/agt.html) [code](https://github.com/Nmegha2601/activitygraph_transformer)
