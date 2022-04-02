@@ -194,6 +194,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 1. [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://arxiv.org/pdf/2112.10977.pdf) (AAAI 2022)
 2. [Weakly Supervised Temporal Action Localization via Representative Snippet Knowledge Propagation](https://arxiv.org/pdf/2203.02925.pdf) (CVPR 2022) [code](https://github.com/LeonHLJ/RSKP)
 3. (ASM-Loc) [ASM-Loc: Action-aware Segment Modeling for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2203.15187) (CVPR 2022) [code](https://github.com/boheumd/ASM-Loc)
+4. (FTCL) [Fine-grained Temporal Contrastive Learning for Weakly-supervised Temporal Action Localization](https://arxiv.org/abs/2203.16800) (CVPR 2022) [code](https://github.com/MengyuanChen21/CVPR2022-FTCL)
 
 ## 2021
 1. [A Hybrid Attention Mechanism for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2101.00545). (AAAI 2021)
