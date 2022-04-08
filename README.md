@@ -98,6 +98,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 4. (SegTAD）[SegTAD: Precise Temporal Action Detection via Semantic Segmentation](https://arxiv.org/abs/2203.01542) (arxiv 2022)
 5. (OpenTAL) [OpenTAL: Towards Open Set Temporal Action Localization](https://arxiv.org/pdf/2203.05114.pdf) (CVPR 2022) [code](https://www.rit.edu/actionlab/opental)
 6. (TALLFormer) [TALLFormer: Temporal Action Localization with Long-memory Transformer](https://arxiv.org/abs/2204.01680) (CVPR 2022)
+7. [An Empirical Study of End-to-End Temporal Action Detection](https://arxiv.org/abs/2204.02932) (CVPR 2022) [code](https://github.com/xlliu7/E2E-TAD)
 
 ## 2021
 1. (activity graph transformer) [Activity Graph Transformer for Temporal Action Localization](https://arxiv.org/abs/2101.08540) (arxiv 2021) [project](https://www.sfu.ca/~mnawhal/projects/agt.html) [code](https://github.com/Nmegha2601/activitygraph_transformer)
