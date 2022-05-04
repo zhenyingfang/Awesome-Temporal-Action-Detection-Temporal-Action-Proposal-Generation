@@ -29,6 +29,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 1. (BSP) [Boundary-sensitive Pre-training for Temporal Localization in Videos](https://arxiv.org/abs/2011.10830) (ICCV 2021)
 2. (TSP) [TSP: Temporally-Sensitive Pretraining of Video Encoders for Localization Tasks](https://arxiv.org/abs/2011.11479) (ICCVW 2021)
 3. (UP-TAL) [Unsupervised Pre-training for Temporal Action Localization Tasks](https://arxiv.org/abs/2203.13609) (CVPR 2022) [code](https://github.com/zhang-can/UP-TAL)
+4. [Contrastive Language-Action Pre-training for Temporal Localization](https://arxiv.org/abs/2204.12293) (arxiv 2022)
 
 # **ActivityNet Challenge and talks**
 1. (2021) [AcitvityNet 2021](http://activity-net.org/challenges/2021/challenge.html)
@@ -99,6 +100,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 5. (OpenTAL) [OpenTAL: Towards Open Set Temporal Action Localization](https://arxiv.org/pdf/2203.05114.pdf) (CVPR 2022) [code](https://www.rit.edu/actionlab/opental)
 6. (TALLFormer) [TALLFormer: Temporal Action Localization with Long-memory Transformer](https://arxiv.org/abs/2204.01680) (CVPR 2022)
 7. [An Empirical Study of End-to-End Temporal Action Detection](https://arxiv.org/abs/2204.02932) (CVPR 2022) [code](https://github.com/xlliu7/E2E-TAD)
+8. (BREM) [Estimation of Reliable Proposal Quality for Temporal Action Detection](https://arxiv.org/abs/2204.11695) (arxiv 2022)
 
 ## 2021
 1. (activity graph transformer) [Activity Graph Transformer for Temporal Action Localization](https://arxiv.org/abs/2101.08540) (arxiv 2021) [project](https://www.sfu.ca/~mnawhal/projects/agt.html) [code](https://github.com/Nmegha2601/activitygraph_transformer)
