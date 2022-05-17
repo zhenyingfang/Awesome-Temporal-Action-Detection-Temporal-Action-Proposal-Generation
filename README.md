@@ -102,6 +102,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 7. [An Empirical Study of End-to-End Temporal Action Detection](https://arxiv.org/abs/2204.02932) (CVPR 2022) [code](https://github.com/xlliu7/E2E-TAD)
 8. (BREM) [Estimation of Reliable Proposal Quality for Temporal Action Detection](https://arxiv.org/abs/2204.11695) (arxiv 2022)
 9. (BasicTAD) [BasicTAD: an Astounding RGB-Only Baseline for Temporal Action Detection](https://arxiv.org/abs/2205.02717) (arxiv 2022) [code](https://github.com/MCG-NJU/BasicTAD)
+10. (ETAD) [ETAD: A Unified Framework for Efficient Temporal Action Detection](https://arxiv.org/abs/2205.07134) (arxiv 2022) [code]( https://github.com/sming256/ETAD)
 
 ## 2021
 1. (activity graph transformer) [Activity Graph Transformer for Temporal Action Localization](https://arxiv.org/abs/2101.08540) (arxiv 2021) [project](https://www.sfu.ca/~mnawhal/projects/agt.html) [code](https://github.com/Nmegha2601/activitygraph_transformer)
