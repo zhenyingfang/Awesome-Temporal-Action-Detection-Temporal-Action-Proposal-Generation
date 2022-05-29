@@ -21,7 +21,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 - [**Papers: Weakly Supervised Temporal Action Detection**](#papers-weakly-supervised-temporal-action-detection)
   - [2022](#2022-2) - [2021](#2021-2) - [2020](#2020-2) - [2019](#2019-2) - [2018](#2018-2) - [2017](#2017-2)
 - [**Papers: Online Action Detection**](#papers-online-action-detection)
-  - [2021](#2021-3)
+  - [2022](#2022-3) - [2021](#2021-3)
 
 
 -----
@@ -103,6 +103,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 8. (BREM) [Estimation of Reliable Proposal Quality for Temporal Action Detection](https://arxiv.org/abs/2204.11695) (arxiv 2022)
 9. (BasicTAD) [BasicTAD: an Astounding RGB-Only Baseline for Temporal Action Detection](https://arxiv.org/abs/2205.02717) (arxiv 2022) [code](https://github.com/MCG-NJU/BasicTAD)
 10. (ETAD) [ETAD: A Unified Framework for Efficient Temporal Action Detection](https://arxiv.org/abs/2205.07134) (arxiv 2022) [code]( https://github.com/sming256/ETAD)
+11. [Structured Attention Composition for Temporal Action Localization](https://arxiv.org/abs/2205.09956) (Tip 2022) [code](https://github.com/VividLe/Online-Action-Detection)
 
 ## 2021
 1. (activity graph transformer) [Activity Graph Transformer for Temporal Action Localization](https://arxiv.org/abs/2101.08540) (arxiv 2021) [project](https://www.sfu.ca/~mnawhal/projects/agt.html) [code](https://github.com/Nmegha2601/activitygraph_transformer)
@@ -282,6 +283,9 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 
 ----
 # **Papers: Online Action Detection**
+
+## 2022
+1. (Colar) [Colar: Effective and Efficient Online Action Detection by Consulting Exemplars](https://arxiv.org/abs/2203.01057) (CVPR 2022) [code](https://github.com/VividLe/Online-Action-Detection)
 
 ## 2021
 
