@@ -239,7 +239,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 8. **Background Modeling via Uncertainty Estimation for Weakly-supervised Action Localization** (arxiv 2020) [paper](https://arxiv.org/abs/2006.07006) [code.PyTorch](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation)
 9. (A2CL-PT) **Adversarial Background-Aware Loss for Weakly-supervised Temporal Activity Localization** (ECCV 2020) [paper](https://arxiv.org/abs/2007.06643) [code.PyTorch](https://github.com/MichiganCOG/A2CL-PT)
 10. **Weakly Supervised Temporal Action Localization with Segment-Level Labels** (arxiv 2020)
-11. (ECM) **Equivalent Classification Mapping for Weakly Supervised Temporal Action Localization** (arxiv 2020) [paper](https://arxiv.org/abs/2008.07728v1)
+11. (ECM) **Equivalent Classification Mapping for Weakly Supervised Temporal Action Localization** (arxiv 2020 -> TPAMI 2022) [paper](https://arxiv.org/abs/2008.07728v1)
 12. [Two-Stream Consensus Network for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2010.11594v1) (ECCV 2020 spotlight)
 13. [Learning Temporal Co-Attention Models for Unsupervised Video Action Localization](https://openaccess.thecvf.com/content_CVPR_2020/html/Gong_Learning_Temporal_Co-Attention_Models_for_Unsupervised_Video_Action_Localization_CVPR_2020_paper.html) (CVPR 2020)
 14. [Action Completeness Modeling with Background Aware Networks for Weakly-Supervised Temporal Action Localization](https://dl.acm.org/doi/abs/10.1145/3394171.3413687) (ACM MM 2020)
