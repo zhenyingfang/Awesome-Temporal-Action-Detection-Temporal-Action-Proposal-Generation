@@ -286,6 +286,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 
 ## 2022
 1. (Colar) [Colar: Effective and Efficient Online Action Detection by Consulting Exemplars](https://arxiv.org/abs/2203.01057) (CVPR 2022) [code](https://github.com/VividLe/Online-Action-Detection)
+2. (GateHUB) [GateHUB: Gated History Unit with Background Suppression for Online Action Detection](https://arxiv.org/abs/2206.04668) (CVPR 2022)
 
 ## 2021
 
