@@ -129,6 +129,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 21. [Few-Shot Temporal Action Localization with Query Adaptive Transformer](https://arxiv.org/abs/2110.10552) (BMVC 2021) [code](https://github.com/sauradip/fewshotQAT) (Few-Shot)
 22. [Graph Convolutional Module for Temporal Action Localization in Videos](https://arxiv.org/abs/2112.00302) (TPAMI 2021)
 23. [MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection](https://arxiv.org/abs/2112.03902) (arxiv 2021)
+24. (VSGN) [Video Self-Stitching Graph Network for Temporal Action Localization](https://arxiv.org/abs/2011.14598) (ICCV 2021) [code](https://github.com/coolbay/VSGN)
 
 ## 2020
 
