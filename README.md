@@ -120,7 +120,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 12. [Proposal Relation Network for Temporal Action Detection](https://arxiv.org/abs/2106.11812) (CVPRW 2021)
 13. [Exploring Stronger Feature for Temporal Action Localization](https://arxiv.org/abs/2106.13014) (CVPRW 2021)
 14. (SRF-Net) [SRF-Net: Selective Receptive Field Network for Anchor-Free Temporal Action Detection](https://arxiv.org/abs/2106.15258) (ICASSP 2021)
-15. [RGB Stream Is Enough for Temporal Action Detection](https://arxiv.org/abs/2107.04362) (arxiv 2021)
+15. [RGB Stream Is Enough for Temporal Action Detection](https://arxiv.org/abs/2107.04362) (arxiv 2021) [code](https://github.com/Media-Smart/vedatad?utm_source=catalyzex.com)
 16. (AVFusion) [Hear Me Out: Fusional Approaches for Audio Augmented Temporal Action Localization](https://arxiv.org/pdf/2106.14118v1.pdf) (arxiv 2021) [Code](https://github.com/skelemoa/tal-hmo)
 17. [Transferable Knowledge-Based Multi-Granularity Aggregation Network for Temporal Action Localization: Submission to ActivityNet Challenge 2021](https://arxiv.org/abs/2107.12618) (HACS challenge 2021)
 18. [Enriching Local and Global Contexts for Temporal Action Localization](https://arxiv.org/abs/2107.12960) (ICCV 2021)
