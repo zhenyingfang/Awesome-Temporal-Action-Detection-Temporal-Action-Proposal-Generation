@@ -204,6 +204,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 3. (ASM-Loc) [ASM-Loc: Action-aware Segment Modeling for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2203.15187) (CVPR 2022) [code](https://github.com/boheumd/ASM-Loc)
 4. (FTCL) [Fine-grained Temporal Contrastive Learning for Weakly-supervised Temporal Action Localization](https://arxiv.org/abs/2203.16800) (CVPR 2022) [code](https://github.com/MengyuanChen21/CVPR2022-FTCL)
 5. (C3BN) [Convex Combination Consistency between Neighbors for Weakly-supervised Action Localization](https://arxiv.org/abs/2205.00400) (arxiv 2022)
+6. (DCC) [Exploring Denoised Cross-video Contrast for Weakly-supervised Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Exploring_Denoised_Cross-Video_Contrast_for_Weakly-Supervised_Temporal_Action_Localization_CVPR_2022_paper.pdf) (CVPR 2022)
 
 ## 2021
 1. [A Hybrid Attention Mechanism for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2101.00545). (AAAI 2021)
