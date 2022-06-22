@@ -108,6 +108,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 12. (RCL) [RCL: Recurrent Continuous Localization for Temporal Action Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_RCL_Recurrent_Continuous_Localization_for_Temporal_Action_Detection_CVPR_2022_paper.pdf) (CVPR 2022)
 13. (RefactorNet) [Learning to Refactor Action and Co-occurrence Features for Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2022/papers/Xia_Learning_To_Refactor_Action_and_Co-Occurrence_Features_for_Temporal_Action_CVPR_2022_paper.pdf) (CVPR 2022)
 14. (MS-TCT) [MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Dai_MS-TCT_Multi-Scale_Temporal_ConvTransformer_for_Action_Detection_CVPR_2022_paper.pdf) (CVPR 2022) [code](https://github.com/dairui01/MS-TCT)
+15. (OATD) [One-stage Action Detection Transformer](https://arxiv.org/abs/2206.10080) (arxiv 2022)
 
 ## 2021
 1. (activity graph transformer) [Activity Graph Transformer for Temporal Action Localization](https://arxiv.org/abs/2101.08540) (arxiv 2021) [project](https://www.sfu.ca/~mnawhal/projects/agt.html) [code](https://github.com/Nmegha2601/activitygraph_transformer)
