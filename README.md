@@ -104,7 +104,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 5. (OpenTAL) [OpenTAL: Towards Open Set Temporal Action Localization](https://arxiv.org/pdf/2203.05114.pdf) (CVPR 2022) [code](https://www.rit.edu/actionlab/opental)
 6. (TALLFormer) [TALLFormer: Temporal Action Localization with Long-memory Transformer](https://arxiv.org/abs/2204.01680) (CVPR 2022)
 7. [An Empirical Study of End-to-End Temporal Action Detection](https://arxiv.org/abs/2204.02932) (CVPR 2022) [code](https://github.com/xlliu7/E2E-TAD)
-8. (BREM) [Estimation of Reliable Proposal Quality for Temporal Action Detection](https://arxiv.org/abs/2204.11695) (arxiv 2022)
+8. (BREM) [Estimation of Reliable Proposal Quality for Temporal Action Detection](https://arxiv.org/abs/2204.11695) (ACM MM 2022)
 9. (BasicTAD) [BasicTAD: an Astounding RGB-Only Baseline for Temporal Action Detection](https://arxiv.org/abs/2205.02717) (arxiv 2022) [code](https://github.com/MCG-NJU/BasicTAD)
 10. (ETAD) [ETAD: A Unified Framework for Efficient Temporal Action Detection](https://arxiv.org/abs/2205.07134) (arxiv 2022) [code]( https://github.com/sming256/ETAD)
 11. [Structured Attention Composition for Temporal Action Localization](https://arxiv.org/abs/2205.09956) (Tip 2022) [code](https://github.com/VividLe/Structured-Attention-Composition)
