@@ -113,6 +113,8 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 14. (MS-TCT) [MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Dai_MS-TCT_Multi-Scale_Temporal_ConvTransformer_for_Action_Detection_CVPR_2022_paper.pdf) (CVPR 2022) [code](https://github.com/dairui01/MS-TCT)
 15. (OATD) [One-stage Action Detection Transformer](https://arxiv.org/abs/2206.10080) (arxiv 2022)
 16. [Context-aware Proposal Network for Temporal Action Detection](https://arxiv.org/abs/2206.09082) (CVPR-2022 ActivityNet Challenge winning solution)
+17. [Dual relation network for temporal action localization](https://www.sciencedirect.com/science/article/abs/pii/S0031320322002060) (Pattern Recognition 2022)
+18. [Learning Disentangled Classification and Localization Representations for Temporal Action Localization](https://www.aaai.org/AAAI22Papers/AAAI-926.ZhuZ.pdf) (AAAI 2022)
 
 ## 2021
 1. (activity graph transformer) [Activity Graph Transformer for Temporal Action Localization](https://arxiv.org/abs/2101.08540) (arxiv 2021) [project](https://www.sfu.ca/~mnawhal/projects/agt.html) [code](https://github.com/Nmegha2601/activitygraph_transformer)
