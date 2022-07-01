@@ -116,6 +116,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 17. [Dual relation network for temporal action localization](https://www.sciencedirect.com/science/article/abs/pii/S0031320322002060) (Pattern Recognition 2022)
 18. [Learning Disentangled Classification and Localization Representations for Temporal Action Localization](https://www.aaai.org/AAAI22Papers/AAAI-926.ZhuZ.pdf) (AAAI 2022)
 19. (DDM) [Progressive Attention on Multi-Level Dense Difference Maps for Generic Event Boundary Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Progressive_Attention_on_Multi-Level_Dense_Difference_Maps_for_Generic_Event_CVPR_2022_paper.pdf) (CVPR 2022) [code](https://github.com/MCG-NJU/DDM)
+20. [Submission to Generic Event Boundary Detection Challenge@CVPR 2022: Local Context Modeling and Global Boundary Decoding Approach](https://arxiv.org/pdf/2206.15268.pdf) (CVPR 2022 Challenge)
 
 ## 2021
 1. (activity graph transformer) [Activity Graph Transformer for Temporal Action Localization](https://arxiv.org/abs/2101.08540) (arxiv 2021) [project](https://www.sfu.ca/~mnawhal/projects/agt.html) [code](https://github.com/Nmegha2601/activitygraph_transformer)
