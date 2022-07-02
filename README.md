@@ -9,7 +9,7 @@
 Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp; Temporal Action Proposal Generation
 
 
-# [**I am looking for a PhD candidate or RA position, please email me if you are interested**](https://zhenyingfang.github.io/)
+<!-- # [**I am looking for a PhD candidate or RA position, please email me if you are interested**](https://zhenyingfang.github.io/) -->
 
 -----
 **Contents**
