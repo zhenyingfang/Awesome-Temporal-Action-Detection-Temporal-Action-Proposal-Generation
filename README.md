@@ -119,6 +119,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 19. (DDM) [Progressive Attention on Multi-Level Dense Difference Maps for Generic Event Boundary Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Progressive_Attention_on_Multi-Level_Dense_Difference_Maps_for_Generic_Event_CVPR_2022_paper.pdf) (CVPR 2022) [code](https://github.com/MCG-NJU/DDM)
 20. [Submission to Generic Event Boundary Detection Challenge@CVPR 2022: Local Context Modeling and Global Boundary Decoding Approach](https://arxiv.org/pdf/2206.15268.pdf) (CVPR 2022 Challenge)
 21. (HTNet) [HTNet: Anchor-free Temporal Action Localization with Hierarchical Transformers](https://arxiv.org/abs/2207.09662) (arxiv 2022)
+22. (STPT) [An Efficient Spatio-Temporal Pyramid Transformer for Action Detection](https://arxiv.org/abs/2207.10448) (ECCV 2022)
 
 ## 2021
 1. (activity graph transformer) [Activity Graph Transformer for Temporal Action Localization](https://arxiv.org/abs/2101.08540) (arxiv 2021) [project](https://www.sfu.ca/~mnawhal/projects/agt.html) [code](https://github.com/Nmegha2601/activitygraph_transformer)
