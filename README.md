@@ -120,6 +120,9 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 20. [Submission to Generic Event Boundary Detection Challenge@CVPR 2022: Local Context Modeling and Global Boundary Decoding Approach](https://arxiv.org/pdf/2206.15268.pdf) (CVPR 2022 Challenge)
 21. (HTNet) [HTNet: Anchor-free Temporal Action Localization with Hierarchical Transformers](https://arxiv.org/abs/2207.09662) (arxiv 2022)
 22. (STPT) [An Efficient Spatio-Temporal Pyramid Transformer for Action Detection](https://arxiv.org/abs/2207.10448) (ECCV 2022)
+23. (TAGS) [Proposal-Free Temporal Action Detection with Global Segmentation Mask Learning](https://arxiv.org/abs/2207.06580) (ECCV 2022) [code](https://github.com/sauradip/TAGS)
+24. [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/abs/2112.04478) (ECCV 2022) [code](https://github.com/ju-chen/Efficient-Prompt)
+25. (ReAct) [ReAct: Temporal Action Detection with Relational Queries](https://arxiv.org/abs/2207.07097) (ECCV 2022) [code](https://github.com/sssste/React)
 
 ## 2021
 1. (activity graph transformer) [Activity Graph Transformer for Temporal Action Localization](https://arxiv.org/abs/2101.08540) (arxiv 2021) [project](https://www.sfu.ca/~mnawhal/projects/agt.html) [code](https://github.com/Nmegha2601/activitygraph_transformer)
@@ -224,6 +227,8 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 7. (ASM-Loc) [ASM-Loc: Action-aware Segment Modeling for Weakly-Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2022/papers/He_ASM-Loc_Action-Aware_Segment_Modeling_for_Weakly-Supervised_Temporal_Action_Localization_CVPR_2022_paper.pdf) (CVPR 2022) [code](https://github.com/boheumd/ASM-Loc)
 8. (ACN) [Action Coherence Network for Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/9404867) (TMM 2022)
 9. (HAAN) [Weakly-Supervised Temporal Action Detection for Fine-Grained Videos with Hierarchical Atomic Actions](https://arxiv.org/abs/2207.11805) (ECCV 2022) [code](https://github.com/lizhi1104/HAAN)
+10. (SPOT) (**Semi-Supervised**) [Semi-Supervised Temporal Action Detection with Proposal-Free Masking](https://arxiv.org/abs/2207.07059) (ECCV 2022) [code](https://github.com/sauradip/SPOT)
+11. (STALE) (**Zero-Shot**) [Zero-Shot Temporal Action Detection via Vision-Language Prompting](https://arxiv.org/abs/2207.08184) (ECCV 2022) [code](https://github.com/sauradip/stale)
 
 ## 2021
 1. [A Hybrid Attention Mechanism for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2101.00545). (AAAI 2021)
