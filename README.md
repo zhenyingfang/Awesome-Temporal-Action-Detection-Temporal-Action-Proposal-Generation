@@ -123,6 +123,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 23. (TAGS) [Proposal-Free Temporal Action Detection with Global Segmentation Mask Learning](https://arxiv.org/abs/2207.06580) (ECCV 2022) [code](https://github.com/sauradip/TAGS)
 24. [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/abs/2112.04478) (ECCV 2022) [code](https://github.com/ju-chen/Efficient-Prompt)
 25. (ReAct) [ReAct: Temporal Action Detection with Relational Queries](https://arxiv.org/abs/2207.07097) (ECCV 2022) [code](https://github.com/sssste/React)
+26. (TadTR) [End-to-end Temporal Action Detection with Transformer](https://arxiv.org/abs/2106.10271) (TIP 2022) [code](https://github.com/xlliu7/TadTR)
 
 ## 2021
 1. (activity graph transformer) [Activity Graph Transformer for Temporal Action Localization](https://arxiv.org/abs/2101.08540) (arxiv 2021) [project](https://www.sfu.ca/~mnawhal/projects/agt.html) [code](https://github.com/Nmegha2601/activitygraph_transformer)
@@ -134,21 +135,21 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 7. [Read and Attend: Temporal Localisation in Sign Language Videos](https://arxiv.org/abs/2103.16481) (CVPR 2021) (Sign Language Videos)
 8. [Low Pass Filter for Anti-aliasing in Temporal Action Localization](https://arxiv.org/abs/2104.11403) (arxiv 2021)
 9. [FineAction: A Fined Video Dataset for Temporal Action Localization](https://arxiv.org/abs/2105.11107) (One track of DeeperAction Workshop@ICCV2021) [Homepage](https://deeperaction.github.io/fineaction/)
-10. (TadTR) [End-to-end Temporal Action Detection with Transformer](https://arxiv.org/abs/2106.10271) (arxiv 2021) [code](https://github.com/xlliu7/TadTR)
-11. [Three Birds with One Stone: Multi-Task Temporal Action Detection via Recycling Temporal Annotations](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Three_Birds_with_One_Stone_Multi-Task_Temporal_Action_Detection_via_CVPR_2021_paper.html) (CVPR 2021)
-12. [Proposal Relation Network for Temporal Action Detection](https://arxiv.org/abs/2106.11812) (CVPRW 2021)
-13. [Exploring Stronger Feature for Temporal Action Localization](https://arxiv.org/abs/2106.13014) (CVPRW 2021)
-14. (SRF-Net) [SRF-Net: Selective Receptive Field Network for Anchor-Free Temporal Action Detection](https://arxiv.org/abs/2106.15258) (ICASSP 2021)
-15. [RGB Stream Is Enough for Temporal Action Detection](https://arxiv.org/abs/2107.04362) (arxiv 2021) [code](https://github.com/Media-Smart/vedatad?utm_source=catalyzex.com)
-16. (AVFusion) [Hear Me Out: Fusional Approaches for Audio Augmented Temporal Action Localization](https://arxiv.org/pdf/2106.14118v1.pdf) (arxiv 2021) [Code](https://github.com/skelemoa/tal-hmo)
-17. [Transferable Knowledge-Based Multi-Granularity Aggregation Network for Temporal Action Localization: Submission to ActivityNet Challenge 2021](https://arxiv.org/abs/2107.12618) (HACS challenge 2021)
-18. [Enriching Local and Global Contexts for Temporal Action Localization](https://arxiv.org/abs/2107.12960) (ICCV 2021)
-19. (CSA) [Class Semantics-based Attention for Action Detection](https://arxiv.org/abs/2109.02613) (ICCV 2021)
-20. (SP-TAD) [Towards High-Quality Temporal Action Detection with Sparse Proposals](https://arxiv.org/abs/2109.08847) (arxiv 2021) [Code](https://github.com/wjn922/SP-TAD)
-21. [Few-Shot Temporal Action Localization with Query Adaptive Transformer](https://arxiv.org/abs/2110.10552) (BMVC 2021) [code](https://github.com/sauradip/fewshotQAT) (Few-Shot)
-22. [Graph Convolutional Module for Temporal Action Localization in Videos](https://arxiv.org/abs/2112.00302) (TPAMI 2021)
-23. [MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection](https://arxiv.org/abs/2112.03902) (arxiv 2021)
-24. (VSGN) [Video Self-Stitching Graph Network for Temporal Action Localization](https://arxiv.org/abs/2011.14598) (ICCV 2021) [code](https://github.com/coolbay/VSGN)
+10. [Three Birds with One Stone: Multi-Task Temporal Action Detection via Recycling Temporal Annotations](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Three_Birds_with_One_Stone_Multi-Task_Temporal_Action_Detection_via_CVPR_2021_paper.html) (CVPR 2021)
+11. [Proposal Relation Network for Temporal Action Detection](https://arxiv.org/abs/2106.11812) (CVPRW 2021)
+12. [Exploring Stronger Feature for Temporal Action Localization](https://arxiv.org/abs/2106.13014) (CVPRW 2021)
+13. (SRF-Net) [SRF-Net: Selective Receptive Field Network for Anchor-Free Temporal Action Detection](https://arxiv.org/abs/2106.15258) (ICASSP 2021)
+14. [RGB Stream Is Enough for Temporal Action Detection](https://arxiv.org/abs/2107.04362) (arxiv 2021) [code](https://github.com/Media-Smart/vedatad?utm_source=catalyzex.com)
+15. (AVFusion) [Hear Me Out: Fusional Approaches for Audio Augmented Temporal Action Localization](https://arxiv.org/pdf/2106.14118v1.pdf) (arxiv 2021) [Code](https://github.com/skelemoa/tal-hmo)
+16. [Transferable Knowledge-Based Multi-Granularity Aggregation Network for Temporal Action Localization: Submission to ActivityNet Challenge 2021](https://arxiv.org/abs/2107.12618) (HACS challenge 2021)
+17. [Enriching Local and Global Contexts for Temporal Action Localization](https://arxiv.org/abs/2107.12960) (ICCV 2021)
+18. (CSA) [Class Semantics-based Attention for Action Detection](https://arxiv.org/abs/2109.02613) (ICCV 2021)
+19. (SP-TAD) [Towards High-Quality Temporal Action Detection with Sparse Proposals](https://arxiv.org/abs/2109.08847) (arxiv 2021) [Code](https://github.com/wjn922/SP-TAD)
+20. [Few-Shot Temporal Action Localization with Query Adaptive Transformer](https://arxiv.org/abs/2110.10552) (BMVC 2021) [code](https://github.com/sauradip/fewshotQAT) (Few-Shot)
+21. [Graph Convolutional Module for Temporal Action Localization in Videos](https://arxiv.org/abs/2112.00302) (TPAMI 2021)
+22. [MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection](https://arxiv.org/abs/2112.03902) (arxiv 2021)
+23. (VSGN) [Video Self-Stitching Graph Network for Temporal Action Localization](https://arxiv.org/abs/2011.14598) (ICCV 2021) [code](https://github.com/coolbay/VSGN)
+24. (MUSES) [Multi-shot Temporal Event Localization: a Benchmark](https://arxiv.org/abs/2012.09434) (CVPR 2021) [project](https://songbai.site/muses/) [code](https://github.com/xlliu7/MUSES) [dataset](https://songbai.site/muses/)
 
 ## 2020
 
@@ -164,7 +165,6 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 10. (C-TCN) [Deep Concept-wise Temporal Convolutional Networks for Action Localization](https://arxiv.org/abs/1908.09442) (ACM MM 2020) [code.PaddlePaddle](https://github.com/PaddlePaddle/models/tree/develop/PaddleCV/video)
 11. (MLTPN) [Multi-Level Temporal Pyramid Network for Action Detection](https://arxiv.org/abs/2008.03270) (PRCV 2020)
 12. (SALAD) [SALAD: Self-Assessment Learning for Action Detection](https://arxiv.org/abs/2011.06958) (arxiv 2020)
-13. [Multi-shot Temporal Event Localization: a Benchmark](https://arxiv.org/abs/2012.09434) (arxiv 2020) [project](https://songbai.site/muses/) [code](https://github.com/xlliu7/MUSES) [dataset](https://songbai.site/muses/)
 
 ## 2019
 
