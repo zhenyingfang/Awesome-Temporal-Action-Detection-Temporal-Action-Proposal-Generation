@@ -124,6 +124,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 24. [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/abs/2112.04478) (ECCV 2022) [code](https://github.com/ju-chen/Efficient-Prompt)
 25. (ReAct) [ReAct: Temporal Action Detection with Relational Queries](https://arxiv.org/abs/2207.07097) (ECCV 2022) [code](https://github.com/sssste/React)
 26. (TadTR) [End-to-end Temporal Action Detection with Transformer](https://arxiv.org/abs/2106.10271) (TIP 2022) [code](https://github.com/xlliu7/TadTR)
+27. (TAL-MTS) [Temporal Action Localization with Multi-temporal Scales](https://arxiv.org/abs/2208.07493) (arxiv 2022)
 
 ## 2021
 1. (activity graph transformer) [Activity Graph Transformer for Temporal Action Localization](https://arxiv.org/abs/2101.08540) (arxiv 2021) [project](https://www.sfu.ca/~mnawhal/projects/agt.html) [code](https://github.com/Nmegha2601/activitygraph_transformer)
