@@ -8,9 +8,6 @@
 # Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/zhenyingfang/Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation)
 Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp; Temporal Action Proposal Generation
 
-
-<!-- # [**I am looking for a PhD candidate or RA position, please email me if you are interested**](https://zhenyingfang.github.io/) -->
-
 -----
 **Contents**
 <!-- TOC -->
@@ -25,6 +22,8 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
   - [2022](#2022-2) - [2021](#2021-2) - [2020](#2020-2) - [2019](#2019-2) - [2018](#2018-2) - [2017](#2017-2)
 - [**Papers: Online Action Detection**](#papers-online-action-detection)
   - [2022](#2022-3) - [2021](#2021-3)
+- [**Semi-Supervised](#semi-supervised)
+  - [2022](#2022-4)
 
 
 -----
@@ -322,3 +321,9 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 1. (WOAD) [WOAD: Weakly Supervised Online Action Detection in Untrimmed Videos](https://openaccess.thecvf.com/content/CVPR2021/html/Gao_WOAD_Weakly_Supervised_Online_Action_Detection_in_Untrimmed_Videos_CVPR_2021_paper.html) (CVPR 2021)
 2. (OadTR) [OadTR: Online Action Detection with Transformers](https://arxiv.org/abs/2106.11149) [code](https://github.com/wangxiang1230/OadTR) (arxiv 2021)
 3. (LSTR) [Long Short-Term Transformer for Online Action Detection](https://arxiv.org/abs/2107.03377) (arxiv 2021)
+
+----
+# **Semi-Supervised
+
+## 2022
+1.
