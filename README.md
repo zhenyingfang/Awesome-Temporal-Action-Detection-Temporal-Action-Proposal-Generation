@@ -8,8 +8,6 @@
 # Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/zhenyingfang/Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation)
 Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Action Detection &amp; Temporal Action Proposal Generation
 
-![#f03c15](222222)
-I'm always looking for new friends, <b style='color:red'>Wechat: zhenying_fang</b>
 **I'm always looking for new friends, Wechat: zhenying_fang**
 
 -----
