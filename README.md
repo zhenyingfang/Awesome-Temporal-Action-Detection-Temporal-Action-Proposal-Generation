@@ -25,7 +25,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 - [**Papers: Online Action Detection**](#papers-online-action-detection)
   - [2022](#2022-3) - [2021](#2021-3)
 - [**Semi-Supervised**](#semi-supervised)
-  - [2022](#2022-4)
+  - [2022](#2022-4) - [2021](#2021-4) - [2019](#2019-4)
 
 
 -----
@@ -287,10 +287,9 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 8. (3C-Net) **3C-Net: Category Count and Center Loss for Weakly-Supervised Action Localization** (ICCV 2019) [paper](https://arxiv.org/abs/1908.08216) [code.PyTorch](https://github.com/naraysa/3c-net)
 9. (CMCS) **Completeness Modeling and Context Separation for Weakly SupervisedTemporal Action Localization** (CVPR 2019) [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Completeness_Modeling_and_Context_Separation_for_Weakly_Supervised_Temporal_Action_CVPR_2019_paper.pdf) [code.PyTorch](https://github.com/Finspire13/CMCS-Temporal-Action-Localization)
 10. (RefineLoc) **RefineLoc: Iterative Refinement for Weakly-Supervised Action Localization** (arxiv 2019) [paper](https://arxiv.org/abs/1904.00227) [homepage](http://humamalwassel.com/publication/refineloc/)
-11. (TTC-Loc) **Towards Train-Test Consistency for Semi-supervised Temporal Action Localization** (arxiv 2019) (version v3 for LPAT) [paper](https://arxiv.org/abs/1910.11285v3)
-12. (ASSG) **Adversarial Seeded Sequence Growing for Weakly-Supervised Temporal Action Localization** (ACM MM 2019) [paper](https://arxiv.org/abs/1908.02422)
-13. (TSRNet) **Learning Transferable Self-attentive Representations for Action Recognition in Untrimmed Videos with Weak Supervision** (AAAI 2019) [paper](https://arxiv.org/abs/1902.07370)
-14. (STAR) **Segregated Temporal Assembly Recurrent Networks for Weakly Supervised Multiple Action Detection** (AAAI 2019) [paper](https://arxiv.org/abs/1811.07460)
+11. (ASSG) **Adversarial Seeded Sequence Growing for Weakly-Supervised Temporal Action Localization** (ACM MM 2019) [paper](https://arxiv.org/abs/1908.02422)
+12. (TSRNet) **Learning Transferable Self-attentive Representations for Action Recognition in Untrimmed Videos with Weak Supervision** (AAAI 2019) [paper](https://arxiv.org/abs/1902.07370)
+13. (STAR) **Segregated Temporal Assembly Recurrent Networks for Weakly Supervised Multiple Action Detection** (AAAI 2019) [paper](https://arxiv.org/abs/1811.07460)
 
 ## 2018
 
@@ -333,3 +332,4 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 
 ## 2019
 1. [Learning Temporal Action Proposals With Fewer Labels](https://arxiv.org/abs/1910.01286) (ICCV 2019)
+2. (TTC-Loc) [Towards Train-Test Consistency for Semi-supervised Temporal Action Localization](https://arxiv.org/abs/1910.11285v3) (arxiv 2019)
