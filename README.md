@@ -51,10 +51,9 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 2. (RTD-Net) [Relaxed Transformer Decoders for Direct Action Proposal Generation](https://arxiv.org/abs/2102.01894) (ICCV 2021) [code](https://github.com/MCG-NJU/RTD-Action) [Zhihu](https://zhuanlan.zhihu.com/p/363133304)
 3. (TCANet) [Temporal Context Aggregation Network for Temporal Action Proposal Refinement](https://arxiv.org/abs/2103.13141) (CVPR 2021) [Zhihu](https://zhuanlan.zhihu.com/p/358754602)
 4. [Augmented Transformer with Adaptive Graph for Temporal Action Proposal Generation](https://arxiv.org/abs/2103.16024) (arxiv 2021)
-5. [Self-Supervised Learning for Semi-Supervised Temporal Action Proposal](https://arxiv.org/abs/2104.03214) (CVPR 2021) [code](https://github.com/wangxiang1230/SSTAP)
-6. (TAPG) [Temporal Action Proposal Generation with Transformers](https://arxiv.org/abs/2105.12043) (arxiv 2021)
-7. (AEN) [Agent-Environment Network for Temporal Action Proposal Generation](https://arxiv.org/abs/2107.08323) (ICASSP 2021)
-8. (AEI) [AEI: Actors-Environment Interaction with Adaptive Attention for Temporal Action Proposals Generation](https://arxiv.org/abs/2110.11474) (BMVC 2021) [code](https://github.com/vhvkhoa/TAPG-AgentEnvInteration)
+5. (TAPG) [Temporal Action Proposal Generation with Transformers](https://arxiv.org/abs/2105.12043) (arxiv 2021)
+6. (AEN) [Agent-Environment Network for Temporal Action Proposal Generation](https://arxiv.org/abs/2107.08323) (ICASSP 2021)
+7. (AEI) [AEI: Actors-Environment Interaction with Adaptive Attention for Temporal Action Proposals Generation](https://arxiv.org/abs/2110.11474) (BMVC 2021) [code](https://github.com/vhvkhoa/TAPG-AgentEnvInteration)
 
 ## 2020
 
@@ -329,3 +328,6 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 
 ## 2022
 1. (AL-STAL) [Active Learning with Effective Scoring Functions for Semi-Supervised Temporal Action Localization](https://arxiv.org/abs/2208.14856) (TCSVT 2022)
+
+## 2021
+1. (SSTAP) [Self-Supervised Learning for Semi-Supervised Temporal Action Proposal](https://arxiv.org/abs/2104.03214) (CVPR 2021) [code](https://github.com/wangxiang1230/SSTAP)
