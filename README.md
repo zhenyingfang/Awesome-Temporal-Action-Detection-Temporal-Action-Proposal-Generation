@@ -323,7 +323,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 3. (LSTR) [Long Short-Term Transformer for Online Action Detection](https://arxiv.org/abs/2107.03377) (arxiv 2021)
 
 ----
-# **Semi-Supervised
+# **Semi-Supervised**
 
 ## 2022
 1.
