@@ -326,4 +326,4 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 # **Semi-Supervised**
 
 ## 2022
-1.
+1. (AL-STAL) [Active Learning with Effective Scoring Functions for Semi-Supervised Temporal Action Localization](https://arxiv.org/abs/2208.14856) (TCSVT 2022)
