@@ -228,8 +228,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 7. (ASM-Loc) [ASM-Loc: Action-aware Segment Modeling for Weakly-Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2022/papers/He_ASM-Loc_Action-Aware_Segment_Modeling_for_Weakly-Supervised_Temporal_Action_Localization_CVPR_2022_paper.pdf) (CVPR 2022) [code](https://github.com/boheumd/ASM-Loc)
 8. (ACN) [Action Coherence Network for Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/9404867) (TMM 2022)
 9. (HAAN) [Weakly-Supervised Temporal Action Detection for Fine-Grained Videos with Hierarchical Atomic Actions](https://arxiv.org/abs/2207.11805) (ECCV 2022) [code](https://github.com/lizhi1104/HAAN)
-10. (SPOT) (**Semi-Supervised**) [Semi-Supervised Temporal Action Detection with Proposal-Free Masking](https://arxiv.org/abs/2207.07059) (ECCV 2022) [code](https://github.com/sauradip/SPOT)
-11. (STALE) (**Zero-Shot**) [Zero-Shot Temporal Action Detection via Vision-Language Prompting](https://arxiv.org/abs/2207.08184) (ECCV 2022) [code](https://github.com/sauradip/stale)
+10. (STALE) (**Zero-Shot**) [Zero-Shot Temporal Action Detection via Vision-Language Prompting](https://arxiv.org/abs/2207.08184) (ECCV 2022) [code](https://github.com/sauradip/stale)
 
 ## 2021
 1. [A Hybrid Attention Mechanism for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2101.00545). (AAAI 2021)
@@ -327,6 +326,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 
 ## 2022
 1. (AL-STAL) [Active Learning with Effective Scoring Functions for Semi-Supervised Temporal Action Localization](https://arxiv.org/abs/2208.14856) (TCSVT 2022)
+2. (SPOT) [Semi-Supervised Temporal Action Detection with Proposal-Free Masking](https://arxiv.org/abs/2207.07059) (ECCV 2022) [code](https://github.com/sauradip/SPOT)
 
 ## 2021
 1. (SSTAP) [Self-Supervised Learning for Semi-Supervised Temporal Action Proposal](https://arxiv.org/abs/2104.03214) (CVPR 2021) [code](https://github.com/wangxiang1230/SSTAP)
