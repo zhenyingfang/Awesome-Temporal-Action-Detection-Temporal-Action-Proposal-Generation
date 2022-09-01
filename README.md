@@ -68,14 +68,13 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 
 1. (SRG) **SRG: Snippet Relatedness-based Temporal Action Proposal Generator** (IEEE Trans 2019) [paper](https://arxiv.org/abs/1911.11306)
 2. (DPP) **Deep Point-wise Prediction for Action Temporal Proposal** (ICONIP 2019) [paper](https://arxiv.org/abs/1909.07725) [code.PyTorch](https://github.com/liluxuan1997/DPP)
-3. (semi-supervised) **Learning Temporal Action Proposals With Fewer Labels** (ICCV 2019) [paper](https://arxiv.org/abs/1910.01286)
-4. (BMN) **BMN: Boundary-Matching Network for Temporal Action Proposal Generation** (ICCV 2019) [paper](https://arxiv.org/abs/1907.09702) [code.PaddlePaddle](https://github.com/PaddlePaddle/models/tree/develop/PaddleCV/video) [code.PyTorch_unofficial](https://github.com/JJBOY/BMN-Boundary-Matching-Network)
-5. (MGG) **Multi-granularity Generator for Temporal Action Proposal** (CVPR 2019) [paper](https://arxiv.org/abs/1811.11524)
-6. **Investigation on Combining 3D Convolution of Image Data and Optical Flow to Generate Temporal Action Proposals** (2019 CVPR Workshop) [paper](https://arxiv.org/abs/1903.04176)
-7. (CMSN) **CMSN: Continuous Multi-stage Network and Variable Margin Cosine Loss for Temporal Action Proposal Generation** (arxiv 2019) [paper](https://arxiv.org/abs/1911.06080)
-8. **A high performance computing method for accelerating temporal action proposal generation** (arxiv 2019) [paper](https://arxiv.org/abs/1906.06496)
-9. **Multi-Granularity Fusion Network for Proposal and Activity Localization: Submission to ActivityNet Challenge 2019 Task 1 and Task 2** (ActvityNet challenge 2019) [paper](https://arxiv.org/abs/1907.12223)
-10. [Joint Learning of Local and Global Context for Temporal Action Proposal Generation](https://ieeexplore.ieee.org/abstract/document/8941024) (TCSVT 2019)
+3. (BMN) **BMN: Boundary-Matching Network for Temporal Action Proposal Generation** (ICCV 2019) [paper](https://arxiv.org/abs/1907.09702) [code.PaddlePaddle](https://github.com/PaddlePaddle/models/tree/develop/PaddleCV/video) [code.PyTorch_unofficial](https://github.com/JJBOY/BMN-Boundary-Matching-Network)
+4. (MGG) **Multi-granularity Generator for Temporal Action Proposal** (CVPR 2019) [paper](https://arxiv.org/abs/1811.11524)
+5. **Investigation on Combining 3D Convolution of Image Data and Optical Flow to Generate Temporal Action Proposals** (2019 CVPR Workshop) [paper](https://arxiv.org/abs/1903.04176)
+6. (CMSN) **CMSN: Continuous Multi-stage Network and Variable Margin Cosine Loss for Temporal Action Proposal Generation** (arxiv 2019) [paper](https://arxiv.org/abs/1911.06080)
+7. **A high performance computing method for accelerating temporal action proposal generation** (arxiv 2019) [paper](https://arxiv.org/abs/1906.06496)
+8. **Multi-Granularity Fusion Network for Proposal and Activity Localization: Submission to ActivityNet Challenge 2019 Task 1 and Task 2** (ActvityNet challenge 2019) [paper](https://arxiv.org/abs/1907.12223)
+9. [Joint Learning of Local and Global Context for Temporal Action Proposal Generation](https://ieeexplore.ieee.org/abstract/document/8941024) (TCSVT 2019)
 
 ## 2018
 
@@ -331,3 +330,6 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 
 ## 2021
 1. (SSTAP) [Self-Supervised Learning for Semi-Supervised Temporal Action Proposal](https://arxiv.org/abs/2104.03214) (CVPR 2021) [code](https://github.com/wangxiang1230/SSTAP)
+
+## 2019
+1. [Learning Temporal Action Proposals With Fewer Labels](https://arxiv.org/abs/1910.01286) (ICCV 2019)
