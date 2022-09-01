@@ -22,7 +22,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
   - [2022](#2022-2) - [2021](#2021-2) - [2020](#2020-2) - [2019](#2019-2) - [2018](#2018-2) - [2017](#2017-2)
 - [**Papers: Online Action Detection**](#papers-online-action-detection)
   - [2022](#2022-3) - [2021](#2021-3)
-- [**Semi-Supervised](#semi-supervised)
+- [**Semi-Supervised**](#semi-supervised)
   - [2022](#2022-4)
 
 
