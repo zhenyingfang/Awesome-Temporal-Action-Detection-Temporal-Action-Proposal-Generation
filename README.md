@@ -24,7 +24,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
   - [2022](#2022-2) - [2021](#2021-2) - [2020](#2020-2) - [2019](#2019-2) - [2018](#2018-2) - [2017](#2017-2)
 - [**Online Action Detection**](#papers-online-action-detection)
   - [2022](#2022-3) - [2021](#2021-3)
-- [**Semi-Supervised**](#semi-supervised)
+- [**Semi Supervised Temporal Action Detection**](#semi-supervised)
   - [2022](#2022-4) - [2021](#2021-4) - [2019](#2019-3)
 
 
