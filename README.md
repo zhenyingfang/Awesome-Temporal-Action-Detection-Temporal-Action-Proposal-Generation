@@ -313,6 +313,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 1. (Colar) [Colar: Effective and Efficient Online Action Detection by Consulting Exemplars](https://arxiv.org/abs/2203.01057) (CVPR 2022) [code](https://github.com/VividLe/Online-Action-Detection)
 2. (GateHUB) [GateHUB: Gated History Unit with Background Suppression for Online Action Detection](https://arxiv.org/abs/2206.04668) (CVPR 2022)
 3. [A Circular Window-based Cascade Transformer for Online Action Detection](https://arxiv.org/pdf/2208.14209.pdf) (TPAMI 2022)
+4. (TeSTra) [Real-time Online Video Detection with Temporal Smoothing Transformers](https://arxiv.org/abs/2209.09236) (ECCV 2022)
 
 ## 2021
 
