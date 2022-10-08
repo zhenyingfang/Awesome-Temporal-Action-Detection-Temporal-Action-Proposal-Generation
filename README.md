@@ -45,6 +45,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 1. (BCNet) [Temporal Action Proposal Generation with Background Constraint](https://arxiv.org/abs/2112.07984) (AAAI 2022)
 2. (PRSA-Net) [Pyramid Region-based Slot Attention Network for Temporal Action Proposal Generation](https://arxiv.org/abs/2206.10095) (arxiv 2022) [code](https://github.com/handhand123/PRSA-Net)
 3. (TDN) [Modeling long-term video semantic distribution for temporal action proposal generation](https://www.sciencedirect.com/science/article/abs/pii/S0925231221017616) (Neurocomputing 2022)
+4. (AOE-Net) [AOE-Net: Entities Interactions Modeling with Adaptive Attention Mechanism for Temporal Action Proposals Generation](https://arxiv.org/abs/2210.02578) (arxiv 2022)
 
 ## 2021
 1. (BSN++) [BSN++: Complementary Boundary Regressor with Scale-Balanced RelationModeling for Temporal Action Proposal Generation](https://arxiv.org/abs/2009.07641) (AAAI 2021) [Author's Zhihu](https://zhuanlan.zhihu.com/p/344065976)
