@@ -335,7 +335,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 
 ## 2021
 1. (SSTAP) [Self-Supervised Learning for Semi-Supervised Temporal Action Proposal](https://arxiv.org/abs/2104.03214) (CVPR 2021) [code](https://github.com/wangxiang1230/SSTAP)
-2. [Temporal Action Detection with Multi-level Supervision](https://openaccess.thecvf.com/content/ICCV2021/papers/Shi_Temporal_Action_Detection_With_Multi-Level_Supervision_ICCV_2021_paper.pdf) [code](https://github.com/bfshi/SSAD_OSAD)
+2. [Temporal Action Detection with Multi-level Supervision](https://openaccess.thecvf.com/content/ICCV2021/papers/Shi_Temporal_Action_Detection_With_Multi-Level_Supervision_ICCV_2021_paper.pdf) (ICCV 2021) [code](https://github.com/bfshi/SSAD_OSAD)
 
 ## 2019
 1. [Learning Temporal Action Proposals With Fewer Labels](https://arxiv.org/abs/1910.01286) (ICCV 2019)
