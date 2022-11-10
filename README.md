@@ -319,6 +319,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 2. (GateHUB) [GateHUB: Gated History Unit with Background Suppression for Online Action Detection](https://arxiv.org/abs/2206.04668) (CVPR 2022)
 3. [A Circular Window-based Cascade Transformer for Online Action Detection](https://arxiv.org/pdf/2208.14209.pdf) (TPAMI 2022)
 4. (TeSTra) [Real-time Online Video Detection with Temporal Smoothing Transformers](https://arxiv.org/abs/2209.09236) (ECCV 2022)
+5. (SimOn) [SimOn: A Simple Framework for Online Temporal Action Localization](https://arxiv.org/pdf/2211.04905.pdf) (arxiv 2022) [code](https://github.com/TuanTNG/SimOn)
 
 ## 2021
 
