@@ -34,6 +34,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 2. (TSP) [TSP: Temporally-Sensitive Pretraining of Video Encoders for Localization Tasks](https://arxiv.org/abs/2011.11479) (ICCVW 2021)
 3. (UP-TAL) [Unsupervised Pre-training for Temporal Action Localization Tasks](https://arxiv.org/abs/2203.13609) (CVPR 2022) [code](https://github.com/zhang-can/UP-TAL)
 4. [Contrastive Language-Action Pre-training for Temporal Localization](https://arxiv.org/abs/2204.12293) (arxiv 2022)
+5. [Low-Fidelity End-to-End Video Encoder Pre-training for Temporal Action Localization](https://arxiv.org/abs/2103.15233) (NeurIPS 2021)
 
 # **ActivityNet Challenge and talks**
 1. (2021) [AcitvityNet 2021](http://activity-net.org/challenges/2021/challenge.html)
