@@ -129,6 +129,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 28. (AdaPerFormer) [Adaptive Perception Transformer for Temporal Action Localization](https://arxiv.org/abs/2208.11908) (arxiv 2022) [code](https://github.com/SouperO/AdaPerFormer)
 29. (PointTAD) [PointTAD: Multi-Label Temporal Action Detection with Learnable Query Points](https://arxiv.org/abs/2210.11035) (NeurIPS 2022) [code](https://github.com/MCG-NJU/PointTAD) (multi action detection, eg: multiTHUMOS, charades)
 30. (SoLa) [Soft-Landing Strategy for Alleviating the Task Discrepancy Problem in Temporal Action Localization Tasks](https://arxiv.org/abs/2211.06023) (arxiv 2022)
+31. (Re2TAL) [Re2TAL: Rewiring Pretrained Video Backbones for Reversible Temporal Action Localization](https://arxiv.org/pdf/2211.14053.pdf) (arxiv 2022)
 
 ## 2021
 1. (activity graph transformer) [Activity Graph Transformer for Temporal Action Localization](https://arxiv.org/abs/2101.08540) (arxiv 2021) [project](https://www.sfu.ca/~mnawhal/projects/agt.html) [code](https://github.com/Nmegha2601/activitygraph_transformer)
