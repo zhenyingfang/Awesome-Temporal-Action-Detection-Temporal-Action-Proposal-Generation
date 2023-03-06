@@ -26,6 +26,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
   - [2022](#2022-3) - [2021](#2021-3)
 - [**Semi Supervised Temporal Action Detection**](#semi-supervised)
   - [2022](#2022-4) - [2021](#2021-4) - [2019](#2019-3)
+- [**Open-Vocabulary Temporal Action Detection**](#open-vocabulary-temporal-action-detection)
 
 
 -----
@@ -360,3 +361,14 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 ## 2019
 1. [Learning Temporal Action Proposals With Fewer Labels](https://arxiv.org/abs/1910.01286) (ICCV 2019)
 2. (TTC-Loc) [Towards Train-Test Consistency for Semi-supervised Temporal Action Localization](https://arxiv.org/abs/1910.11285v3) (arxiv 2019)
+
+----
+# **Open-Vocabulary Temporal Action Detection**
+
+## 2023
+
+1.
+
+## 2022
+
+1.
