@@ -251,6 +251,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 10. (STALE) (**Zero-Shot**) [Zero-Shot Temporal Action Detection via Vision-Language Prompting](https://arxiv.org/abs/2207.08184) (ECCV 2022) [code](https://github.com/sauradip/stale)
 11. (SMEN) [Slow Motion Matters: A Slow Motion Enhanced Network for Weakly Supervised Temporal Action Localization](https://arxiv.org/abs/2211.11324) (TCSVT 2022)
 12. [Distilling Vision-Language Pre-training to Collaborate with Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2212.09335) (arxiv 2022)
+13. [Dilation-Erosion for Single-Frame Supervised Temporal Action Localization](https://arxiv.org/abs/2212.06348) (arxiv 2022)
 
 ## 2021
 1. [A Hybrid Attention Mechanism for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2101.00545). (AAAI 2021)
