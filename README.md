@@ -17,11 +17,11 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 - [**about pretrained model**](#about-pretrained-model)
 - [**ActivityNet Challenge**](#activitynet-challenge)
 - [**Temporal Action Proposal Generation**](#papers-temporal-action-proposal-generation)
-  - [2022](#2022) - [2021](#2021) - [2020](#2020) - [2019](#2019) - [2018](#2018) - [2017](#2017) - [before](#before)
+  - [2023](#2023) - [2022](#2022) - [2021](#2021) - [2020](#2020) - [2019](#2019) - [2018](#2018) - [2017](#2017) - [before](#before)
 - [**Temporal Action Detection**](#papers-temporal-action-detection)
-  - [2023](#2023) - [2022](#2022-1) - [2021](#2021-1) - [2020](#2020-1) - [2019](#2019-1) - [2018](#2018-1) - [2017](#2017-1) - [before](#before-1)
+  - [2023](#2023-1) - [2022](#2022-1) - [2021](#2021-1) - [2020](#2020-1) - [2019](#2019-1) - [2018](#2018-1) - [2017](#2017-1) - [before](#before-1)
 - [**Weakly Supervised Temporal Action Detection**](#papers-weakly-supervised-temporal-action-detection)
-  - [2023](#2023-1) - [2022](#2022-2) - [2021](#2021-2) - [2020](#2020-2) - [2019](#2019-2) - [2018](#2018-2) - [2017](#2017-2)
+  - [2023](#2023-2) - [2022](#2022-2) - [2021](#2021-2) - [2020](#2020-2) - [2019](#2019-2) - [2018](#2018-2) - [2017](#2017-2)
 - [**Online Action Detection**](#papers-online-action-detection)
   - [2022](#2022-3) - [2021](#2021-3)
 - [**Semi Supervised Temporal Action Detection**](#semi-supervised)
@@ -41,6 +41,9 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 2. (2021) [Transformer在时序行为检测中的应用 & 基于自监督学习的半监督时序行为检测](https://www.techbeat.net/talk-info?id=545) (DAMO Academy, Alibaba Group)
 
 # **Papers: Temporal Action Proposal Generation**
+
+## 2023
+1. (MIFNet) [MIFNet: Multiple Instances Focused Temporal Action Proposal Generation](https://www.sciencedirect.com/science/article/abs/pii/S0925231223000553) (Neurocomputing 2023)
 
 ## 2022
 1. (BCNet) [Temporal Action Proposal Generation with Background Constraint](https://arxiv.org/abs/2112.07984) (AAAI 2022)
