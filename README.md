@@ -100,6 +100,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 
 ## 2023
 1. (AMNet) [Action-aware Masking Network with Group-based Attention for Temporal Action Localization](https://openaccess.thecvf.com/content/WACV2023/papers/Kang_Action-Aware_Masking_Network_With_Group-Based_Attention_for_Temporal_Action_Localization_WACV_2023_paper.pdf) (WACV 2023)
+2. (ContextLoc++) [ContextLoc++: A Unified Context Model for Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10018461) (TPAMI 2023)
 
 ## 2022
 1. (DCAN) [DCAN: Improving Temporal Action Detection via Dual Context Aggregation](https://arxiv.org/abs/2112.03612) (AAAI 2022)
@@ -226,6 +227,9 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 
 ----
 # **Papers: Weakly Supervised Temporal Action Detection**
+
+## 2023
+1. (ASCN) [A Novel Action Saliency and Context-Aware Network for Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10007033) (TMM 2023)
 
 ## 2022
 1. [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://arxiv.org/pdf/2112.10977.pdf) (AAAI 2022)
