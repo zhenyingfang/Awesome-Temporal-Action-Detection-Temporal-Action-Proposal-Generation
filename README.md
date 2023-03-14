@@ -109,6 +109,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 2. (ContextLoc++) [ContextLoc++: A Unified Context Model for Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10018461) (TPAMI 2023)
 3. [Temporal action detection with dynamic weights based on curriculum learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231222015557) (Neurocomputing 2023)
 4. (GAP) [Post-Processing Temporal Action Detection](https://arxiv.org/abs/2211.14924) (CVPR 2023) [code](https://github.com/sauradip/GAP)
+5. (TriDet) [TriDet: Temporal Action Detection with Relative Boundary Modeling](https://arxiv.org/abs/2303.07347) (CVPR 2023) [code](https://github.com/sssste/TriDet)
 
 ## 2022
 1. (DCAN) [DCAN: Improving Temporal Action Detection via Dual Context Aggregation](https://arxiv.org/abs/2112.03612) (AAAI 2022)
