@@ -110,6 +110,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 3. [Temporal action detection with dynamic weights based on curriculum learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231222015557) (Neurocomputing 2023)
 4. (GAP) [Post-Processing Temporal Action Detection](https://arxiv.org/abs/2211.14924) (CVPR 2023) [code](https://github.com/sauradip/GAP)
 5. (TriDet) [TriDet: Temporal Action Detection with Relative Boundary Modeling](https://arxiv.org/abs/2303.07347) (CVPR 2023) [code](https://github.com/sssste/TriDet)
+6. (TemporalMaxer) [TemporalMaxer: Maximize Temporal Context with only Max Pooling for Temporal Action Localization](https://arxiv.org/pdf/2303.09055.pdf) (ArXiv 2023) [code](https://github.com/tuantng/temporalmaxer)
 
 ## 2022
 1. (DCAN) [DCAN: Improving Temporal Action Detection via Dual Context Aggregation](https://arxiv.org/abs/2112.03612) (AAAI 2022)
