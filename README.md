@@ -112,6 +112,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 6. (TemporalMaxer) [TemporalMaxer: Maximize Temporal Context with only Max Pooling for Temporal Action Localization](https://arxiv.org/pdf/2303.09055.pdf) (ArXiv 2023) [code](https://github.com/tuantng/temporalmaxer)
 7. (DiffTAD) [DiffTAD: Temporal Action Detection with Proposal Denoising Diffusion](https://arxiv.org/abs/2303.14863) (Arxiv 2023) [code](https://github.com/sauradip/DiffusionTAD)
 8. [Decomposed Cross-modal Distillation for RGB-based Temporal Action Detection](https://arxiv.org/abs/2303.17285) (CVPR 2023)
+9. [Boundary-Denoising for Video Activity Localization](https://arxiv.org/abs/2304.02934) (Arxiv 2023)
 
 ## 2022
 1. (DCAN) [DCAN: Improving Temporal Action Detection via Dual Context Aggregation](https://arxiv.org/abs/2112.03612) (AAAI 2022)
