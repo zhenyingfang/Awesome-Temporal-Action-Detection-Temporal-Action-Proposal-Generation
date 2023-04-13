@@ -247,8 +247,8 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 4. (JCDNet) [JCDNet: Joint of Common and Definite phases Network for Weakly Supervised Temporal Action Localization](https://arxiv.org/abs/2303.17294) (Arxiv 2023)
 
 ## 2022
-1. [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://arxiv.org/pdf/2112.10977.pdf) (AAAI 2022)
-2. [Weakly Supervised Temporal Action Localization via Representative Snippet Knowledge Propagation](https://arxiv.org/pdf/2203.02925.pdf) (CVPR 2022) [code](https://github.com/LeonHLJ/RSKP)
+1. (ACGNet) [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://arxiv.org/pdf/2112.10977.pdf) (AAAI 2022)
+2. (RSKP) [Weakly Supervised Temporal Action Localization via Representative Snippet Knowledge Propagation](https://arxiv.org/pdf/2203.02925.pdf) (CVPR 2022) [code](https://github.com/LeonHLJ/RSKP)
 3. (ASM-Loc) [ASM-Loc: Action-aware Segment Modeling for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2203.15187) (CVPR 2022) [code](https://github.com/boheumd/ASM-Loc)
 4. (FTCL) [Fine-grained Temporal Contrastive Learning for Weakly-supervised Temporal Action Localization](https://arxiv.org/abs/2203.16800) (CVPR 2022) [code](https://github.com/MengyuanChen21/CVPR2022-FTCL)
 5. (C3BN) [Convex Combination Consistency between Neighbors for Weakly-supervised Action Localization](https://arxiv.org/abs/2205.00400) (arxiv 2022)
