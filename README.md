@@ -261,7 +261,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 12. [Dilation-Erosion for Single-Frame Supervised Temporal Action Localization](https://arxiv.org/abs/2212.06348) (arxiv 2022)
 
 ## 2021
-1. [A Hybrid Attention Mechanism for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2101.00545). (AAAI 2021)
+1. (HAM-Net) [A Hybrid Attention Mechanism for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2101.00545). (AAAI 2021)
 2. [Cross-Attentional Audio-Visual Fusion for Weakly-Supervised Action Localization](https://openreview.net/forum?id=hWr3e3r-oH5) (ICLR 2021)
 3. [Weakly-supervised Temporal Action Localization by Uncertainty Modeling](https://arxiv.org/abs/2006.07006) (AAAI 2021) [code](https://github.com/Pilhyeon/WTAL-Uncertainty-Modeling)
 4. (TS-PCA) [The Blessings of Unlabeled Background in Untrimmed Videos](https://arxiv.org/abs/2103.13183) (CVPR 2021) [code](https://github.com/aliyun/The-Blessings-of-Unlabeled-Background-in-Untrimmed-Videos)
