@@ -245,6 +245,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 2. (TFE-DCN) [Temporal Feature Enhancement Dilated Convolution Network for Weakly-Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/WACV2023/html/Zhou_Temporal_Feature_Enhancement_Dilated_Convolution_Network_for_Weakly-Supervised_Temporal_Action_WACV_2023_paper.html) (WACV 2023)
 3. [Weakly-Supervised Temporal Action Localization by Inferring Snippet-Feature Affinity](https://arxiv.org/abs/2303.12332) (Arxiv 2023)
 4. (JCDNet) [JCDNet: Joint of Common and Definite phases Network for Weakly Supervised Temporal Action Localization](https://arxiv.org/abs/2303.17294) (Arxiv 2023)
+5. [Boosting Weakly-Supervised Temporal Action Localization with Text Information](https://arxiv.org/abs/2305.00607) (CVPR 2023) [code](https://github.com/lgzlIlIlI/Boosting-WTAL)
 
 ## 2022
 1. (ACGNet) [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://arxiv.org/pdf/2112.10977.pdf) (AAAI 2022)
