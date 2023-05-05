@@ -255,13 +255,12 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 4. (FTCL) [Fine-grained Temporal Contrastive Learning for Weakly-supervised Temporal Action Localization](https://arxiv.org/abs/2203.16800) (CVPR 2022) [code](https://github.com/MengyuanChen21/CVPR2022-FTCL)
 5. (C3BN) [Convex Combination Consistency between Neighbors for Weakly-supervised Action Localization](https://arxiv.org/abs/2205.00400) (arxiv 2022)
 6. (DCC) [Exploring Denoised Cross-video Contrast for Weakly-supervised Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Exploring_Denoised_Cross-Video_Contrast_for_Weakly-Supervised_Temporal_Action_Localization_CVPR_2022_paper.pdf) (CVPR 2022)
-7. (ACN) [Action Coherence Network for Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/9404867) (TMM 2022)
-8. (HAAN) [Weakly-Supervised Temporal Action Detection for Fine-Grained Videos with Hierarchical Atomic Actions](https://arxiv.org/abs/2207.11805) (ECCV 2022) [code](https://github.com/lizhi1104/HAAN)
-9. (STALE) (**Zero-Shot**) [Zero-Shot Temporal Action Detection via Vision-Language Prompting](https://arxiv.org/abs/2207.08184) (ECCV 2022) [code](https://github.com/sauradip/stale)
-10. (SMEN) [Slow Motion Matters: A Slow Motion Enhanced Network for Weakly Supervised Temporal Action Localization](https://arxiv.org/abs/2211.11324) (TCSVT 2022)
-11. [Distilling Vision-Language Pre-training to Collaborate with Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2212.09335) (arxiv 2022)
-12. [Dilation-Erosion for Single-Frame Supervised Temporal Action Localization](https://arxiv.org/abs/2212.06348) (arxiv 2022)
-13. (AMS) [Adaptive Mutual Supervision for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2104.02357) (TMM 2022)
+7. (HAAN) [Weakly-Supervised Temporal Action Detection for Fine-Grained Videos with Hierarchical Atomic Actions](https://arxiv.org/abs/2207.11805) (ECCV 2022) [code](https://github.com/lizhi1104/HAAN)
+8. (STALE) (**Zero-Shot**) [Zero-Shot Temporal Action Detection via Vision-Language Prompting](https://arxiv.org/abs/2207.08184) (ECCV 2022) [code](https://github.com/sauradip/stale)
+9. (SMEN) [Slow Motion Matters: A Slow Motion Enhanced Network for Weakly Supervised Temporal Action Localization](https://arxiv.org/abs/2211.11324) (TCSVT 2022)
+10. [Distilling Vision-Language Pre-training to Collaborate with Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2212.09335) (arxiv 2022)
+11. [Dilation-Erosion for Single-Frame Supervised Temporal Action Localization](https://arxiv.org/abs/2212.06348) (arxiv 2022)
+12. (AMS) [Adaptive Mutual Supervision for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2104.02357) (TMM 2022)
 
 ## 2021
 1. (HAM-Net) [A Hybrid Attention Mechanism for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2101.00545). (AAAI 2021)
@@ -284,6 +283,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 18. [Deep Motion Prior for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2108.05607) (submit to Tip 2021) [project](https://sites.google.com/view/mengcao/publication/dmp-net?authuser=0)
 19. [Foreground-Action Consistency Network for Weakly Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Foreground-Action_Consistency_Network_for_Weakly_Supervised_Temporal_Action_Localization_ICCV_2021_paper.pdf) (ICCV 2021)
 20. (BackTAL) [Background-Click Supervision for Temporal Action Localization](https://arxiv.org/abs/2111.12449) (TPAMI 2021) [code](https://github.com/VividLe/BackTAL)
+21. (ACN) [Action Coherence Network for Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/9404867) (TMM 2021)
 
 ## 2020
 
