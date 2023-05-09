@@ -247,6 +247,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 4. (JCDNet) [JCDNet: Joint of Common and Definite phases Network for Weakly Supervised Temporal Action Localization](https://arxiv.org/abs/2303.17294) (Arxiv 2023)
 5. [Boosting Weakly-Supervised Temporal Action Localization with Text Information](https://arxiv.org/abs/2305.00607) (CVPR 2023) [code](https://github.com/lgzlIlIlI/Boosting-WTAL)
 6. (MTP) [Multiple Temporal Pooling Mechanisms for Weakly Supervised Temporal Action Localization](https://dl.acm.org/doi/10.1145/3567828) (TOMM 2023)
+7. (VQK-Net) [Video-Specific Query-Key Attention Modeling for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2305.04186)
 
 ## 2022
 1. (ACGNet) [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://arxiv.org/pdf/2112.10977.pdf) (AAAI 2022)
