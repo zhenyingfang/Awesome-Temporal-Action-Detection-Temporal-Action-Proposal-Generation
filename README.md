@@ -115,6 +115,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 9. [Boundary-Denoising for Video Activity Localization](https://arxiv.org/abs/2304.02934) (Arxiv 2023)
 10. (ASL) [Action Sensitivity Learning for Temporal Action Localization](https://arxiv.org/abs/2305.15701) (Arxiv 2023)
 11. (MMNet) [A Multi-Modal Transformer Network for Action Detection](https://www.sciencedirect.com/science/article/pii/S0031320323004119) (Pattern Recognition 2023)
+12. [Truncated attention-aware proposal networks with multi-scale dilation for temporal action detection](https://www.sciencedirect.com/science/article/pii/S0031320323003825) (Pattern Recognition 2023)
 
 ## 2022
 1. (DCAN) [DCAN: Improving Temporal Action Detection via Dual Context Aggregation](https://arxiv.org/abs/2112.03612) (AAAI 2022)
