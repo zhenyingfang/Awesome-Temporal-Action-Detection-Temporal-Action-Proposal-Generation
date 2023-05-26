@@ -247,9 +247,12 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 2. (TFE-DCN) [Temporal Feature Enhancement Dilated Convolution Network for Weakly-Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/WACV2023/html/Zhou_Temporal_Feature_Enhancement_Dilated_Convolution_Network_for_Weakly-Supervised_Temporal_Action_WACV_2023_paper.html) (WACV 2023)
 3. [Weakly-Supervised Temporal Action Localization by Inferring Snippet-Feature Affinity](https://arxiv.org/abs/2303.12332) (Arxiv 2023)
 4. (JCDNet) [JCDNet: Joint of Common and Definite phases Network for Weakly Supervised Temporal Action Localization](https://arxiv.org/abs/2303.17294) (Arxiv 2023)
-5. [Boosting Weakly-Supervised Temporal Action Localization with Text Information](https://arxiv.org/abs/2305.00607) (CVPR 2023) [code](https://github.com/lgzlIlIlI/Boosting-WTAL)
-6. (MTP) [Multiple Temporal Pooling Mechanisms for Weakly Supervised Temporal Action Localization](https://dl.acm.org/doi/10.1145/3567828) (TOMM 2023)
-7. (VQK-Net) [Video-Specific Query-Key Attention Modeling for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2305.04186)
+5. (CELL) [Cascade Evidential Learning for Open-World Weakly-Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Cascade_Evidential_Learning_for_Open-World_Weakly-Supervised_Temporal_Action_Localization_CVPR_2023_paper.html) (CVPR 2023)
+6. (P-MIL) [Proposal-Based Multiple Instance Learning for Weakly-Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2023/html/Ren_Proposal-Based_Multiple_Instance_Learning_for_Weakly-Supervised_Temporal_Action_Localization_CVPR_2023_paper.html) (CVPR 2023) [code](github.com/RenHuan1999/CVPR2023_P-MIL) (The code repository is currently empty.)
+7. [Two-Stream Networks for Weakly-Supervised Temporal Action Localization With Semantic-Aware Mechanisms](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Two-Stream_Networks_for_Weakly-Supervised_Temporal_Action_Localization_With_Semantic-Aware_Mechanisms_CVPR_2023_paper.html) (CVPR 2023)
+8. [Boosting Weakly-Supervised Temporal Action Localization with Text Information](https://arxiv.org/abs/2305.00607) (CVPR 2023) [code](https://github.com/lgzlIlIlI/Boosting-WTAL)
+9. (MTP) [Multiple Temporal Pooling Mechanisms for Weakly Supervised Temporal Action Localization](https://dl.acm.org/doi/10.1145/3567828) (TOMM 2023)
+10. (VQK-Net) [Video-Specific Query-Key Attention Modeling for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2305.04186)
 
 ## 2022
 1. (ACGNet) [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://arxiv.org/pdf/2112.10977.pdf) (AAAI 2022)
@@ -381,7 +384,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 
 ## 2023
 
-1. 
+1. (CELL) [Cascade Evidential Learning for Open-World Weakly-Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Cascade_Evidential_Learning_for_Open-World_Weakly-Supervised_Temporal_Action_Localization_CVPR_2023_paper.html) (CVPR 2023)
 
 ## 2022
 
