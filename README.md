@@ -254,10 +254,12 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 7. [Two-Stream Networks for Weakly-Supervised Temporal Action Localization With Semantic-Aware Mechanisms](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Two-Stream_Networks_for_Weakly-Supervised_Temporal_Action_Localization_With_Semantic-Aware_Mechanisms_CVPR_2023_paper.html) (CVPR 2023)
 8. [Boosting Weakly-Supervised Temporal Action Localization with Text Information](https://arxiv.org/abs/2305.00607) (CVPR 2023) [code](https://github.com/lgzlIlIlI/Boosting-WTAL)
 9. (PivoTAL) [PivoTAL: Prior-Driven Supervision for Weakly-Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2023/html/Rizve_PivoTAL_Prior-Driven_Supervision_for_Weakly-Supervised_Temporal_Action_Localization_CVPR_2023_paper.html) (CVPR 2023)
-10. (MTP) [Multiple Temporal Pooling Mechanisms for Weakly Supervised Temporal Action Localization](https://dl.acm.org/doi/10.1145/3567828) (TOMM 2023)
-11. (VQK-Net) [Video-Specific Query-Key Attention Modeling for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2305.04186)
-12. (DFE) [Dual-Feature Enhancement for Weakly Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10096383) (ICASSP 2023)
-13. (FBA-Net) [Collaborative Foreground, Background, and Action Modeling Network for Weakly Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10115434) (TCSVT 2023)
+10. [Improving Weakly Supervised Temporal Action Localization by Bridging Train-Test Gap in Pseudo Labels](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Improving_Weakly_Supervised_Temporal_Action_Localization_by_Bridging_Train-Test_Gap_CVPR_2023_paper.pdf) (CVPR 2023) [code](https://github.com/zhou745/GauFuse_WSTAL)
+11. (MTP) [Multiple Temporal Pooling Mechanisms for Weakly Supervised Temporal Action Localization](https://dl.acm.org/doi/10.1145/3567828) (TOMM 2023)
+12. (VQK-Net) [Video-Specific Query-Key Attention Modeling for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2305.04186)
+13. (DFE) [Dual-Feature Enhancement for Weakly Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10096383) (ICASSP 2023)
+14. (FBA-Net) [Collaborative Foreground, Background, and Action Modeling Network for Weakly Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10115434) (TCSVT 2023)
+15. (Bi-SCC) [Weakly Supervised Temporal Action Localization With Bidirectional Semantic Consistency Constraint](https://ieeexplore.ieee.org/abstract/document/10115234) (TNNLS 2023)
 
 ## 2022
 1. (ACGNet) [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://arxiv.org/pdf/2112.10977.pdf) (AAAI 2022)
