@@ -257,6 +257,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 10. (MTP) [Multiple Temporal Pooling Mechanisms for Weakly Supervised Temporal Action Localization](https://dl.acm.org/doi/10.1145/3567828) (TOMM 2023)
 11. (VQK-Net) [Video-Specific Query-Key Attention Modeling for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2305.04186)
 12. (DFE) [Dual-Feature Enhancement for Weakly Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10096383) (ICASSP 2023)
+13. (FBA-Net) [Collaborative Foreground, Background, and Action Modeling Network for Weakly Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10115434) (TCSVT 2023)
 
 ## 2022
 1. (ACGNet) [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://arxiv.org/pdf/2112.10977.pdf) (AAAI 2022)
