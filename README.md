@@ -118,6 +118,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 12. [Truncated attention-aware proposal networks with multi-scale dilation for temporal action detection](https://www.sciencedirect.com/science/article/pii/S0031320323003825) (Pattern Recognition 2023)
 13. (MSST) [A Multitemporal Scale and Spatial–Temporal Transformer Network for Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10120600) (IEEE Transactions on Human-Machine Systems 2023)
 14. [Exploring Action Centers for Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10058582) (TMM 2023)
+15. (ETAD) [ETAD: Training Action Detection End to End on a Laptop](https://openaccess.thecvf.com/content/CVPR2023W/ECV/html/Liu_ETAD_Training_Action_Detection_End_to_End_on_a_Laptop_CVPRW_2023_paper.html) (CVPR 2023) [code](https://github.com/sming256/ETAD)
 
 ## 2022
 1. (DCAN) [DCAN: Improving Temporal Action Detection via Dual Context Aggregation](https://arxiv.org/abs/2112.03612) (AAAI 2022)
@@ -262,6 +263,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 14. (FBA-Net) [Collaborative Foreground, Background, and Action Modeling Network for Weakly Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10115434) (TCSVT 2023)
 15. (Bi-SCC) [Weakly Supervised Temporal Action Localization With Bidirectional Semantic Consistency Constraint](https://ieeexplore.ieee.org/abstract/document/10115234) (TNNLS 2023)
 16. (F3-Net) [Feature Weakening, Contextualization, and Discrimination for Weakly Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10091234) (TMM 2023) [code](https://moniruzzamanmd.github.io/F3-Net/)
+17. (LPR) [Learning Proposal-aware Re-ranking for Weakly-supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10144792) (TCSVT 2023)
 
 ## 2022
 1. (ACGNet) [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://arxiv.org/pdf/2112.10977.pdf) (AAAI 2022)
