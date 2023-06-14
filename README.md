@@ -359,6 +359,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 
 ## 2023
 1. (recognation) (GliTr) [GliTr: Glimpse Transformers with Spatiotemporal Consistency for Online Action Prediction](https://arxiv.org/abs/2210.13605) (WACV 2023)
+2. (E2E-LOAD) [E2E-LOAD: End-to-End Long-form Online Action Detection](https://arxiv.org/abs/2306.07703) (Arxiv 2023)
 
 ## 2022
 1. (Colar) [Colar: Effective and Efficient Online Action Detection by Consulting Exemplars](https://arxiv.org/abs/2203.01057) (CVPR 2022) [code](https://github.com/VividLe/Online-Action-Detection)
