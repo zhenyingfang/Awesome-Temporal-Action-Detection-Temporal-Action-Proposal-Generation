@@ -134,7 +134,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 11. (RCL) [RCL: Recurrent Continuous Localization for Temporal Action Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_RCL_Recurrent_Continuous_Localization_for_Temporal_Action_Detection_CVPR_2022_paper.pdf) (CVPR 2022)
 12. (RefactorNet) [Learning to Refactor Action and Co-occurrence Features for Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2022/papers/Xia_Learning_To_Refactor_Action_and_Co-Occurrence_Features_for_Temporal_Action_CVPR_2022_paper.pdf) (CVPR 2022)
 13. (MS-TCT) [MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Dai_MS-TCT_Multi-Scale_Temporal_ConvTransformer_for_Action_Detection_CVPR_2022_paper.pdf) (CVPR 2022) [code](https://github.com/dairui01/MS-TCT)
-14. (OATD) [One-stage Action Detection Transformer](https://arxiv.org/abs/2206.10080) (arxiv 2022)
+14. (OATD) [One-stage Action Detection Transformer](https://arxiv.org/abs/2206.10080) (EPICKITCHENS-100 2022 V. 26.35 N. 25.83)
 15. [Context-aware Proposal Network for Temporal Action Detection](https://arxiv.org/abs/2206.09082) (CVPR-2022 ActivityNet Challenge winning solution)
 16. [Dual relation network for temporal action localization](https://www.sciencedirect.com/science/article/abs/pii/S0031320322002060) (Pattern Recognition 2022)
 17. [Learning Disentangled Classification and Localization Representations for Temporal Action Localization](https://www.aaai.org/AAAI22Papers/AAAI-926.ZhuZ.pdf) (AAAI 2022)
