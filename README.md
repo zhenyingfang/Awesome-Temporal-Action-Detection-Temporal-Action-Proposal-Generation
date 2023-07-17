@@ -262,6 +262,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 15. (Bi-SCC) [Weakly Supervised Temporal Action Localization With Bidirectional Semantic Consistency Constraint](https://ieeexplore.ieee.org/abstract/document/10115234) (TNNLS 2023)
 16. (F3-Net) [Feature Weakening, Contextualization, and Discrimination for Weakly Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10091234) (TMM 2023) [code](https://moniruzzamanmd.github.io/F3-Net/)
 17. (LPR) [Learning Proposal-aware Re-ranking for Weakly-supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10144792) (TCSVT 2023)
+18. (STCL-Net) [Semantic and Temporal Contextual Correlation Learning for Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10155179) (TPAMI 2023)
 
 ## 2022
 1. (ACGNet) [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://arxiv.org/pdf/2112.10977.pdf) (AAAI 2022)
