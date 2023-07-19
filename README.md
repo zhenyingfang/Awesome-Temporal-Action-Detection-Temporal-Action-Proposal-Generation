@@ -265,6 +265,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 16. (F3-Net) [Feature Weakening, Contextualization, and Discrimination for Weakly Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10091234) (TMM 2023) [code](https://moniruzzamanmd.github.io/F3-Net/)
 17. (LPR) [Learning Proposal-aware Re-ranking for Weakly-supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10144792) (TCSVT 2023)
 18. (STCL-Net) [Semantic and Temporal Contextual Correlation Learning for Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10155179) (TPAMI 2023)
+19. [Distilling Vision-Language Pre-training to Collaborate with Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2212.09335) (CVPR 2023)
 
 ## 2022
 1. (ACGNet) [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://arxiv.org/pdf/2112.10977.pdf) (AAAI 2022)
@@ -276,10 +277,9 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 7. (HAAN) [Weakly-Supervised Temporal Action Detection for Fine-Grained Videos with Hierarchical Atomic Actions](https://arxiv.org/abs/2207.11805) (ECCV 2022) [code](https://github.com/lizhi1104/HAAN)
 8. (STALE) (**Zero-Shot**) [Zero-Shot Temporal Action Detection via Vision-Language Prompting](https://arxiv.org/abs/2207.08184) (ECCV 2022) [code](https://github.com/sauradip/stale)
 9. (SMEN) [Slow Motion Matters: A Slow Motion Enhanced Network for Weakly Supervised Temporal Action Localization](https://arxiv.org/abs/2211.11324) (TCSVT 2022)
-10. [Distilling Vision-Language Pre-training to Collaborate with Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2212.09335) (arxiv 2022)
-11. [Dilation-Erosion for Single-Frame Supervised Temporal Action Localization](https://arxiv.org/abs/2212.06348) (arxiv 2022)
-12. (AMS) [Adaptive Mutual Supervision for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2104.02357) (TMM 2022)
-13. (DELU) [Dual-Evidential Learning for Weakly-supervised Temporal Action Localization](https://link.springer.com/chapter/10.1007/978-3-031-19772-7_12) (ECCV 2022) [code](https://github.com/MengyuanChen21/ECCV2022-DELU)
+10. [Dilation-Erosion for Single-Frame Supervised Temporal Action Localization](https://arxiv.org/abs/2212.06348) (arxiv 2022)
+11. (AMS) [Adaptive Mutual Supervision for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2104.02357) (TMM 2022)
+12. (DELU) [Dual-Evidential Learning for Weakly-supervised Temporal Action Localization](https://link.springer.com/chapter/10.1007/978-3-031-19772-7_12) (ECCV 2022) [code](https://github.com/MengyuanChen21/ECCV2022-DELU)
 
 ## 2021
 1. (HAM-Net) [A Hybrid Attention Mechanism for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2101.00545). (AAAI 2021)
