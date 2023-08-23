@@ -124,6 +124,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 18. (SoLa) [Soft-Landing Strategy for Alleviating the Task Discrepancy Problem in Temporal Action Localization Tasks](https://openaccess.thecvf.com/content/CVPR2023/papers/Kang_Soft-Landing_Strategy_for_Alleviating_the_Task_Discrepancy_Problem_in_Temporal_CVPR_2023_paper.pdf) (CVPR 2023)
 19. (APN) [Progression-Guided Temporal Action Detection in Videos](https://arxiv.org/abs/2308.09268) (Arxiv 2023) [code](https://github.com/makecent/APN)
 20. (Self-DETR) [Self-Feedback DETR for Temporal Action Detection](https://arxiv.org/abs/2308.10570) (ICCV 2023)
+21. (UnLoc) [UnLoc: A Unified Framework for Video Localization Tasks](https://arxiv.org/abs/2308.11062) (ICCV 2023) [code](https://github.com/google-research/scenic)
 
 ## 2022
 1. (DCAN) [DCAN: Improving Temporal Action Detection via Dual Context Aggregation](https://arxiv.org/abs/2112.03612) (AAAI 2022)
