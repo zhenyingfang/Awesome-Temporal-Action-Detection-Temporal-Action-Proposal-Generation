@@ -109,7 +109,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 3. [Temporal action detection with dynamic weights based on curriculum learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231222015557) (Neurocomputing 2023)
 4. (GAP) [Post-Processing Temporal Action Detection](https://arxiv.org/abs/2211.14924) (CVPR 2023) [code](https://github.com/sauradip/GAP)
 5. (TriDet) [TriDet: Temporal Action Detection with Relative Boundary Modeling](https://arxiv.org/abs/2303.07347) (CVPR 2023) [code](https://github.com/sssste/TriDet)
-   - [Temporal Action Localization with Enhanced Instant Discriminability](https://arxiv.org/abs/2309.05590)
+   - [Temporal Action Localization with Enhanced Instant Discriminability](https://arxiv.org/abs/2309.05590) (extend version)
 6. (TemporalMaxer) [TemporalMaxer: Maximize Temporal Context with only Max Pooling for Temporal Action Localization](https://arxiv.org/pdf/2303.09055.pdf) (ArXiv 2023) [code](https://github.com/tuantng/temporalmaxer)
 7. (DiffTAD) [DiffTAD: Temporal Action Detection with Proposal Denoising Diffusion](https://arxiv.org/abs/2303.14863) (ICCV 2023) [code](https://github.com/sauradip/DiffusionTAD)
 8. [Decomposed Cross-modal Distillation for RGB-based Temporal Action Detection](https://arxiv.org/abs/2303.17285) (CVPR 2023)
