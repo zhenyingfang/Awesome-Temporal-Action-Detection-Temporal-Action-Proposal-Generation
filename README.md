@@ -273,6 +273,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 18. [Distilling Vision-Language Pre-training to Collaborate with Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2212.09335) (CVPR 2023)
 19. [Weakly-Supervised Action Localization by Hierarchically-structured Latent Attention Modeling](https://arxiv.org/abs/2308.09946) (ICCV 2023)
 20. [Cross-Video Contextual Knowledge Exploration and Exploitation for Ambiguity Reduction in Weakly Supervised Temporal Action Localization](https://arxiv.org/abs/2308.12609) (TCSVT 2023)
+21. (SPL-Loc) [Sub-action Prototype Learning for Point-level Weakly-supervised Temporal Action Localization](https://arxiv.org/abs/2309.09060) (Arxiv 2023)
 
 ## 2022
 1. (ACGNet) [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://arxiv.org/pdf/2112.10977.pdf) (AAAI 2022)
