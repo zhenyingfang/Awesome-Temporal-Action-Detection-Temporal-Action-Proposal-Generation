@@ -127,6 +127,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 20. (Self-DETR) [Self-Feedback DETR for Temporal Action Detection](https://arxiv.org/abs/2308.10570) (ICCV 2023)
 21. (UnLoc) [UnLoc: A Unified Framework for Video Localization Tasks](https://arxiv.org/abs/2308.11062) (ICCV 2023) [code](https://github.com/google-research/scenic)
 22. [Benchmarking Data Efficiency and Computational Efficiency of Temporal Action Localization Models](https://arxiv.org/abs/2308.13082) (ICCV 2023 Workshop)
+23. (BAPG) [Boundary-Aware Proposal Generation Method for Temporal Action Localization](https://arxiv.org/abs/2309.13810) (Arxiv 2023)
 
 ## 2022
 1. (DCAN) [DCAN: Improving Temporal Action Detection via Dual Context Aggregation](https://arxiv.org/abs/2112.03612) (AAAI 2022)
