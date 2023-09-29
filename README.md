@@ -124,11 +124,10 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 17. (Re2TAL) [Re2TAL: Rewiring Pretrained Video Backbones for Reversible Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Re2TAL_Rewiring_Pretrained_Video_Backbones_for_Reversible_Temporal_Action_Localization_CVPR_2023_paper.pdf) (CVPR 2023) [code](https://github.com/coolbay/Re2TAL)
 18. (SoLa) [Soft-Landing Strategy for Alleviating the Task Discrepancy Problem in Temporal Action Localization Tasks](https://openaccess.thecvf.com/content/CVPR2023/papers/Kang_Soft-Landing_Strategy_for_Alleviating_the_Task_Discrepancy_Problem_in_Temporal_CVPR_2023_paper.pdf) (CVPR 2023)
 19. (APN) [Progression-Guided Temporal Action Detection in Videos](https://arxiv.org/abs/2308.09268) (Arxiv 2023) [code](https://github.com/makecent/APN)
-20. (Self-DETR) [Self-Feedback DETR for Temporal Action Detection](https://arxiv.org/abs/2308.10570) (ICCV 2023)
+20. (Self-DETR) [Self-Feedback DETR for Temporal Action Detection](https://openaccess.thecvf.com/content/ICCV2023/html/Kim_Self-Feedback_DETR_for_Temporal_Action_Detection_ICCV_2023_paper.html) (ICCV 2023)
 21. (UnLoc) [UnLoc: A Unified Framework for Video Localization Tasks](https://arxiv.org/abs/2308.11062) (ICCV 2023) [code](https://github.com/google-research/scenic)
 22. [Benchmarking Data Efficiency and Computational Efficiency of Temporal Action Localization Models](https://arxiv.org/abs/2308.13082) (ICCV 2023 Workshop)
 23. (BAPG) [Boundary-Aware Proposal Generation Method for Temporal Action Localization](https://arxiv.org/abs/2309.13810) (Arxiv 2023)
-24. (Self-DETR) [Self-Feedback DETR for Temporal Action Detection](https://openaccess.thecvf.com/content/ICCV2023/html/Kim_Self-Feedback_DETR_for_Temporal_Action_Detection_ICCV_2023_paper.html) (ICCV 2023)
 
 ## 2022
 1. (DCAN) [DCAN: Improving Temporal Action Detection via Dual Context Aggregation](https://arxiv.org/abs/2112.03612) (AAAI 2022)
