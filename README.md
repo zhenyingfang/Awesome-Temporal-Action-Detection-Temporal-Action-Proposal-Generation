@@ -275,6 +275,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 19. [Weakly-Supervised Action Localization by Hierarchically-structured Latent Attention Modeling](https://arxiv.org/abs/2308.09946) (ICCV 2023)
 20. [Cross-Video Contextual Knowledge Exploration and Exploitation for Ambiguity Reduction in Weakly Supervised Temporal Action Localization](https://arxiv.org/abs/2308.12609) (TCSVT 2023)
 21. (SPL-Loc) [Sub-action Prototype Learning for Point-level Weakly-supervised Temporal Action Localization](https://arxiv.org/abs/2309.09060) (Arxiv 2023)
+22. (DDG-Net) [DDG-Net: Discriminability-Driven Graph Network for Weakly-supervised Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2023/html/Tang_DDG-Net_Discriminability-Driven_Graph_Network_for_Weakly-supervised_Temporal_Action_Localization_ICCV_2023_paper.html) (ICCV 2023)
 
 ## 2022
 1. (ACGNet) [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://arxiv.org/pdf/2112.10977.pdf) (AAAI 2022)
