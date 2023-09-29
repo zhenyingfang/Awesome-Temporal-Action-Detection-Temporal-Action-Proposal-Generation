@@ -374,6 +374,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 2. (E2E-LOAD) [E2E-LOAD: End-to-End Long-form Online Action Detection](https://arxiv.org/abs/2306.07703) (Arxiv 2023)
 3. (JOADAA) [JOADAA: joint online action detection and action anticipation](https://arxiv.org/abs/2309.06130) (Arxiv 2023)
 4. (E2E-LOAD) [E2E-LOAD: End-to-End Long-form Online Action Detection](https://openaccess.thecvf.com/content/ICCV2023/html/Cao_E2E-LOAD_End-to-End_Long-form_Online_Action_Detection_ICCV_2023_paper.html) (ICCV 2023)
+5. (MiniROAD) [MiniROAD: Minimal RNN Framework for Online Action Detection](https://openaccess.thecvf.com/content/ICCV2023/html/An_MiniROAD_Minimal_RNN_Framework_for_Online_Action_Detection_ICCV_2023_paper.html) (ICCV 2023)
 
 ## 2022
 1. (Colar) [Colar: Effective and Efficient Online Action Detection by Consulting Exemplars](https://arxiv.org/abs/2203.01057) (CVPR 2022) [code](https://github.com/VividLe/Online-Action-Detection)
