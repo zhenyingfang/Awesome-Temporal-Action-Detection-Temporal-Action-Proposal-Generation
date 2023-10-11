@@ -130,6 +130,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 23. (BAPG) [Boundary-Aware Proposal Generation Method for Temporal Action Localization](https://arxiv.org/abs/2309.13810) (Arxiv 2023)
 24. (MENet) [Movement Enhancement toward Multi-Scale Video Feature Representation for Temporal Action Detection](https://openaccess.thecvf.com/content/ICCV2023/html/Zhao_Movement_Enhancement_toward_Multi-Scale_Video_Feature_Representation_for_Temporal_Action_ICCV_2023_paper.html) (ICCV 2023)
 25. (MRAV-FF) [Multi-Resolution Audio-Visual Feature Fusion for Temporal Action Localization](https://arxiv.org/abs/2310.03456) (Arxiv 2023)
+26. (BDRC-Net) [Boundary Discretization and Reliable Classification Network for Temporal Action Detection](https://arxiv.org/abs/2310.06403) (Arxiv 2023) [code](https://github.com/zhenyingfang/BDRC-Net)
 
 ## 2022
 1. (DCAN) [DCAN: Improving Temporal Action Detection via Dual Context Aggregation](https://arxiv.org/abs/2112.03612) (AAAI 2022)
