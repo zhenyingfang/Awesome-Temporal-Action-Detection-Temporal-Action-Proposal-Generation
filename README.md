@@ -46,6 +46,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 ## 2023
 1. (MIFNet) [MIFNet: Multiple Instances Focused Temporal Action Proposal Generation](https://www.sciencedirect.com/science/article/abs/pii/S0925231223000553) (Neurocomputing 2023)
 2. (SMBG) [Faster Learning of Temporal Action Proposal via Sparse Multilevel Boundary Generator](https://arxiv.org/abs/2303.03166) (arxiv 2023) [code](https://github.com/zhouyang-001/SMBG-for-temporal-action-proposal)
+3. (MCBD) [Multi-Level Content-Aware Boundary Detection for Temporal Action Proposal Generation](Tip 2023) [code](https://mic.tongji.edu.cn/ff/32/c9778a327474/page.htm)
 
 ## 2022
 1. (BCNet) [Temporal Action Proposal Generation with Background Constraint](https://arxiv.org/abs/2112.07984) (AAAI 2022)
