@@ -135,6 +135,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 27. (STAN) [STAN: Spatial-Temporal Awareness Network for Temporal Action Detection](https://dl.acm.org/doi/abs/10.1145/3606038.3616169) (ACM MM W 2023)
 28. (RefineTAD) [RefineTAD: Learning Proposal-free Refinement for Temporal Action Detection](https://dl.acm.org/doi/abs/10.1145/3581783.3611872) (ACM MM 2023)
 29. [Adapting Short-Term Transformers for Action Detection in Untrimmed Videos](https://arxiv.org/abs/2312.01897) (arXiv 2023)
+30. [End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames](https://arxiv.org/abs/2311.17241) (arXiv 2023)
 
 ## 2022
 1. (DCAN) [DCAN: Improving Temporal Action Detection via Dual Context Aggregation](https://arxiv.org/abs/2112.03612) (AAAI 2022)
