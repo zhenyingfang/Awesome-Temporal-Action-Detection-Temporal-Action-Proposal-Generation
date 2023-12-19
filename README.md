@@ -283,7 +283,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 19. [Weakly-Supervised Action Localization by Hierarchically-structured Latent Attention Modeling](https://arxiv.org/abs/2308.09946) (ICCV 2023)
 20. [Cross-Video Contextual Knowledge Exploration and Exploitation for Ambiguity Reduction in Weakly Supervised Temporal Action Localization](https://arxiv.org/abs/2308.12609) (TCSVT 2023)
 21. (SPL-Loc) [Sub-action Prototype Learning for Point-level Weakly-supervised Temporal Action Localization](https://arxiv.org/abs/2309.09060) (arXiv 2023)
-22. (DDG-Net) [DDG-Net: Discriminability-Driven Graph Network for Weakly-supervised Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2023/html/Tang_DDG-Net_Discriminability-Driven_Graph_Network_for_Weakly-supervised_Temporal_Action_Localization_ICCV_2023_paper.html) (ICCV 2023)
+22. (DDG-Net) [DDG-Net: Discriminability-Driven Graph Network for Weakly-supervised Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2023/html/Tang_DDG-Net_Discriminability-Driven_Graph_Network_for_Weakly-supervised_Temporal_Action_Localization_ICCV_2023_paper.html) (ICCV 2023) [code](https://github.com/XiaojunTang22/ICCV2023-DDGNet)
 23. [Proposal-based Temporal Action Localization with Point-level Supervision](https://arxiv.org/abs/2310.05511) (BMVC 2023)
 24. (LPR) [LPR: learning point-level temporal action localization through re-training](https://link.springer.com/article/10.1007/s00530-023-01128-4) (MMSJ 2023)
 25. (POTLoc) [POTLoc: Pseudo-Label Oriented Transformer for Point-Supervised Temporal Action Localization](https://arxiv.org/abs/2310.13585) (arXiv 2023)
