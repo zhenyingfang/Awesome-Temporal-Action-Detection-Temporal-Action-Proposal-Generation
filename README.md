@@ -288,6 +288,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 24. (LPR) [LPR: learning point-level temporal action localization through re-training](https://link.springer.com/article/10.1007/s00530-023-01128-4) (MMSJ 2023)
 25. (POTLoc) [POTLoc: Pseudo-Label Oriented Transformer for Point-Supervised Temporal Action Localization](https://arxiv.org/abs/2310.13585) (arXiv 2023)
 26. (ADM-Loc) [ADM-Loc: Actionness Distribution Modeling for Point-supervised Temporal Action Localization](https://arxiv.org/abs/2311.15916) (arXiv 2023)
+27. [Revisiting Foreground and Background Separation in Weakly-supervised Temporal Action Localization: A Clustering-based Approach](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Revisiting_Foreground_and_Background_Separation_in_Weakly-supervised_Temporal_Action_Localization_ICCV_2023_paper.html) (ICCV 2023) [code](https://github.com/Qinying-Liu/CASE)
 
 ## 2022
 1. (ACGNet) [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://arxiv.org/pdf/2112.10977.pdf) (AAAI 2022)
