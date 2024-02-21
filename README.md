@@ -169,6 +169,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 28. (SoLa) [Soft-Landing Strategy for Alleviating the Task Discrepancy Problem in Temporal Action Localization Tasks](https://arxiv.org/abs/2211.06023) (arxiv 2022)
 29. (Re2TAL) [Re2TAL: Rewiring Pretrained Video Backbones for Reversible Temporal Action Localization](https://arxiv.org/pdf/2211.14053.pdf) (arxiv 2022)
 30. (MUPPET) [Multi-Modal Few-Shot Temporal Action Detection](https://arxiv.org/abs/2211.14905) (arxiv 2022) [code](https://github.com/sauradip/MUPPET)
+31. [Deep Learning-Based Action Detection in Untrimmed Videos: A Survey](https://ieeexplore.ieee.org/document/9839464) (TPAMI 2022)
 
 ## 2021
 1. (activity graph transformer) [Activity Graph Transformer for Temporal Action Localization](https://arxiv.org/abs/2101.08540) (arxiv 2021) [project](https://www.sfu.ca/~mnawhal/projects/agt.html) [code](https://github.com/Nmegha2601/activitygraph_transformer)
