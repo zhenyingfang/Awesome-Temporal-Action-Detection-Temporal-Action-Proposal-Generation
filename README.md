@@ -18,9 +18,9 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 - [**Temporal Action Proposal Generation**](#papers-temporal-action-proposal-generation)
   - [2023](#2023) - [2022](#2022) - [2021](#2021) - [2020](#2020) - [2019](#2019) - [2018](#2018) - [2017](#2017) - [before](#before)
 - [**Temporal Action Detection**](#papers-temporal-action-detection)
-  - [2023](#2023-1) - [2022](#2022-1) - [2021](#2021-1) - [2020](#2020-1) - [2019](#2019-1) - [2018](#2018-1) - [2017](#2017-1) - [before](#before-1)
+  - [2024](#2024) - [2023](#2023-1) - [2022](#2022-1) - [2021](#2021-1) - [2020](#2020-1) - [2019](#2019-1) - [2018](#2018-1) - [2017](#2017-1) - [before](#before-1)
 - [**Weakly Supervised Temporal Action Detection**](#papers-weakly-supervised-temporal-action-detection)
-  - [2024](#2024) - [2023](#2023-2) - [2022](#2022-2) - [2021](#2021-2) - [2020](#2020-2) - [2019](#2019-2) - [2018](#2018-2) - [2017](#2017-2)
+  - [2024](#2024-1) - [2023](#2023-2) - [2022](#2022-2) - [2021](#2021-2) - [2020](#2020-2) - [2019](#2019-2) - [2018](#2018-2) - [2017](#2017-2)
 - [**Online Action Detection**](#papers-online-action-detection)
   - [2022](#2022-3) - [2021](#2021-3)
 - [**Semi Supervised Temporal Action Detection**](#semi-supervised)
@@ -103,6 +103,10 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 
 ----
 # **Papers: Temporal Action Detection**
+
+## 2024
+
+1. (DenoiseLoc) [Boundary Denoising for Video Activity Localization](https://openreview.net/forum?id=bLpUtGyf9g) (ICLR 2024)
 
 ## 2023
 1. (AMNet) [Action-aware Masking Network with Group-based Attention for Temporal Action Localization](https://openaccess.thecvf.com/content/WACV2023/papers/Kang_Action-Aware_Masking_Network_With_Group-Based_Attention_for_Temporal_Action_Localization_WACV_2023_paper.pdf) (WACV 2023)
