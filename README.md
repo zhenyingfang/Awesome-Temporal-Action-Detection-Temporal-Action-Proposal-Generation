@@ -437,6 +437,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 ## 2023
 
 1. (CELL) [Cascade Evidential Learning for Open-World Weakly-Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Cascade_Evidential_Learning_for_Open-World_Weakly-Supervised_Temporal_Action_Localization_CVPR_2023_paper.html) (CVPR 2023)
+2. (OW-TAL) [OW-TAL: Learning Unknown Human Activities for Open-World Temporal Action Localization](https://www.sciencedirect.com/science/article/pii/S0031320322005076) (PR 2023)
 
 ## 2022
 
