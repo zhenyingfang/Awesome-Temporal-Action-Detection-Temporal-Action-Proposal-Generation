@@ -110,6 +110,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 2. (LITA) [LITA: Language Instructed Temporal-Localization Assistant](https://arxiv.org/abs/2403.19046) (Arxiv 2024) [code](https://github.com/NVlabs/LITA)
 3. (PLOT-TAL) (few-shot) [PLOT-TAL -- Prompt Learning with Optimal Transport for Few-Shot Temporal Action Localization](https://arxiv.org/abs/2403.18915) (Arxiv 2024)
 4. [Benchmarking the Robustness of Temporal Action Detection Models Against Temporal Corruptions](https://arxiv.org/abs/2403.20254) (CVPR 2024) [code](https://github.com/Alvin-Zeng/temporal-robustness-benchmark)
+5. (zero-shot) (T3AL) [Test-Time Zero-Shot Temporal Action Localization](https://arxiv.org/abs/2404.05426) (arXiv 2024) [code](https://github.com/benedettaliberatori/T3AL)
 
 ## 2023
 1. (AMNet) [Action-aware Masking Network with Group-based Attention for Temporal Action Localization](https://openaccess.thecvf.com/content/WACV2023/papers/Kang_Action-Aware_Masking_Network_With_Group-Based_Attention_for_Temporal_Action_Localization_WACV_2023_paper.pdf) (WACV 2023)
