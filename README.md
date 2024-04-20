@@ -114,6 +114,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 6. (UniMD) [UniMD: Towards Unifying Moment Retrieval and Temporal Action Detection](https://arxiv.org/abs/2404.04933) (arXiv 2024) [code](https://github.com/yingsen1/UniMD)
 7. [Adapting Short-Term Transformers for Action Detection in Untrimmed Videos](https://arxiv.org/abs/2312.01897) (CVPR 2024)
 8. (AdaTAD) [End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames](https://arxiv.org/abs/2311.17241) (CVPR 2024) [code](https://github.com/sming256/OpenTAD/tree/main/configs/adatad)
+9. [Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding](https://arxiv.org/abs/2403.09626) (arXiv 2024) [code](https://github.com/OpenGVLab/video-mamba-suite)
 
 ## 2023
 1. (AMNet) [Action-aware Masking Network with Group-based Attention for Temporal Action Localization](https://openaccess.thecvf.com/content/WACV2023/papers/Kang_Action-Aware_Masking_Network_With_Group-Based_Attention_for_Temporal_Action_Localization_WACV_2023_paper.pdf) (WACV 2023)
