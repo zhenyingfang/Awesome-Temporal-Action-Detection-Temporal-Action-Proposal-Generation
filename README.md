@@ -113,6 +113,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 5. (zero-shot) (T3AL) [Test-Time Zero-Shot Temporal Action Localization](https://arxiv.org/abs/2404.05426) (arXiv 2024) [code](https://github.com/benedettaliberatori/T3AL)
 6. (UniMD) [UniMD: Towards Unifying Moment Retrieval and Temporal Action Detection](https://arxiv.org/abs/2404.04933) (arXiv 2024) [code](https://github.com/yingsen1/UniMD)
 7. [Adapting Short-Term Transformers for Action Detection in Untrimmed Videos](https://arxiv.org/abs/2312.01897) (CVPR 2024)
+8. (AdaTAD) [End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames](https://arxiv.org/abs/2311.17241) (CVPR 2024) [code](https://github.com/sming256/OpenTAD/tree/main/configs/adatad)
 
 ## 2023
 1. (AMNet) [Action-aware Masking Network with Group-based Attention for Temporal Action Localization](https://openaccess.thecvf.com/content/WACV2023/papers/Kang_Action-Aware_Masking_Network_With_Group-Based_Attention_for_Temporal_Action_Localization_WACV_2023_paper.pdf) (WACV 2023)
@@ -144,8 +145,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 26. (BDRC-Net) [Boundary Discretization and Reliable Classification Network for Temporal Action Detection](https://arxiv.org/abs/2310.06403) (Arxiv 2023) [code](https://github.com/zhenyingfang/BDRC-Net)
 27. (STAN) [STAN: Spatial-Temporal Awareness Network for Temporal Action Detection](https://dl.acm.org/doi/abs/10.1145/3606038.3616169) (ACM MM W 2023)
 28. (RefineTAD) [RefineTAD: Learning Proposal-free Refinement for Temporal Action Detection](https://dl.acm.org/doi/abs/10.1145/3581783.3611872) (ACM MM 2023)
-29. [End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames](https://arxiv.org/abs/2311.17241) (arXiv 2023)
-30. [SADA: Semantic adversarial unsupervised domain adaptation for Temporal Action Localization](https://arxiv.org/abs/2312.13377) (arXiv 2023) [code](https://github.com/davidpujol/SADA)
+29. [SADA: Semantic adversarial unsupervised domain adaptation for Temporal Action Localization](https://arxiv.org/abs/2312.13377) (arXiv 2023) [code](https://github.com/davidpujol/SADA)
 
 ## 2022
 1. (DCAN) [DCAN: Improving Temporal Action Detection via Dual Context Aggregation](https://arxiv.org/abs/2112.03612) (AAAI 2022)
