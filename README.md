@@ -308,6 +308,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 24. (POTLoc) [POTLoc: Pseudo-Label Oriented Transformer for Point-Supervised Temporal Action Localization](https://arxiv.org/abs/2310.13585) (arXiv 2023)
 25. (ADM-Loc) [ADM-Loc: Actionness Distribution Modeling for Point-supervised Temporal Action Localization](https://arxiv.org/abs/2311.15916) (arXiv 2023)
 26. [Revisiting Foreground and Background Separation in Weakly-supervised Temporal Action Localization: A Clustering-based Approach](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Revisiting_Foreground_and_Background_Separation_in_Weakly-supervised_Temporal_Action_Localization_ICCV_2023_paper.html) (ICCV 2023) [code](https://github.com/Qinying-Liu/CASE)
+27. [Sub-action Prototype Learning for Point-level Weakly-supervised Temporal Action Localization](https://arxiv.org/abs/2309.09060) (arXiv 2023)
 
 ## 2022
 1. (ACGNet) [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://arxiv.org/pdf/2112.10977.pdf) (AAAI 2022)
