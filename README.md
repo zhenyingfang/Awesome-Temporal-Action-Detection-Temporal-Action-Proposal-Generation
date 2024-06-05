@@ -117,6 +117,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 9. [Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding](https://arxiv.org/abs/2403.09626) (arXiv 2024) [code](https://github.com/OpenGVLab/video-mamba-suite)
 10. (TE-TAD) [TE-TAD: Towards Full End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression](https://arxiv.org/abs/2404.02405) (CVPR 2024) [code](https://github.com/Dotori-HJ/TE-TAD)
 11. (ADI-Diff) [Action Detection via an Image Diffusion Process](https://arxiv.org/abs/2404.01051) (CVPR 2024)
+12. (DualDETR) [Dual DETRs for Multi-Label Temporal Action Detection](https://arxiv.org/abs/2404.00653) (CVPR 2024) [code](https://github.com/MCG-NJU/DualDETR)
 
 ## 2023
 1. (AMNet) [Action-aware Masking Network with Group-based Attention for Temporal Action Localization](https://openaccess.thecvf.com/content/WACV2023/papers/Kang_Action-Aware_Masking_Network_With_Group-Based_Attention_for_Temporal_Action_Localization_WACV_2023_paper.pdf) (WACV 2023)
