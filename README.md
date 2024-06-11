@@ -107,7 +107,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 ## 2024
 
 1. (DenoiseLoc) [Boundary Denoising for Video Activity Localization](https://openreview.net/forum?id=bLpUtGyf9g) (ICLR 2024)
-2. (LITA) [LITA: Language Instructed Temporal-Localization Assistant](https://arxiv.org/abs/2403.19046) (Arxiv 2024) [code](https://github.com/NVlabs/LITA)
+2. (LITA) [LITA: Language Instructed Temporal-Localization Assistant](https://arxiv.org/abs/2403.19046) (arXiv 2024) [code](https://github.com/NVlabs/LITA)
 3. (PLOT-TAL) (few-shot) [PLOT-TAL -- Prompt Learning with Optimal Transport for Few-Shot Temporal Action Localization](https://arxiv.org/abs/2403.18915) (Arxiv 2024)
 4. [Benchmarking the Robustness of Temporal Action Detection Models Against Temporal Corruptions](https://arxiv.org/abs/2403.20254) (CVPR 2024) [code](https://github.com/Alvin-Zeng/temporal-robustness-benchmark)
 5. (zero-shot) (T3AL) [Test-Time Zero-Shot Temporal Action Localization](https://arxiv.org/abs/2404.05426) (CVPR 2024) [code](https://github.com/benedettaliberatori/T3AL)
@@ -118,6 +118,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 10. (TE-TAD) [TE-TAD: Towards Full End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression](https://arxiv.org/abs/2404.02405) (CVPR 2024) [code](https://github.com/Dotori-HJ/TE-TAD)
 11. (ADI-Diff) [Action Detection via an Image Diffusion Process](https://arxiv.org/abs/2404.01051) (CVPR 2024)
 12. (DualDETR) [Dual DETRs for Multi-Label Temporal Action Detection](https://arxiv.org/abs/2404.00653) (CVPR 2024) [code](https://github.com/MCG-NJU/DualDETR)
+13. [An Effective-Efficient Approach for Dense Multi-Label Action Detection](https://arxiv.org/abs/2406.06187) (arXiv 2024)
 
 ## 2023
 1. (AMNet) [Action-aware Masking Network with Group-based Attention for Temporal Action Localization](https://openaccess.thecvf.com/content/WACV2023/papers/Kang_Action-Aware_Masking_Network_With_Group-Based_Attention_for_Temporal_Action_Localization_WACV_2023_paper.pdf) (WACV 2023)
