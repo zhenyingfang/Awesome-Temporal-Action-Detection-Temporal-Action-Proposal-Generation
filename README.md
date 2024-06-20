@@ -284,6 +284,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 3. [STAT: Towards Generalizable Temporal Action Localization](https://arxiv.org/abs/2404.13311) (Arxiv 2024)
 4. (TSPNet) [Realigning Confidence with Temporal Saliency Information for Point-level Weakly-Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2024/html/Xia_Realigning_Confidence_with_Temporal_Saliency_Information_for_Point-Level_Weakly-Supervised_Temporal_CVPR_2024_paper.html) (CVPR 2024) [code](https://github.com/zyxia1009/CVPR2024-TSPNet)
 5. (M2PT) [Weakly-Supervised Temporal Action Localization with Multi-Modal Plateau Transformers](https://openaccess.thecvf.com/content/CVPR2024W/L3D-IVU/html/Hu_Weakly-Supervised_Temporal_Action_Localization_with_Multi-Modal_Plateau_Transformers_CVPRW_2024_paper.html) (CVPR Workshop 2024)
+6. (EPNet) [Ensemble Prototype Network For Weakly Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10479157) (TNNLS 2024)
 
 ## 2023
 1. (ASCN) [A Novel Action Saliency and Context-Aware Network for Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10007033) (TMM 2023)
