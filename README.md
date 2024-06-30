@@ -26,7 +26,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 - [**Semi Supervised Temporal Action Detection**](#semi-supervised)
   - [2023](#2023-4) - [2022](#2022-4) - [2021](#2021-4) - [2019](#2019-3)
 - [**Open-Vocabulary Temporal Action Detection**](#open-vocabulary-temporal-action-detection)
-  - [2023](#2023-5) - [2022](#2022-5)
+  - [2024](#2024-3) - [2023](#2023-5) - [2022](#2022-5)
 
 
 -----
