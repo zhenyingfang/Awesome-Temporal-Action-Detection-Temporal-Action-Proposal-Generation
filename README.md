@@ -120,6 +120,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 12. (DualDETR) [Dual DETRs for Multi-Label Temporal Action Detection](https://arxiv.org/abs/2404.00653) (CVPR 2024) [code](https://github.com/MCG-NJU/DualDETR)
 13. [An Effective-Efficient Approach for Dense Multi-Label Action Detection](https://arxiv.org/abs/2406.06187) (arXiv 2024)
 14. (Spatio-Temporal) [End-to-End Spatio-Temporal Action Localisation with Video Transformers](https://openaccess.thecvf.com/content/CVPR2024/html/Gritsenko_End-to-End_Spatio-Temporal_Action_Localisation_with_Video_Transformers_CVPR_2024_paper.html) (CVPR 2024)
+15. (DyFADet) [DyFADet: Dynamic Feature Aggregation for Temporal Action Detection](https://arxiv.org/abs/2407.03197) (ECCV 2024) [code](https://github.com/yangle15/DyFADet-pytorch)
 
 ## 2023
 1. (AMNet) [Action-aware Masking Network with Group-based Attention for Temporal Action Localization](https://openaccess.thecvf.com/content/WACV2023/papers/Kang_Action-Aware_Masking_Network_With_Group-Based_Attention_for_Temporal_Action_Localization_WACV_2023_paper.pdf) (WACV 2023)
