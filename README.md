@@ -464,6 +464,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 ## 2024
 1. [One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Features](https://arxiv.org/abs/2404.19542) (FG 2024)
 2. [Open-Vocabulary Temporal Action Localization using Multimodal Guidance](https://arxiv.org/abs/2406.15556) (arXiv 2024)
+3. (OV-TAL) [Exploring Scalability of Self-Training for Open-Vocabulary Temporal Action Localization](https://arxiv.org/abs/2407.07024) (arXiv 2024) [code](https://github.com/HYUNJS/STOV-TAL)
 
 ## 2023
 
