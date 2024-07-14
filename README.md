@@ -442,6 +442,9 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 ----
 # **Semi-Supervised**
 
+## 2024
+1. (APL) [Towards Adaptive Pseudo-label Learning for Semi-Supervised Temporal Action Localization](https://arxiv.org/abs/2407.07673) (ECCV 2024)
+
 ## 2023
 1. (NPL) [Learning from Noisy Pseudo Labels for Semi-Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2023/html/Xia_Learning_from_Noisy_Pseudo_Labels_for_Semi-Supervised_Temporal_Action_Localization_ICCV_2023_paper.html) (ICCV 2023) [code](https://github.com/kunnxia/NPL)
 
