@@ -111,7 +111,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 3. (PLOT-TAL) (few-shot) [PLOT-TAL -- Prompt Learning with Optimal Transport for Few-Shot Temporal Action Localization](https://arxiv.org/abs/2403.18915) (Arxiv 2024)
 4. [Benchmarking the Robustness of Temporal Action Detection Models Against Temporal Corruptions](https://arxiv.org/abs/2403.20254) (CVPR 2024) [code](https://github.com/Alvin-Zeng/temporal-robustness-benchmark)
 5. (zero-shot) (T3AL) [Test-Time Zero-Shot Temporal Action Localization](https://arxiv.org/abs/2404.05426) (CVPR 2024) [code](https://github.com/benedettaliberatori/T3AL)
-6. (UniMD) [UniMD: Towards Unifying Moment Retrieval and Temporal Action Detection](https://arxiv.org/abs/2404.04933) (arXiv 2024) [code](https://github.com/yingsen1/UniMD)
+6. (UniMD) [UniMD: Towards Unifying Moment Retrieval and Temporal Action Detection](https://arxiv.org/abs/2404.04933) (ECCV 2024) [code](https://github.com/yingsen1/UniMD)
 7. [Adapting Short-Term Transformers for Action Detection in Untrimmed Videos](https://arxiv.org/abs/2312.01897) (CVPR 2024)
 8. (AdaTAD) [End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames](https://arxiv.org/abs/2311.17241) (CVPR 2024) [code](https://github.com/sming256/OpenTAD/tree/main/configs/adatad)
 9. [Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding](https://arxiv.org/abs/2403.09626) (arXiv 2024) [code](https://github.com/OpenGVLab/video-mamba-suite)
