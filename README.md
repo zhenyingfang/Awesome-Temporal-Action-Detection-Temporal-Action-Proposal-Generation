@@ -415,6 +415,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 1. (JOADAA) [JOADAA: joint online action detection and action anticipation](https://arxiv.org/abs/2309.06130) (WACV 2024)
 2. [Object Aware Egocentric Online Action Detection](https://arxiv.org/abs/2406.01079) (CVPRW 2024)
 3. [ActionSwitch: Class-agnostic Detection of Simultaneous Actions in Streaming Videos](https://arxiv.org/abs/2407.12987) (ECCV 2024)
+4. (MATR) [Online Temporal Action Localization with Memory-Augmented Transformer](https://arxiv.org/abs/2408.02957) (ECCV 2024) [code](https://skhcjh231.github.io/MATR_project/)
 
 ## 2023
 1. (recognation) (GliTr) [GliTr: Glimpse Transformers with Spatiotemporal Consistency for Online Action Prediction](https://arxiv.org/abs/2210.13605) (WACV 2023)
