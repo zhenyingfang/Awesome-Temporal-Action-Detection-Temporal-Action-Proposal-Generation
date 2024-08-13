@@ -288,6 +288,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 5. (M2PT) [Weakly-Supervised Temporal Action Localization with Multi-Modal Plateau Transformers](https://openaccess.thecvf.com/content/CVPR2024W/L3D-IVU/html/Hu_Weakly-Supervised_Temporal_Action_Localization_with_Multi-Modal_Plateau_Transformers_CVPRW_2024_paper.html) (CVPR Workshop 2024)
 6. (EPNet) [Ensemble Prototype Network For Weakly Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10479157) (TNNLS 2024)
 7. (FuSTAL) [Full-Stage Pseudo Label Quality Enhancement for Weakly-supervised Temporal Action Localization](https://arxiv.org/abs/2407.08971) (arXiv 2024) [code](https://github.com/fqhank/FuSTAL)
+8. (PVLR) [Probabilistic Vision-Language Representation for Weakly Supervised Temporal Action Localization](https://arxiv.org/abs/2408.05955) (ACM MM 2024) [code](https://github.com/sejong-rcv/PVLR)
 
 ## 2023
 1. (ASCN) [A Novel Action Saliency and Context-Aware Network for Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10007033) (TMM 2023)
