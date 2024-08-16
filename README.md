@@ -114,7 +114,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 6. (UniMD) [UniMD: Towards Unifying Moment Retrieval and Temporal Action Detection](https://arxiv.org/abs/2404.04933) (ECCV 2024) [code](https://github.com/yingsen1/UniMD)
 7. [Adapting Short-Term Transformers for Action Detection in Untrimmed Videos](https://arxiv.org/abs/2312.01897) (CVPR 2024)
 8. (AdaTAD) [End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames](https://arxiv.org/abs/2311.17241) (CVPR 2024) [code](https://github.com/sming256/OpenTAD/tree/main/configs/adatad)
-9. [Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding](https://arxiv.org/abs/2403.09626) (arXiv 2024) [code](https://github.com/OpenGVLab/video-mamba-suite)
+9. [Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding](https://arxiv.org/abs/2403.09626) (ECCV 2024) [code](https://github.com/OpenGVLab/video-mamba-suite)
 10. (TE-TAD) [TE-TAD: Towards Full End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression](https://arxiv.org/abs/2404.02405) (CVPR 2024) [code](https://github.com/Dotori-HJ/TE-TAD)
 11. (ADI-Diff) [Action Detection via an Image Diffusion Process](https://arxiv.org/abs/2404.01051) (CVPR 2024)
 12. (DualDETR) [Dual DETRs for Multi-Label Temporal Action Detection](https://arxiv.org/abs/2404.00653) (CVPR 2024) [code](https://github.com/MCG-NJU/DualDETR)
