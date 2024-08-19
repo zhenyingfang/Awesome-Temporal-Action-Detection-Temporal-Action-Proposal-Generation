@@ -455,7 +455,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 1. (NPL) [Learning from Noisy Pseudo Labels for Semi-Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2023/html/Xia_Learning_from_Noisy_Pseudo_Labels_for_Semi-Supervised_Temporal_Action_Localization_ICCV_2023_paper.html) (ICCV 2023) [code](https://github.com/kunnxia/NPL)
 
 ## 2022
-1. (AL-STAL) [Active Learning with Effective Scoring Functions for Semi-Supervised Temporal Action Localization](https://arxiv.org/abs/2208.14856) (TCSVT 2022)
+1. (AL-STAL) [Active Learning with Effective Scoring Functions for Semi-Supervised Temporal Action Localization](https://arxiv.org/abs/2208.14856) (Displays 2022)
 2. (SPOT) [Semi-Supervised Temporal Action Detection with Proposal-Free Masking](https://arxiv.org/abs/2207.07059) (ECCV 2022) [code](https://github.com/sauradip/SPOT)
 
 ## 2021
