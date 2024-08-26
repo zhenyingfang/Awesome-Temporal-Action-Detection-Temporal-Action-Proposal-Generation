@@ -122,6 +122,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 14. (Spatio-Temporal) [End-to-End Spatio-Temporal Action Localisation with Video Transformers](https://openaccess.thecvf.com/content/CVPR2024/html/Gritsenko_End-to-End_Spatio-Temporal_Action_Localisation_with_Video_Transformers_CVPR_2024_paper.html) (CVPR 2024)
 15. (DyFADet) [DyFADet: Dynamic Feature Aggregation for Temporal Action Detection](https://arxiv.org/abs/2407.03197) (ECCV 2024) [code](https://github.com/yangle15/DyFADet-pytorch)
 16. (causaltad) [Harnessing Temporal Causality for Advanced Temporal Action Detection](https://arxiv.org/abs/2407.17792) (arxiv 2024) [code](https://github.com/sming256/OpenTAD/causaltad)
+17. (LTP) [Long-Term Pre-training for Temporal Action Detection with Transformers](https://arxiv.org/abs/2408.13152) (arxiv 2024)
 
 ## 2023
 1. (AMNet) [Action-aware Masking Network with Group-based Attention for Temporal Action Localization](https://openaccess.thecvf.com/content/WACV2023/papers/Kang_Action-Aware_Masking_Network_With_Group-Based_Attention_for_Temporal_Action_Localization_WACV_2023_paper.pdf) (WACV 2023)
