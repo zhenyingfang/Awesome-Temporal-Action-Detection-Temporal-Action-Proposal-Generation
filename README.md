@@ -123,6 +123,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 15. (DyFADet) [DyFADet: Dynamic Feature Aggregation for Temporal Action Detection](https://arxiv.org/abs/2407.03197) (ECCV 2024) [code](https://github.com/yangle15/DyFADet-pytorch)
 16. (causaltad) [Harnessing Temporal Causality for Advanced Temporal Action Detection](https://arxiv.org/abs/2407.17792) (arxiv 2024) [code](https://github.com/sming256/OpenTAD/causaltad)
 17. (LTP) [Long-Term Pre-training for Temporal Action Detection with Transformers](https://arxiv.org/abs/2408.13152) (arxiv 2024)
+18. (Pred-DETR) [Prediction-Feedback DETR for Temporal Action Detection](https://arxiv.org/abs/2408.16729) (arxiv 2024)
 
 ## 2023
 1. (AMNet) [Action-aware Masking Network with Group-based Attention for Temporal Action Localization](https://openaccess.thecvf.com/content/WACV2023/papers/Kang_Action-Aware_Masking_Network_With_Group-Based_Attention_for_Temporal_Action_Localization_WACV_2023_paper.pdf) (WACV 2023)
