@@ -294,6 +294,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 8. (PVLR) [Probabilistic Vision-Language Representation for Weakly Supervised Temporal Action Localization](https://arxiv.org/abs/2408.05955) (ACM MM 2024) [code](https://github.com/sejong-rcv/PVLR)
 9. (zero-shot) [Towards Completeness: A Generalizable Action Proposal Generator for Zero-Shot Temporal Action Localization](https://arxiv.org/abs/2408.13777) (ICPR 2024) [code](https://github.com/Run542968/GAP)
 10. (SMBD) [Stepwise Multi-grained Boundary Detector for Point-supervised Temporal Action Localization](https://eccv.ecva.net/virtual/2024/poster/390) (ECCV 2024)
+11. [Zero-shot Action Localization via the Confidence of Large Vision-Language Models](https://arxiv.org/abs/2410.14340) (arXiv 2024)
 
 ## 2023
 1. (ASCN) [A Novel Action Saliency and Context-Aware Network for Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10007033) (TMM 2023)
