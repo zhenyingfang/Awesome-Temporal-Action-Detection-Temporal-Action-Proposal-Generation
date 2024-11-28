@@ -126,6 +126,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 18. (Pred-DETR) [Prediction-Feedback DETR for Temporal Action Detection](https://arxiv.org/abs/2408.16729) (arxiv 2024)
 19. [Introducing Gating and Context into Temporal Action Detection](https://arxiv.org/abs/2409.04205) (ECCV W 2024)
 20. (ContextDet) [ContextDet: Temporal Action Detection with Adaptive Context Aggregation](https://arxiv.org/abs/2410.15279) (arXiv 2024)
+21. (LMM: TimeMarker) [TimeMarker: A Versatile Video-LLM for Long and Short Video Understanding with Superior Temporal Localization Ability](https://arxiv.org/abs/2411.18211) [code](https://github.com/TimeMarker-LLM/TimeMarker/)
 
 ## 2023
 1. (AMNet) [Action-aware Masking Network with Group-based Attention for Temporal Action Localization](https://openaccess.thecvf.com/content/WACV2023/papers/Kang_Action-Aware_Masking_Network_With_Group-Based_Attention_for_Temporal_Action_Localization_WACV_2023_paper.pdf) (WACV 2023)
