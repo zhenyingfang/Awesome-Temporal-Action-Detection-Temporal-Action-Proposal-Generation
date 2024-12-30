@@ -298,6 +298,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 10. (SMBD) [Stepwise Multi-grained Boundary Detector for Point-supervised Temporal Action Localization](https://eccv.ecva.net/virtual/2024/poster/390) (ECCV 2024)
 11. [Zero-shot Action Localization via the Confidence of Large Vision-Language Models](https://arxiv.org/abs/2410.14340) (arXiv 2024)
 12. [Can MLLMs Guide Weakly-Supervised Temporal Action Localization Tasks?](https://arxiv.org/abs/2411.08466) (arXiv 2024)
+13. [Generalized Uncertainty-Based Evidential Fusion with Hybrid Multi-Head Attention for Weak-Supervised Temporal Action Localization](https://arxiv.org/abs/2412.19418) (arXiv 2024) [code](https://github.com/heyuanpengpku/GUEF/tree/main)
 
 ## 2023
 1. (ASCN) [A Novel Action Saliency and Context-Aware Network for Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10007033) (TMM 2023)
