@@ -292,6 +292,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 ## 2025
 
 1. (AAPL) [Action-Agnostic Point-Level Supervision for Temporal Action Detection](https://arxiv.org/abs/2412.21205) (AAAI 2025) [code](https://github.com/smy-nec/AAPL)
+2. (NoCo) [Rethinking Pseudo-Label Guided Learning for Weakly Supervised Temporal Action Localization from the Perspective of Noise Correction](https://arxiv.org/abs/2501.11124) (arXiv 2025)
 
 ## 2024
 1. [Weakly-Supervised Temporal Action Localization by Inferring Snippet-Feature Affinity](https://arxiv.org/abs/2303.12332) (AAAI 2024)
