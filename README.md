@@ -297,7 +297,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 2. (NoCo) [Rethinking Pseudo-Label Guided Learning for Weakly Supervised Temporal Action Localization from the Perspective of Noise Correction](https://arxiv.org/abs/2501.11124) (arXiv 2025)
 
 ## 2024
-1. [Weakly-Supervised Temporal Action Localization by Inferring Snippet-Feature Affinity](https://arxiv.org/abs/2303.12332) (AAAI 2024)
+1. (ISSF) [Weakly-Supervised Temporal Action Localization by Inferring Snippet-Feature Affinity](https://arxiv.org/abs/2303.12332) (AAAI 2024)
 2. (HR-Pro) [HR-Pro: Point-supervised Temporal Action Localization via Hierarchical Reliability Propagation](https://arxiv.org/abs/2308.12608) (AAAI 2024) [code](https://github.com/pipixin321/HR-Pro)
 3. [STAT: Towards Generalizable Temporal Action Localization](https://arxiv.org/abs/2404.13311) (Arxiv 2024)
 4. (TSPNet) [Realigning Confidence with Temporal Saliency Information for Point-level Weakly-Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2024/html/Xia_Realigning_Confidence_with_Temporal_Saliency_Information_for_Point-Level_Weakly-Supervised_Temporal_CVPR_2024_paper.html) (CVPR 2024) [code](https://github.com/zyxia1009/CVPR2024-TSPNet)
