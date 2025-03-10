@@ -445,6 +445,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 4. (MATR) [Online Temporal Action Localization with Memory-Augmented Transformer](https://arxiv.org/abs/2408.02957) (ECCV 2024) [code](https://skhcjh231.github.io/MATR_project/)
 5. (HAT) [HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization](https://arxiv.org/abs/2408.06437) (ECCV 2024) [code](https://github.com/sakibreza/ECCV24-HAT/)
 6. [Progressive Knowledge Distillation from Different Levels of Teachers for Online Action Detection](https://ieeexplore.ieee.org/abstract/document/10814662) (TMM 2024)
+7. [OnlineTAS: An Online Baseline for Temporal Action Segmentation](https://openreview.net/forum?id=bkLetzd97M&referrer=%5Bthe%20profile%20of%20Angela%20Yao%5D(%2Fprofile%3Fid%3D~Angela_Yao1)) (NeurIPS 2024)
 
 ## 2023
 1. (recognation) (GliTr) [GliTr: Glimpse Transformers with Spatiotemporal Consistency for Online Action Prediction](https://arxiv.org/abs/2210.13605) (WACV 2023)
