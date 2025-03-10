@@ -463,14 +463,16 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 6. (SimOn) [SimOn: A Simple Framework for Online Temporal Action Localization](https://arxiv.org/pdf/2211.04905.pdf) (arxiv 2022) [code](https://github.com/TuanTNG/SimOn)
 7. (survey) [Online human action detection and anticipation in videos: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003617?via%3Dihub)
 8. [Uncertainty-Based Spatial-Temporal Attention for Online Action Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640068.pdf) (ECCV 2022)
-9. (PPKD) [Privileged Knowledge Distillation for Online Action Detection]() (PRhttps://arxiv.org/abs/2011.09158 2022)
+9. (PPKD) [Privileged Knowledge Distillation for Online Action Detection](https://arxiv.org/abs/2011.09158) (PR 2022)
+10. [Information Elevation Network for Online Action Detection and Anticipation](https://ieeexplore.ieee.org/document/9857490) (CVPR W 2022)
 
 ## 2021
 
 1. (WOAD) [WOAD: Weakly Supervised Online Action Detection in Untrimmed Videos](https://openaccess.thecvf.com/content/CVPR2021/html/Gao_WOAD_Weakly_Supervised_Online_Action_Detection_in_Untrimmed_Videos_CVPR_2021_paper.html) (CVPR 2021)
 2. (OadTR) [OadTR: Online Action Detection with Transformers](https://arxiv.org/abs/2106.11149) (ICCV 2021) [code](https://github.com/wangxiang1230/OadTR)
 3. (LSTR) [Long Short-Term Transformer for Online Action Detection](https://arxiv.org/abs/2107.03377) (NeurIPS 2021) [code](https://github.com/amazon-science/long-short-term-transformer)
-4. [pre awesome](https://github.com/wangxiang1230/Awesome-Online-Action-Detection)
+4. (TRN) [Temporal Recurrent Networks for Online Action Detection](https://ieeexplore.ieee.org/document/9009797) (ICCV 2019) [code](https://github.com/xumingze0308/TRN.pytorch)
+5. [pre awesome](https://github.com/wangxiang1230/Awesome-Online-Action-Detection)
 
 ----
 # **Semi-Supervised**
