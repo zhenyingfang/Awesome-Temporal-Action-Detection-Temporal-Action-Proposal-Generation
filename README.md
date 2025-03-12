@@ -297,6 +297,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 
 1. (AAPL) [Action-Agnostic Point-Level Supervision for Temporal Action Detection](https://arxiv.org/abs/2412.21205) (AAAI 2025) [code](https://github.com/smy-nec/AAPL)
 2. (NoCo) [Rethinking Pseudo-Label Guided Learning for Weakly Supervised Temporal Action Localization from the Perspective of Noise Correction](https://arxiv.org/abs/2501.11124) (arXiv 2025)
+3. (SAL) [Multilevel semantic and adaptive actionness learning for weakly supervised temporal action localization](https://www.sciencedirect.com/science/article/pii/S0893608024008347) (NN 2025) [code](https://github.com/lizhilin-ustc/SAL)
 
 ## 2024
 1. (ISSF) [Weakly-Supervised Temporal Action Localization by Inferring Snippet-Feature Affinity](https://arxiv.org/abs/2303.12332) (AAAI 2024)
@@ -313,6 +314,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 12. [Can MLLMs Guide Weakly-Supervised Temporal Action Localization Tasks?](https://arxiv.org/abs/2411.08466) (arXiv 2024)
 13. [Generalized Uncertainty-Based Evidential Fusion with Hybrid Multi-Head Attention for Weak-Supervised Temporal Action Localization](https://arxiv.org/abs/2412.19418) (arXiv 2024) [code](https://github.com/heyuanpengpku/GUEF/tree/main)
 14. (SQL-Net) (point) [SQL-Net: Semantic Query Learning for Point-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10814700) (TMM 2024)
+15. (AFPS) [Weakly supervised temporal action localization with actionness-guided false positive suppression](https://www.sciencedirect.com/science/article/pii/S0893608024002314?via%3Dihub) (NN 2024) [code](https://github.com/lizhilin-ustc/AFPS)
 
 ## 2023
 1. (ASCN) [A Novel Action Saliency and Context-Aware Network for Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10007033) (TMM 2023)
@@ -342,6 +344,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 25. (ADM-Loc) [ADM-Loc: Actionness Distribution Modeling for Point-supervised Temporal Action Localization](https://arxiv.org/abs/2311.15916) (arXiv 2023)
 26. [Revisiting Foreground and Background Separation in Weakly-supervised Temporal Action Localization: A Clustering-based Approach](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Revisiting_Foreground_and_Background_Separation_in_Weakly-supervised_Temporal_Action_Localization_ICCV_2023_paper.html) (ICCV 2023) [code](https://github.com/Qinying-Liu/CASE)
 27. [Sub-action Prototype Learning for Point-level Weakly-supervised Temporal Action Localization](https://arxiv.org/abs/2309.09060) (arXiv 2023)
+28. (AICL) [Actionness Inconsistency-Guided Contrastive Learning for Weakly-Supervised Temporal Action Localizatio](https://ojs.aaai.org/index.php/AAAI/article/view/25237) (AAAI 2023) [code](https://github.com/lizhilin-ustc/AAAI2023-AICL)
 
 ## 2022
 1. (ACGNet) [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://arxiv.org/pdf/2112.10977.pdf) (AAAI 2022)
