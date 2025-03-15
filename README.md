@@ -515,6 +515,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 6. (DeTAL) [DeTAL: Open-Vocabulary Temporal Action Localization With Decoupled Networks](https://ieeexplore.ieee.org/abstract/document/10517407) (TPAMI 2024)
 7. [Open-Vocabulary Action Localization with Iterative Visual Prompting](https://arxiv.org/abs/2408.17422) (arXiv 2024)
 8. (T3AL) [Test-Time Zero-Shot Temporal Action Localization](https://arxiv.org/abs/2404.05426) (CVPR 2024) [code](https://github.com/benedettaliberatori/T3AL)
+9. (ZEETAD) [ZEETAD: Adapting Pretrained Vision-Language Model for Zero-Shot End-to-End Temporal Action Detection](https://openaccess.thecvf.com/content/WACV2024/papers/Phan_ZEETAD_Adapting_Pretrained_Vision-Language_Model_for_Zero-Shot_End-to-End_Temporal_Action_WACV_2024_paper.pdf) (WACV 2024)
 
 ## 2023
 
@@ -526,3 +527,4 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 1. [Open-Vocabulary Temporal Action Detection with Off-the-Shelf ImageText Features](https://arxiv.org/pdf/2212.10596.pdf) (arxiv 2022)
 2. (OpenTAL) [OpenTAL: Towards Open Set Temporal Action Localization](https://arxiv.org/pdf/2203.05114.pdf) (CVPR 2022) [code](https://www.rit.edu/actionlab/opental)
 3. [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/abs/2112.04478) (ECCV 2022) [code](https://ju-chen.github.io/efficient-prompt/)
+4. (STALE) (**Zero-Shot**) [Zero-Shot Temporal Action Detection via Vision-Language Prompting](https://arxiv.org/abs/2207.08184) (ECCV 2022) [code](https://github.com/sauradip/stale)
