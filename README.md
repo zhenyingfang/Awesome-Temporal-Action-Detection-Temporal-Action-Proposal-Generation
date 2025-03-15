@@ -524,3 +524,4 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 
 1. [Open-Vocabulary Temporal Action Detection with Off-the-Shelf ImageText Features](https://arxiv.org/pdf/2212.10596.pdf) (arxiv 2022)
 2. (OpenTAL) [OpenTAL: Towards Open Set Temporal Action Localization](https://arxiv.org/pdf/2203.05114.pdf) (CVPR 2022) [code](https://www.rit.edu/actionlab/opental)
+3. [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/abs/2112.04478) (ECCV 2022) [code](https://ju-chen.github.io/efficient-prompt/)
