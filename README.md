@@ -107,7 +107,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 ## 2025
 
 1. (MS-Temba) [MS-Temba : Multi-Scale Temporal Mamba for Efficient Temporal Action Detection](https://arxiv.org/abs/2501.06138) (arXiv 2025) [code](https://github.com/thearkaprava/MS-Temba)
-2. (aero-shot) [Training-Free Zero-Shot Temporal Action Detection with Vision-Language Models](https://arxiv.org/abs/2501.13795) (arXiv 2025)
+2. (zero-shot) [Training-Free Zero-Shot Temporal Action Detection with Vision-Language Models](https://arxiv.org/abs/2501.13795) (arXiv 2025)
 3. (domain adaptation) [Dynamic Switching Teacher: How to Generalize Temporal Action Detection Models](https://openreview.net/forum?id=o8SPZJaJyj) (arXiv 2025)
 4. (LoSA) [LoSA: Long-Short-range Adapter for Scaling End-to-End Temporal Action Localization](https://arxiv.org/abs/2404.01282) (WACV 2025)
 5. (TimeLoc) [TimeLoc: A Unified End-to-End Framework for Precise Timestamp Localization in Long Videos](https://arxiv.org/abs/2503.06526) (arXiv 2025) [code](https://github.com/sming256/TimeLoc)
@@ -505,6 +505,9 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 
 ----
 # **Open-Vocabulary Temporal Action Detection**
+
+## 2025
+1. (zero-shot) [Training-Free Zero-Shot Temporal Action Detection with Vision-Language Models](https://arxiv.org/abs/2501.13795) (arXiv 2025)
 
 ## 2024
 1. [One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Features](https://arxiv.org/abs/2404.19542) (FG 2024)
