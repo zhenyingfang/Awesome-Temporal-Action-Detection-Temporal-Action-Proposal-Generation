@@ -26,7 +26,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 - [**Semi Supervised Temporal Action Detection**](#semi-supervised)
   - [2024](#2024-3) - [2023](#2023-4) - [2022](#2022-4) - [2021](#2021-4) - [2019](#2019-3)
 - [**Open-Vocabulary Temporal Action Detection**](#open-vocabulary-temporal-action-detection)
-  - [2024](#2024-4) - [2023](#2023-5) - [2022](#2022-5)
+  - [2025](#2025-3) - [2024](#2024-4) - [2023](#2023-5) - [2022](#2022-5)
 
 
 -----
@@ -519,15 +519,18 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 7. [Open-Vocabulary Action Localization with Iterative Visual Prompting](https://arxiv.org/abs/2408.17422) (arXiv 2024)
 8. (T3AL) [Test-Time Zero-Shot Temporal Action Localization](https://arxiv.org/abs/2404.05426) (CVPR 2024) [code](https://github.com/benedettaliberatori/T3AL)
 9. (ZEETAD) [ZEETAD: Adapting Pretrained Vision-Language Model for Zero-Shot End-to-End Temporal Action Detection](https://openaccess.thecvf.com/content/WACV2024/papers/Phan_ZEETAD_Adapting_Pretrained_Vision-Language_Model_for_Zero-Shot_End-to-End_Temporal_Action_WACV_2024_paper.pdf) (WACV 2024)
+10. [Zero-shot Action Localization via the Confidence of Large Vision-Language Models](https://arxiv.org/abs/2410.14340) (arXiv 2024)
 
 ## 2023
 
 1. (CELL) [Cascade Evidential Learning for Open-World Weakly-Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Cascade_Evidential_Learning_for_Open-World_Weakly-Supervised_Temporal_Action_Localization_CVPR_2023_paper.html) (CVPR 2023)
 2. (OW-TAL) [OW-TAL: Learning Unknown Human Activities for Open-World Temporal Action Localization](https://www.sciencedirect.com/science/article/pii/S0031320322005076) (PR 2023)
 
-## 2022
+## 2022 & before
 
 1. [Open-Vocabulary Temporal Action Detection with Off-the-Shelf ImageText Features](https://arxiv.org/pdf/2212.10596.pdf) (arxiv 2022)
 2. (OpenTAL) [OpenTAL: Towards Open Set Temporal Action Localization](https://arxiv.org/pdf/2203.05114.pdf) (CVPR 2022) [code](https://www.rit.edu/actionlab/opental)
 3. [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/abs/2112.04478) (ECCV 2022) [code](https://ju-chen.github.io/efficient-prompt/)
 4. (STALE) (**Zero-Shot**) [Zero-Shot Temporal Action Detection via Vision-Language Prompting](https://arxiv.org/abs/2207.08184) (ECCV 2022) [code](https://github.com/sauradip/stale)
+5. (ZSTAD) [ZSTAD: Zero-Shot Temporal Activity Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_ZSTAD_Zero-Shot_Temporal_Activity_Detection_CVPR_2020_paper.pdf) (CVPR 2020)
+
