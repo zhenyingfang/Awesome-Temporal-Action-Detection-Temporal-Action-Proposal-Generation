@@ -519,7 +519,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 1. [One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Features](https://arxiv.org/abs/2404.19542) (FG 2024)
 2. (OVFormer) [Open-Vocabulary Temporal Action Localization using Multimodal Guidance](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_1013/paper.pdf) (BMVC 2024)
 3. (OV-OAD) [Does Video-Text Pretraining Help Open-Vocabulary Online Action Detection?](https://nips.cc/virtual/2024/poster/95303) (NeurIPS 2024)
-4. (DeTAL) [DeTAL: Open-Vocabulary Temporal Action Localization With Decoupled Networks](https://ieeexplore.ieee.org/abstract/document/10517407) (TPAMI 2024)
+4. (DeTAL) [DeTAL: Open-Vocabulary Temporal Action Localization With Decoupled Networks](https://ieeexplore.ieee.org/abstract/document/10517407) (TPAMI 2024) [code](https://github.com/vsislab/DeTAL)
 5. [Open-Vocabulary Action Localization with Iterative Visual Prompting](https://arxiv.org/abs/2408.17422) (arXiv 2024)
 6. (T3AL) [Test-Time Zero-Shot Temporal Action Localization](https://arxiv.org/abs/2404.05426) (CVPR 2024) [code](https://github.com/benedettaliberatori/T3AL)
 7. (ZEETAD) [ZEETAD: Adapting Pretrained Vision-Language Model for Zero-Shot End-to-End Temporal Action Detection](https://openaccess.thecvf.com/content/WACV2024/papers/Phan_ZEETAD_Adapting_Pretrained_Vision-Language_Model_for_Zero-Shot_End-to-End_Temporal_Action_WACV_2024_paper.pdf) (WACV 2024)
