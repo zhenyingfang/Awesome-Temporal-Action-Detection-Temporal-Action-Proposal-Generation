@@ -532,7 +532,8 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 3. (TN-ZSTAD) [TN-ZSTAD: Transferable Network for Zero-Shot Temporal Activity Detection](https://ieeexplore.ieee.org/document/9797852) (TAPMI 2023)
 4. [Multi-modal Prompting for Low-Shot Temporal Action Localization](https://arxiv.org/abs/2303.11732) (arXiv 2023)
 
-## 2022 & before
+## 2022
+& before
 
 1. [Open-Vocabulary Temporal Action Detection with Off-the-Shelf ImageText Features](https://arxiv.org/pdf/2212.10596.pdf) (arxiv 2022)
 2. (OpenTAL) [OpenTAL: Towards Open Set Temporal Action Localization](https://arxiv.org/pdf/2203.05114.pdf) (CVPR 2022) [code](https://www.rit.edu/actionlab/opental)
