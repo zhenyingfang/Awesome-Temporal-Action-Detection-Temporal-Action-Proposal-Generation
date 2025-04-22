@@ -303,6 +303,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 3. (SAL) [Multilevel semantic and adaptive actionness learning for weakly supervised temporal action localization](https://www.sciencedirect.com/science/article/pii/S0893608024008347) (NN 2025) [code](https://github.com/lizhilin-ustc/SAL)
 4. (SDANet) [Snippet-inter Difference Attention Network for Weakly-supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10856540) (TMM 2025)
 5. (grounding) [Collaborative Temporal Consistency Learning for Point-supervised Natural Language Video Localization](https://arxiv.org/abs/2503.17651) (arXiv 2025)
+6. [Bridge the Gap: From Weak to Full Supervision for Temporal Action Localization with PseudoFormer](https://arxiv.org/abs/2504.14860) (CVPR 2025)
 
 ## 2024
 1. (ISSF) [Weakly-Supervised Temporal Action Localization by Inferring Snippet-Feature Affinity](https://arxiv.org/abs/2303.12332) (AAAI 2024)
