@@ -448,6 +448,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 ## 2025
 1. (TOAD) [Text-driven Online Action Detection](https://arxiv.org/abs/2501.13518) (Integrated Computer-Aided Engineering 2025) [code](https://github.com/3dperceptionlab/toad)
 2. (CMeRT) [Context-Enhanced Memory-Refined Transformer for Online Action Detection](https://arxiv.org/abs/2503.18359) (CVPR 2025) [code](https://github.com/pangzhan27/CMeRT)
+3. [Vision and Intention Boost Large Language Model in Long-Term Action Anticipation](https://arxiv.org/abs/2505.01713) (arXiv 2025)
 
 ## 2024
 1. (JOADAA) [JOADAA: joint online action detection and action anticipation](https://arxiv.org/abs/2309.06130) (WACV 2024)
