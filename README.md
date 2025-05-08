@@ -112,8 +112,9 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 4. (LoSA) [LoSA: Long-Short-range Adapter for Scaling End-to-End Temporal Action Localization](https://arxiv.org/abs/2404.01282) (WACV 2025)
 5. (TimeLoc) [TimeLoc: A Unified End-to-End Framework for Precise Timestamp Localization in Long Videos](https://arxiv.org/abs/2503.06526) (arXiv 2025) [code](https://github.com/sming256/TimeLoc)
 6. [Temporal Action Detection Model Compression by Progressive Block Drop](https://arxiv.org/abs/2503.16916) (CVPR 2025)
-7. (FDDet) [FDDet: Frequency-Decoupling for Boundary Refinement in Temporal Action Detection](https://arxiv.org/abs/2504.00647) (arXiv 2025)
-8. [Chain-of-Thought Textual Reasoning for Few-shot Temporal Action Localization](https://arxiv.org/abs/2504.13460) (arXiv 2025)
+7. (DiGIT) [DiGIT: Multi-Dilated Gated Encoder and Central-Adjacent Region Integrated Decoder for Temporal Action Detection Transformer](https://cvpr.thecvf.com/virtual/2025/poster/32743) (CVPR 2025) [code](https://github.com/Dotori-HJ/DiGIT)
+8. (FDDet) [FDDet: Frequency-Decoupling for Boundary Refinement in Temporal Action Detection](https://arxiv.org/abs/2504.00647) (arXiv 2025)
+9. [Chain-of-Thought Textual Reasoning for Few-shot Temporal Action Localization](https://arxiv.org/abs/2504.13460) (arXiv 2025)
 
 ## 2024
 
