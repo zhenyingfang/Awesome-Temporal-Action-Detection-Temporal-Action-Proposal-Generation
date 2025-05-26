@@ -115,6 +115,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 7. (DiGIT) [DiGIT: Multi-Dilated Gated Encoder and Central-Adjacent Region Integrated Decoder for Temporal Action Detection Transformer](https://arxiv.org/abs/2505.05711) (CVPR 2025) [code](https://github.com/Dotori-HJ/DiGIT)
 8. (FDDet) [FDDet: Frequency-Decoupling for Boundary Refinement in Temporal Action Detection](https://arxiv.org/abs/2504.00647) (arXiv 2025)
 9. [Chain-of-Thought Textual Reasoning for Few-shot Temporal Action Localization](https://arxiv.org/abs/2504.13460) (arXiv 2025)
+10. [ProTAL: A Drag-and-Link Video Programming Framework for Temporal Action Localization](https://arxiv.org/abs/2505.17555) (CHI 2025)
 
 ## 2024
 
