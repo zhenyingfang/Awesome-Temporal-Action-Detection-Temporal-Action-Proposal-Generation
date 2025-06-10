@@ -118,6 +118,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 10. [ProTAL: A Drag-and-Link Video Programming Framework for Temporal Action Localization](https://arxiv.org/abs/2505.17555) (CHI 2025)
 11. [CLIP-AE: CLIP-assisted Cross-view Audio-Visual Enhancement for Unsupervised Temporal Action Localization](https://arxiv.org/abs/2505.23524) (arXiv 2025)
 12. [LLM-powered Query Expansion for Enhancing Boundary Prediction in Language-driven Action Localization](https://arxiv.org/abs/2505.24282)
+13. (BRTAL) [BRTAL: Boundary Refinement Temporal Action Localization via Offset-Driven Diffusion Models](https://ieeexplore.ieee.org/document/10912675) (TCSVT 2025)
 
 ## 2024
 
