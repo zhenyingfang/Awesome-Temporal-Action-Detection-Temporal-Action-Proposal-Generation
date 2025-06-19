@@ -535,6 +535,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 7. (ZEETAD) [ZEETAD: Adapting Pretrained Vision-Language Model for Zero-Shot End-to-End Temporal Action Detection](https://openaccess.thecvf.com/content/WACV2024/papers/Phan_ZEETAD_Adapting_Pretrained_Vision-Language_Model_for_Zero-Shot_End-to-End_Temporal_Action_WACV_2024_paper.pdf) (WACV 2024)
 8. [Zero-shot Action Localization via the Confidence of Large Vision-Language Models](https://arxiv.org/abs/2410.14340) (arXiv 2024)
 9. (Ti-FAD) [Text-Infused Attention and Foreground-Aware Modeling for Zero-Shot Temporal Action Detection](https://proceedings.neurips.cc/paper_files/paper/2024/hash/13250eb13871b3c2c0a0667b54bad165-Abstract-Conference.html) (NeurIPS 2024) [code](https://github.com/YearangLee/Ti-FAD)
+10. (mProTEA) [Zero-Shot Temporal Action Detection by Learning Multimodal Prompts and Text-Enhanced Actionness](https://ieeexplore.ieee.org/document/10556637) (TCSVT 2024)
 
 ## 2023
 
