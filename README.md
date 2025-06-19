@@ -521,7 +521,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 # **Open-Vocabulary Temporal Action Detection**
 
 ## 2025
-1. (zero-shot) [Training-Free Zero-Shot Temporal Action Detection with Vision-Language Models](https://arxiv.org/abs/2501.13795) (arXiv 2025)
+1. (zero-shot, FreeZAD) [Training-Free Zero-Shot Temporal Action Detection with Vision-Language Models](https://arxiv.org/abs/2501.13795) (arXiv 2025)
 2. (OV-TAL) [Exploring Scalability of Self-Training for Open-Vocabulary Temporal Action Localization](https://arxiv.org/abs/2407.07024) (WACV 2025) [code](https://github.com/HYUNJS/STOV-TAL)
 3. [Zero-Shot Temporal Interaction Localization for Egocentric Videos](https://arxiv.org/abs/2506.03662) (arXiv 2025) [code](https://github.com/IRMVLab/EgoLoc)
 
