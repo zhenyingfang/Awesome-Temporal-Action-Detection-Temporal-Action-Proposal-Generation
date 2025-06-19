@@ -536,6 +536,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 8. [Zero-shot Action Localization via the Confidence of Large Vision-Language Models](https://arxiv.org/abs/2410.14340) (arXiv 2024)
 9. (Ti-FAD) [Text-Infused Attention and Foreground-Aware Modeling for Zero-Shot Temporal Action Detection](https://proceedings.neurips.cc/paper_files/paper/2024/hash/13250eb13871b3c2c0a0667b54bad165-Abstract-Conference.html) (NeurIPS 2024) [code](https://github.com/YearangLee/Ti-FAD)
 10. (mProTEA) [Zero-Shot Temporal Action Detection by Learning Multimodal Prompts and Text-Enhanced Actionness](https://ieeexplore.ieee.org/document/10556637) (TCSVT 2024)
+11. (GRIZAL) [GRIZAL: Generative Prior-guided Zero-Shot Temporal Action Localization](https://aclanthology.org/2024.emnlp-main.1061.pdf) (EMNLP 2024) [code](https://github.com/CandleLabAI/GRIZAL-EMNLP2024)
 
 ## 2023
 
