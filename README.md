@@ -491,6 +491,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 8. [Uncertainty-Based Spatial-Temporal Attention for Online Action Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640068.pdf) (ECCV 2022)
 9. (PPKD) [Privileged Knowledge Distillation for Online Action Detection](https://arxiv.org/abs/2011.09158) (PR 2022)
 10. [Information Elevation Network for Online Action Detection and Anticipation](https://ieeexplore.ieee.org/document/9857490) (CVPR W 2022)
+11. (2PESNet) [2PESNet: Towards online processing of temporal action localization](https://www.sciencedirect.com/science/article/pii/S0031320322003521) (PR 2022)
 
 ## 2021
 
