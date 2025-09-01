@@ -485,7 +485,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 2. (GateHUB) [GateHUB: Gated History Unit with Background Suppression for Online Action Detection](https://arxiv.org/abs/2206.04668) (CVPR 2022)
 3. [A Circular Window-based Cascade Transformer for Online Action Detection](https://arxiv.org/pdf/2208.14209.pdf) (TPAMI 2022)
 4. (TeSTra) [Real-time Online Video Detection with Temporal Smoothing Transformers](https://arxiv.org/abs/2209.09236) (ECCV 2022) [code](https://github.com/zhaoyue-zephyrus/TeSTra)
-5. (OAT-OSN) [A Sliding Window Scheme for Online Temporal Action Localization](https://link.springer.com/chapter/10.1007/978-3-031-19830-4_37) [code](https://github.com/YHKimGithub/OAT-OSN)
+5. (OAT) [A Sliding Window Scheme for Online Temporal Action Localization](https://link.springer.com/chapter/10.1007/978-3-031-19830-4_37) [code](https://github.com/YHKimGithub/OAT-OSN)
 6. (SimOn) [SimOn: A Simple Framework for Online Temporal Action Localization](https://arxiv.org/pdf/2211.04905.pdf) (arxiv 2022) [code](https://github.com/TuanTNG/SimOn)
 7. (survey) [Online human action detection and anticipation in videos: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003617?via%3Dihub)
 8. [Uncertainty-Based Spatial-Temporal Attention for Online Action Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640068.pdf) (ECCV 2022)
