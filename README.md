@@ -397,6 +397,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 19. [Foreground-Action Consistency Network for Weakly Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Foreground-Action_Consistency_Network_for_Weakly_Supervised_Temporal_Action_Localization_ICCV_2021_paper.pdf) (ICCV 2021)
 20. (BackTAL) [Background-Click Supervision for Temporal Action Localization](https://arxiv.org/abs/2111.12449) (TPAMI 2021) [code](https://github.com/VividLe/BackTAL)
 21. (ACN) [Action Coherence Network for Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/9404867) (TMM 2021)
+22. [Divide and Conquer for Single-frame Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2021/papers/Ju_Divide_and_Conquer_for_Single-Frame_Temporal_Action_Localization_ICCV_2021_paper.pdf) (ICCV 2021)
 
 ## 2020
 
