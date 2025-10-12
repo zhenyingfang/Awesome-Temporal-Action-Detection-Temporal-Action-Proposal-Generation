@@ -20,13 +20,13 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 - [**Temporal Action Detection**](#papers-temporal-action-detection)
   - [2025](#2025) - [2024](#2024) - [2023](#2023-1) - [2022](#2022-1) - [2021](#2021-1) - [2020](#2020-1) - [2019](#2019-1) - [2018](#2018-1) - [2017](#2017-1) - [before](#before-1)
 - [**Weakly Supervised Temporal Action Detection**](#papers-weakly-supervised-temporal-action-detection)
-  - [2025](#2025-1) - [2024](#2024-1) - [2023](#2023-2) - [2022](#2022-2) - [2021](#2021-2) - [2020](#2020-2) - [2019](#2019-2) - [2018](#2018-2) - [2017](#2017-2)
+  - [2026](#2026) - [2025](#2025-1) - [2024](#2024-1) - [2023](#2023-2) - [2022](#2022-2) - [2021](#2021-2) - [2020](#2020-2) - [2019](#2019-2) - [2018](#2018-2) - [2017](#2017-2)
 - [**Online Action Detection**](#papers-online-action-detection)
-  - [2025](#2025-2) - [2024](#2024-2) - [2023](#2023-3) - [2022](#2022-3) - [2021](#2021-3)
+  - [2026](#2026-1) - [2025](#2025-2) - [2024](#2024-2) - [2023](#2023-3) - [2022](#2022-3) - [2021](#2021-3)
 - [**Semi Supervised Temporal Action Detection**](#semi-supervised)
   - [2024](#2024-3) - [2023](#2023-4) - [2022](#2022-4) - [2021](#2021-4) - [2019](#2019-3)
 - [**Open-Vocabulary Temporal Action Detection**](#open-vocabulary-temporal-action-detection)
-  - [2025](#2025-3) - [2024](#2024-4) - [2023](#2023-5) - [2022](#2022-5)
+  - [2026](#2026-2) - [2025](#2025-3) - [2024](#2024-4) - [2023](#2023-5) - [2022](#2022-5)
 
 
 -----
@@ -303,6 +303,9 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 ----
 # **Papers: Weakly Supervised Temporal Action Detection**
 
+## 2026
+1. (VLPO) [Vision-Language Preference Optimization for Weakly Supervised Temporal Action Localization](https://openreview.net/forum?id=ENwxBjOlAR) (to ICLR 2026)
+
 ## 2025
 
 1. (AAPL) [Action-Agnostic Point-Level Supervision for Temporal Action Detection](https://arxiv.org/abs/2412.21205) (AAAI 2025) [code](https://github.com/smy-nec/AAPL)
@@ -455,6 +458,9 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 ----
 # **Papers: Online Action Detection**
 
+## 2026
+1. (COAD) [Continuous Online Action Detection from Egocentric Videos](https://openreview.net/forum?id=dwgtYTuSaS) (to ICLR 2026)
+
 ## 2025
 1. (TOAD) [Text-driven Online Action Detection](https://arxiv.org/abs/2501.13518) (Integrated Computer-Aided Engineering 2025) [code](https://github.com/3dperceptionlab/toad)
 2. (CMeRT) [Context-Enhanced Memory-Refined Transformer for Online Action Detection](https://arxiv.org/abs/2503.18359) (CVPR 2025) [code](https://github.com/pangzhan27/CMeRT)
@@ -527,6 +533,9 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 
 ----
 # **Open-Vocabulary Temporal Action Detection**
+
+## 2026
+1. (PSFTR) [Progressive Semantic Fusion Transformer for Zero-Shot Temporal Action Localization](https://openreview.net/forum?id=at3UEJzCRc) (to ICLR 2026)
 
 ## 2025
 1. (zero-shot, FreeZAD) [Training-Free Zero-Shot Temporal Action Detection with Vision-Language Models](https://arxiv.org/abs/2501.13795) (arXiv 2025)
