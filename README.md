@@ -333,6 +333,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 13. [Generalized Uncertainty-Based Evidential Fusion with Hybrid Multi-Head Attention for Weak-Supervised Temporal Action Localization](https://arxiv.org/abs/2412.19418) (arXiv 2024) [code](https://github.com/heyuanpengpku/GUEF/tree/main)
 14. (SQL-Net) (point) [SQL-Net: Semantic Query Learning for Point-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10814700) (TMM 2024)
 15. (AFPS) [Weakly supervised temporal action localization with actionness-guided false positive suppression](https://www.sciencedirect.com/science/article/pii/S0893608024002314?via%3Dihub) (NN 2024) [code](https://github.com/lizhilin-ustc/AFPS)
+16. (point) [Neighbor-Guided Pseudo-Label Generation and Refinement for Single-Frame Supervised Temporal Action Localization](https://ieeexplore.ieee.org/document/10478311) (TIP 2024)
 
 ## 2023
 1. (ASCN) [A Novel Action Saliency and Context-Aware Network for Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/10007033) (TMM 2023)
