@@ -467,6 +467,8 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 2. (CMeRT) [Context-Enhanced Memory-Refined Transformer for Online Action Detection](https://arxiv.org/abs/2503.18359) (CVPR 2025) [code](https://github.com/pangzhan27/CMeRT)
 3. [Vision and Intention Boost Large Language Model in Long-Term Action Anticipation](https://arxiv.org/abs/2505.01713) (arXiv 2025)
 4. (PTMA) [Probabilistic Temporal Masked Attention for Cross-view Online Action Detection](https://arxiv.org/abs/2508.17025) (TMM 2025)
+5. (CDM-Tr) [Long and Short-Term Collaborative Decision-Making Transformer for Online Action Detection and Anticipation](https://www.sciencedirect.com/science/article/pii/S0031320325004339) (PR 2025)
+6. (TPT) [Throughout Procedural Transformer for Online Action Detection and Anticipation](https://ieeexplore.ieee.org/abstract/document/10963729) (TCSVT 2025)
 
 ## 2024
 1. (JOADAA) [JOADAA: joint online action detection and action anticipation](https://arxiv.org/abs/2309.06130) (WACV 2024)
