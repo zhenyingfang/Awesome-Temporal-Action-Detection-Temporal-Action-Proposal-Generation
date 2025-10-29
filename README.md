@@ -121,6 +121,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 13. (BRTAL) [BRTAL: Boundary Refinement Temporal Action Localization via Offset-Driven Diffusion Models](https://ieeexplore.ieee.org/document/10912675) (TCSVT 2025)
 14. (EDMP) [Energy vs. Noise: Towards Robust Temporal Action Localization in Open-World](https://ojs.aaai.org/index.php/AAAI/article/view/32659) (AAAI 2025) [code](https://github.com/XD-mu/EDMP)
 15. (AdaTAD++) [Scaling Action Detection: AdaTAD++ with Transformer-Enhanced Temporal-Spatial Adaptation](https://iccv.thecvf.com/virtual/2025/poster/1355) (ICCV 2025)
+16. (WiFiTAD) [WiFi Temporal Activity Detection via Dual Pyramid Network](https://github.com/AVC2-UESTC/WiFiTAD/blob/main/mainPaper.pdf) (AAAI 2025) [code](https://github.com/AVC2-UESTC/WiFiTAD)
 
 ## 2024
 
