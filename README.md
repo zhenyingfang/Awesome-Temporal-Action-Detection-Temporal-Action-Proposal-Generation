@@ -122,6 +122,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 14. (EDMP) [Energy vs. Noise: Towards Robust Temporal Action Localization in Open-World](https://ojs.aaai.org/index.php/AAAI/article/view/32659) (AAAI 2025) [code](https://github.com/XD-mu/EDMP)
 15. (AdaTAD++) [Scaling Action Detection: AdaTAD++ with Transformer-Enhanced Temporal-Spatial Adaptation](https://iccv.thecvf.com/virtual/2025/poster/1355) (ICCV 2025)
 16. (WiFiTAD) [WiFi Temporal Activity Detection via Dual Pyramid Network](https://github.com/AVC2-UESTC/WiFiTAD/blob/main/mainPaper.pdf) (AAAI 2025) [code](https://github.com/AVC2-UESTC/WiFiTAD)
+17. (RDFA-S6) [Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism](https://arxiv.org/abs/2407.13078) (arXiv 2025) [code](https://github.com/lsy0882/RDFA-S6)
 
 ## 2024
 
