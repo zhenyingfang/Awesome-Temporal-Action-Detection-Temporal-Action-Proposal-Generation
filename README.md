@@ -470,6 +470,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 4. (PTMA) [Probabilistic Temporal Masked Attention for Cross-view Online Action Detection](https://arxiv.org/abs/2508.17025) (TMM 2025)
 5. (CDM-Tr) [Long and Short-Term Collaborative Decision-Making Transformer for Online Action Detection and Anticipation](https://www.sciencedirect.com/science/article/pii/S0031320325004339) (PR 2025)
 6. (TPT) [Throughout Procedural Transformer for Online Action Detection and Anticipation](https://ieeexplore.ieee.org/abstract/document/10963729) (TCSVT 2025)
+7. (BiOMamba) [BiOMamba: Mamba-based Forward-Then-Backward Temporal Modeling for Online Action Detection and Anticipation](https://dl.acm.org/doi/pdf/10.1145/3746027.3755847) (ACM MM 2025)
 
 ## 2024
 1. (JOADAA) [JOADAA: joint online action detection and action anticipation](https://arxiv.org/abs/2309.06130) (WACV 2024)
