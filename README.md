@@ -123,6 +123,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 15. (AdaTAD++) [Scaling Action Detection: AdaTAD++ with Transformer-Enhanced Temporal-Spatial Adaptation](https://iccv.thecvf.com/virtual/2025/poster/1355) (ICCV 2025)
 16. (WiFiTAD) [WiFi Temporal Activity Detection via Dual Pyramid Network](https://github.com/AVC2-UESTC/WiFiTAD/blob/main/mainPaper.pdf) (AAAI 2025) [code](https://github.com/AVC2-UESTC/WiFiTAD)
 17. (RDFA-S6) [Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism](https://arxiv.org/abs/2407.13078) (arXiv 2025) [code](https://github.com/lsy0882/RDFA-S6)
+18. (MambaTAD) [MambaTAD: When State-Space Models Meet Long-Range Temporal Action Detection](https://arxiv.org/abs/2511.17929) (TMM 2025)
 
 ## 2024
 
