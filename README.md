@@ -125,6 +125,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 17. (RDFA-S6) [Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism](https://arxiv.org/abs/2407.13078) (arXiv 2025) [code](https://github.com/lsy0882/RDFA-S6)
 18. (MambaTAD) [MambaTAD: When State-Space Models Meet Long-Range Temporal Action Detection](https://arxiv.org/abs/2511.17929) (TMM 2025)
 19. (FreETAD) (multi label) [Ex Pede Herculem, Predicting Global Actionness Curve from Local Clips](https://dl.acm.org/doi/pdf/10.1145/3746027.3754712) (ACM MM 2025)
+20. (TBT-Former) [TBT-Former: Learning Temporal Boundary Distributions for Action Localization](https://arxiv.org/abs/2512.01298) (arXiv 2025)
 
 ## 2024
 
