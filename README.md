@@ -126,6 +126,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 18. (MambaTAD) [MambaTAD: When State-Space Models Meet Long-Range Temporal Action Detection](https://arxiv.org/abs/2511.17929) (TMM 2025)
 19. (FreETAD) (multi label) [Ex Pede Herculem, Predicting Global Actionness Curve from Local Clips](https://dl.acm.org/doi/pdf/10.1145/3746027.3754712) (ACM MM 2025)
 20. (TBT-Former) [TBT-Former: Learning Temporal Boundary Distributions for Action Localization](https://arxiv.org/abs/2512.01298) (arXiv 2025)
+21. [Multi-task Learning with Extended Temporal Shift Module for Temporal Action Localization](https://arxiv.org/abs/2512.11189) (ICCV 2025 BinEgo-360 Challenge)
 
 ## 2024
 
