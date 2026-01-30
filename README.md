@@ -18,15 +18,15 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 - [**Temporal Action Proposal Generation**](#papers-temporal-action-proposal-generation)
   - [2023](#2023) - [2022](#2022) - [2021](#2021) - [2020](#2020) - [2019](#2019) - [2018](#2018) - [2017](#2017) - [before](#before)
 - [**Temporal Action Detection**](#papers-temporal-action-detection)
-  - [2025](#2025) - [2024](#2024) - [2023](#2023-1) - [2022](#2022-1) - [2021](#2021-1) - [2020](#2020-1) - [2019](#2019-1) - [2018](#2018-1) - [2017](#2017-1) - [before](#before-1)
+  - [2026](#2026) - [2025](#2025) - [2024](#2024) - [2023](#2023-1) - [2022](#2022-1) - [2021](#2021-1) - [2020](#2020-1) - [2019](#2019-1) - [2018](#2018-1) - [2017](#2017-1) - [before](#before-1)
 - [**Weakly Supervised Temporal Action Detection**](#papers-weakly-supervised-temporal-action-detection)
-  - [2026](#2026) - [2025](#2025-1) - [2024](#2024-1) - [2023](#2023-2) - [2022](#2022-2) - [2021](#2021-2) - [2020](#2020-2) - [2019](#2019-2) - [2018](#2018-2) - [2017](#2017-2)
+  - [2026](#2026-1) - [2025](#2025-1) - [2024](#2024-1) - [2023](#2023-2) - [2022](#2022-2) - [2021](#2021-2) - [2020](#2020-2) - [2019](#2019-2) - [2018](#2018-2) - [2017](#2017-2)
 - [**Online Action Detection**](#papers-online-action-detection)
-  - [2026](#2026-1) - [2025](#2025-2) - [2024](#2024-2) - [2023](#2023-3) - [2022](#2022-3) - [2021](#2021-3)
+  - [2026](#2026-2) - [2025](#2025-2) - [2024](#2024-2) - [2023](#2023-3) - [2022](#2022-3) - [2021](#2021-3)
 - [**Semi Supervised Temporal Action Detection**](#semi-supervised)
   - [2024](#2024-3) - [2023](#2023-4) - [2022](#2022-4) - [2021](#2021-4) - [2019](#2019-3)
 - [**Open-Vocabulary Temporal Action Detection**](#open-vocabulary-temporal-action-detection)
-  - [2026](#2026-2) - [2025](#2025-3) - [2024](#2024-4) - [2023](#2023-5) - [2022](#2022-5)
+  - [2026](#2026-3) - [2025](#2025-3) - [2024](#2024-4) - [2023](#2023-5) - [2022](#2022-5)
 
 
 -----
@@ -103,6 +103,9 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 
 ----
 # **Papers: Temporal Action Detection**
+
+## 2026
+1. (ActionVLM) [Towards Mitigating Modality Bias in Vision-Language Models for Temporal Action Localization](https://arxiv.org/abs/2601.21078) (arXiv 2026)
 
 ## 2025
 
