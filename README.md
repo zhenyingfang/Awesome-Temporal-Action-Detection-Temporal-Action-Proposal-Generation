@@ -316,6 +316,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 1. (VLPO) [Vision-Language Preference Optimization for Weakly Supervised Temporal Action Localization](https://openreview.net/forum?id=ENwxBjOlAR) (to ICLR 2026)
 2. [Boosting Point-supervised Temporal Action Localization via Text Refinement and Alignment](https://arxiv.org/abs/2602.01257) (arXiv 2026)
 3. [Exploring the Temporal Consistency for Point-Level Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2602.05718) (arXiv 2026)
+4. [MSLU] [Modeling Semantic and Localization Uncertainty for Weakly Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/11370967) (TCSVT 2026)
 
 ## 2025
 
