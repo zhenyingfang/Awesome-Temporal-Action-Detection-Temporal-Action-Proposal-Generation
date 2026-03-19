@@ -328,6 +328,8 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 6. [Bridge the Gap: From Weak to Full Supervision for Temporal Action Localization with PseudoFormer](https://arxiv.org/abs/2504.14860) (CVPR 2025)
 7. (MLLM4WTAL) [Weakly Supervised Temporal Action Localization via Dual-Prior Collaborative Learning Guided by Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Weakly_Supervised_Temporal_Action_Localization_via_Dual-Prior_Collaborative_Learning_Guided_CVPR_2025_paper.html) (CVPR 2025)
 8. (QROT) [Boosting Point-Supervised Temporal Action Localization through Integrating Query Reformation and Optimal Transport](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Boosting_Point-Supervised_Temporal_Action_Localization_through_Integrating_Query_Reformation_and_CVPR_2025_paper.html) (CVPR 2025)
+9. (ActionDiff) [Action-to-Action Diffusion Network for Weakly Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/11197057) (TMM 2025)
+10. [CL-WTAL:Weakly-supervised temporal complex action localization based on multi-scale contrast learning](https://ieeexplore.ieee.org/abstract/document/11272450) (TCSVT 2025)
 
 ## 2024
 1. (ISSF) [Weakly-Supervised Temporal Action Localization by Inferring Snippet-Feature Affinity](https://arxiv.org/abs/2303.12332) (AAAI 2024)
