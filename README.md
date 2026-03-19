@@ -552,6 +552,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 ## 2026
 1. (PSFTR) [Progressive Semantic Fusion Transformer for Zero-Shot Temporal Action Localization](https://openreview.net/forum?id=at3UEJzCRc) (to ICLR 2026)
 2. (zero-shot) [TF-CADE: Foreground-Concentrated Text-Video Alignment for Zero-Shot Temporal Action Detection]() (CVPR 2026)
+3. (zero-shot) [Bidirectional Temporal-Sensitive Adaptation for Generalized Zero-Shot Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/11396058) (TCSVT 2026)
 
 ## 2025
 1. (zero-shot, FreeZAD) [Training-Free Zero-Shot Temporal Action Detection with Vision-Language Models](https://arxiv.org/abs/2501.13795) (arXiv 2025)
