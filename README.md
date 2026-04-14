@@ -108,6 +108,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 1. (ActionVLM) [Towards Mitigating Modality Bias in Vision-Language Models for Temporal Action Localization](https://arxiv.org/abs/2601.21078) (arXiv 2026)
 2. [Light but Sharp: SlimSTAD for Real-Time Action Detection from Sensor Data](https://ojs.aaai.org/index.php/AAAI/article/view/36975) (AAAI 2026)
 3. [Scene-Aware Spatiotemporal Generalization: Towards Robust Temporal Action Detection Across Domains](https://ojs.aaai.org/index.php/AAAI/article/view/37392) (AAAI 2026)
+4. (ESTF) [Efficient Spatial-Temporal Focal Adapter with SSM for Temporal Action Detection](https://arxiv.org/abs/2604.09164) (ICME 2026)
 
 ## 2025
 
