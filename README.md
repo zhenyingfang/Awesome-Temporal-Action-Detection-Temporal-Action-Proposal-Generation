@@ -109,6 +109,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 2. [Light but Sharp: SlimSTAD for Real-Time Action Detection from Sensor Data](https://ojs.aaai.org/index.php/AAAI/article/view/36975) (AAAI 2026)
 3. [Scene-Aware Spatiotemporal Generalization: Towards Robust Temporal Action Detection Across Domains](https://ojs.aaai.org/index.php/AAAI/article/view/37392) (AAAI 2026)
 4. (ESTF) [Efficient Spatial-Temporal Focal Adapter with SSM for Temporal Action Detection](https://arxiv.org/abs/2604.09164) (ICME 2026)
+5. [LiquidTAD: An Efficient Method for Temporal Action Detection via Liquid Neural Dynamics](https://arxiv.org/abs/2604.18274) (arXiv 2026)
 
 ## 2025
 
@@ -561,6 +562,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 2. (zero-shot) [TF-CADE: Foreground-Concentrated Text-Video Alignment for Zero-Shot Temporal Action Detection]() (CVPR 2026)
 3. (zero-shot) [Bidirectional Temporal-Sensitive Adaptation for Generalized Zero-Shot Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/11396058) (TCSVT 2026)
 4. [Decompose and Transfer: CoT-Prompting Enhanced Alignment for Open-Vocabulary Temporal Action Detection](https://arxiv.org/abs/2603.24030) (CVPR 2026)
+5. [Denoise and Align: Diffusion-Driven Foreground Knowledge Prompting for Open-Vocabulary Temporal Action Detection](https://arxiv.org/abs/2604.18313) (SIGIR 2026)
 
 ## 2025
 1. (zero-shot, FreeZAD) [Training-Free Zero-Shot Temporal Action Detection with Vision-Language Models](https://arxiv.org/abs/2501.13795) (arXiv 2025)
