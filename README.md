@@ -334,6 +334,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 8. (QROT) [Boosting Point-Supervised Temporal Action Localization through Integrating Query Reformation and Optimal Transport](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Boosting_Point-Supervised_Temporal_Action_Localization_through_Integrating_Query_Reformation_and_CVPR_2025_paper.html) (CVPR 2025)
 9. (ActionDiff) [Action-to-Action Diffusion Network for Weakly Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/11197057) (TMM 2025)
 10. [CL-WTAL:Weakly-supervised temporal complex action localization based on multi-scale contrast learning](https://ieeexplore.ieee.org/abstract/document/11272450) (TCSVT 2025)
+11. (CRC) [Cross-Task Relation-Aware Consistency for Weakly Supervised Temporal Action Detection](https://ieeexplore.ieee.org/abstract/document/11103709) (TPAMI 2025)
 
 ## 2024
 1. (ISSF) [Weakly-Supervised Temporal Action Localization by Inferring Snippet-Feature Affinity](https://arxiv.org/abs/2303.12332) (AAAI 2024)
