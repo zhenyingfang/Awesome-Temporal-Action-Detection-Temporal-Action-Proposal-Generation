@@ -111,6 +111,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 4. (ESTF) [Efficient Spatial-Temporal Focal Adapter with SSM for Temporal Action Detection](https://arxiv.org/abs/2604.09164) (ICME 2026)
 5. [LiquidTAD: An Efficient Method for Temporal Action Detection via Liquid Neural Dynamics](https://arxiv.org/abs/2604.18274) (arXiv 2026)
 6. [LSGNet: A Local-Pattern Separation and Global-Aware Network for Temporal Action Detection](https://ieeexplore.ieee.org/abstract/document/11503108) (TIP 2026)
+7. [Masked Diffusion Vision-Language Models for Temporal Action Localization](https://arxiv.org/abs/2605.29858) (arXiv 2026)
 
 ## 2025
 
