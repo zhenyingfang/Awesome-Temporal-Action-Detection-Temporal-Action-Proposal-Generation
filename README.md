@@ -483,6 +483,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 ## 2026
 1. (COAD) [Continuous Online Action Detection from Egocentric Videos](https://openreview.net/forum?id=dwgtYTuSaS) (to ICLR 2026)
 2. (MOAD) [Backtrace Mamba: Reviving Critical Temporal Contexts via Hierarchical Memory Compression for Online Action Detection](https://ojs.aaai.org/index.php/AAAI/article/view/38139) (AAAI 2026)
+3. [OnPoint: Offline-to-Online Multi-Level Distillation for Point-Supervised Online Temporal Action Localization](https://arxiv.org/abs/2607.00289v1) (ECCV 2026)
 
 ## 2025
 1. (TOAD) [Text-driven Online Action Detection](https://arxiv.org/abs/2501.13518) (Integrated Computer-Aided Engineering 2025) [code](https://github.com/3dperceptionlab/toad)
