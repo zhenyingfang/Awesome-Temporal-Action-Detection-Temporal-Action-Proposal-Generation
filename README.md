@@ -567,7 +567,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 2. (zero-shot) [Bidirectional Temporal-Sensitive Adaptation for Generalized Zero-Shot Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/11396058) (TCSVT 2026)
 3. [Decompose and Transfer: CoT-Prompting Enhanced Alignment for Open-Vocabulary Temporal Action Detection](https://arxiv.org/abs/2603.24030) (CVPR 2026)
 4. (zero-shot) [Memory Matters: Boosting Training-Free Zero-Shot Temporal Action Localization with a Learnable Lookup Table] (CVPR 2026)
-5. (zero-shot) [TF-CADE: Foreground-Concentrated Text-Video Alignment for Zero-Shot Temporal Action Detection]() (CVPR 2026)
+5. (zero-shot) [TF-CADE: Foreground-Concentrated Text-Video Alignment for Zero-Shot Temporal Action Detection](https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_TF-CADE_Foreground-Concentrated_Text-Video_Alignment_for_Zero-Shot_Temporal_Action_Detection_CVPR_2026_paper.pdf) (CVPR 2026)
 6. [Denoise and Align: Diffusion-Driven Foreground Knowledge Prompting for Open-Vocabulary Temporal Action Detection](https://arxiv.org/abs/2604.18313) (SIGIR 2026)
 
 ## 2025
