@@ -116,6 +116,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 9. (NAS-TAD) [Information-Bottleneck-Guided Hybrid Neural Architecture Search for Temporal Action Detection in Untrimmed Videos](https://ieeexplore.ieee.org/abstract/document/11646881) (TIP 2026) [code](https://github.com/tyhnu/nastad.git)
 10. [Towards Robust Temporal Action Detection: Benchmark and A Strong Baseline](https://link.springer.com/article/10.1007/s11263-026-02956-3) (IJCV 2026) [code](https://github.com/Alvin-Zeng/temporal-robustness-benchmark)
 11. [A Temporal Action Detection Framework Based on Multi-Scale Temporal-Channel Collaboration](https://dl.acm.org/doi/abs/10.1145/3833086) (ToMM 2026)
+12. [OphBiWSSD: Scaling Temporal Action Localization in Ophthalmic Surgeries with Bidirectional Weight-tied State Space Duality](https://arxiv.org/abs/2609.12409) (arXiv 2026) [code](https://github.com/yo3nglau/OphBiWSSD)
 
 ## 2025
 
