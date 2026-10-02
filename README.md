@@ -111,7 +111,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 4. (ESTF) [Efficient Spatial-Temporal Focal Adapter with SSM for Temporal Action Detection](https://arxiv.org/abs/2604.09164) (ICME 2026)
 5. [LiquidTAD: An Efficient Method for Temporal Action Detection via Liquid Neural Dynamics](https://arxiv.org/abs/2604.18274) (arXiv 2026)
 6. [LSGNet: A Local-Pattern Separation and Global-Aware Network for Temporal Action Detection](https://ieeexplore.ieee.org/abstract/document/11503108) (TIP 2026)
-7. [Masked Diffusion Vision-Language Models for Temporal Action Localization](https://arxiv.org/abs/2605.29858) (arXiv 2026)
+7. [Masked Diffusion Vision-Language Models for Temporal Action Localization](https://arxiv.org/abs/2605.29858) (NeurIPS 2026)
 8. [EgoAction: Egocentric Action Composition with Reliability-Aware Temporal Fusion for the EPIC-KITCHENS Action Detection Challenge at CVPR 2026](https://arxiv.org/abs/2605.24496) (CVPR 2026 EPIC-KITCHENS-100 Action Detection Challenge)
 9. (NAS-TAD) [Information-Bottleneck-Guided Hybrid Neural Architecture Search for Temporal Action Detection in Untrimmed Videos](https://ieeexplore.ieee.org/abstract/document/11646881) (TIP 2026) [code](https://github.com/tyhnu/nastad.git)
 10. [Towards Robust Temporal Action Detection: Benchmark and A Strong Baseline](https://link.springer.com/article/10.1007/s11263-026-02956-3) (IJCV 2026) [code](https://github.com/Alvin-Zeng/temporal-robustness-benchmark)
