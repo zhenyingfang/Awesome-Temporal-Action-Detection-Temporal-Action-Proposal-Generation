@@ -117,6 +117,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 10. [Towards Robust Temporal Action Detection: Benchmark and A Strong Baseline](https://link.springer.com/article/10.1007/s11263-026-02956-3) (IJCV 2026) [code](https://github.com/Alvin-Zeng/temporal-robustness-benchmark)
 11. [A Temporal Action Detection Framework Based on Multi-Scale Temporal-Channel Collaboration](https://dl.acm.org/doi/abs/10.1145/3833086) (ToMM 2026)
 12. [OphBiWSSD: Scaling Temporal Action Localization in Ophthalmic Surgeries with Bidirectional Weight-tied State Space Duality](https://arxiv.org/abs/2609.12409) (arXiv 2026) [code](https://github.com/yo3nglau/OphBiWSSD)
+13. [SV-TAD: Native Sparse Convolutions for Efficient Temporal Action Detection](https://eccv.ecva.net/virtual/2026/poster/3635) (ECCV 2026) [code](https://github.com/pcr-upm/eccv26_tad)
 
 ## 2025
 
