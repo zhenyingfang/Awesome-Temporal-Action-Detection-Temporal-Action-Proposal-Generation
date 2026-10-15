@@ -119,6 +119,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 12. [OphBiWSSD: Scaling Temporal Action Localization in Ophthalmic Surgeries with Bidirectional Weight-tied State Space Duality](https://arxiv.org/abs/2609.12409) (arXiv 2026) [code](https://github.com/yo3nglau/OphBiWSSD)
 13. [SV-TAD: Native Sparse Convolutions for Efficient Temporal Action Detection](https://eccv.ecva.net/virtual/2026/poster/3635) (ECCV 2026) [code](https://github.com/pcr-upm/eccv26_tad)
 14. [HyrCap: Hybrid Rank-Calibration of Action Proposals for Temporal Event Understanding](https://arxiv.org/abs/2610.19526v1) (NeurIPS 2026) [proj](https://zgca-hmi-lab.github.io/HyrCap/)
+15. [CoDy: Codec Dynamics as Complementary Priors for Unsupervised Temporal Action Localization](https://arxiv.org/abs/2610.19880v1) (arXiv 2026)
 
 ## 2025
 
