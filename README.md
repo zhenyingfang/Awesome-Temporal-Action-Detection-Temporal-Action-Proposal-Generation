@@ -333,6 +333,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 3. [Exploring the Temporal Consistency for Point-Level Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2602.05718) (arXiv 2026)
 4. [MSLU] [Modeling Semantic and Localization Uncertainty for Weakly Supervised Temporal Action Localization](https://ieeexplore.ieee.org/abstract/document/11370967) (TCSVT 2026)
 5. [Weakly Supervised Temporal Action Localization With Proposal-Level Action Consistency Learning](https://ieeexplore.ieee.org/document/11547885) (TIP 2026)
+6. [DeformStruct: Deformable Structure Modeling for Point-Supervised Temporal Action Localization](https://arxiv.org/abs/2610.32321v1) (arXiv 2026)
 
 ## 2025
 
