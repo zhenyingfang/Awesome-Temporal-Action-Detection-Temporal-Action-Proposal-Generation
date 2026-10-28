@@ -583,6 +583,7 @@ Weakly-supervised Object and Action Localization](https://arxiv.org/abs/1704.042
 4. (zero-shot) [Memory Matters: Boosting Training-Free Zero-Shot Temporal Action Localization with a Learnable Lookup Table] (CVPR 2026)
 5. (zero-shot) [TF-CADE: Foreground-Concentrated Text-Video Alignment for Zero-Shot Temporal Action Detection](https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_TF-CADE_Foreground-Concentrated_Text-Video_Alignment_for_Zero-Shot_Temporal_Action_Detection_CVPR_2026_paper.pdf) (CVPR 2026)
 6. [Denoise and Align: Diffusion-Driven Foreground Knowledge Prompting for Open-Vocabulary Temporal Action Detection](https://arxiv.org/abs/2604.18313) (SIGIR 2026)
+7. [TP^2-DETR: Unlocking Deformable DETR for Zero-Shot Temporal Action Proposal Generation with Temporal Feature Pyramids](https://openaccess.thecvf.com/content/CVPR2026F/html/Cheng_TP2-DETR_Unlocking_Deformable_DETR_for_Zero-Shot_Temporal_Action_Proposal_Generation_CVPRF_2026_paper.html) (CVPR Findings 2026) [code](https://github.com/kantippayamontri/TP2_DETR)
 
 ## 2025
 1. (zero-shot, FreeZAD) [Training-Free Zero-Shot Temporal Action Detection with Vision-Language Models](https://arxiv.org/abs/2501.13795) (arXiv 2025)
