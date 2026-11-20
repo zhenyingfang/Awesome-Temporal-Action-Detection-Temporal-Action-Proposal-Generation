@@ -122,6 +122,7 @@ Temporal Action Detection &amp; Weakly Supervised & Semi Supervised Temporal Act
 15. [CoDy: Codec Dynamics as Complementary Priors for Unsupervised Temporal Action Localization](https://arxiv.org/abs/2610.19880v1) (arXiv 2026)
 16. [Multi-Scale Latent Temporal Compression Attention and Video-Text Cross Attention Fusion for Video Action Detection](https://arxiv.org/abs/2610.29176) (MMM 2027)
 17. [Single-stage Temporal Action Detection with Coarse-to-Fine Auxiliary Supervision and asymmetric boundary prior](https://www.sciencedirect.com/science/article/pii/S0031320326021436) (PR 2026)
+18. [What Places an Action Boundary? Structure-Aware Attribution for Temporal Action Localization](https://arxiv.org/abs/2611.25815) (arXiv 2026)
 
 ## 2025
 
